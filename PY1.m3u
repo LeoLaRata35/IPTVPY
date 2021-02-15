@@ -1,6 +1,3 @@
-
-EXTM3U
- 
 #EXTINF:-1,RCN TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
@@ -13,13 +10,13 @@ https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209a
 #EXTINF:-4,TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-5,PARAVISI”N
+#EXTINF:-5,PARAVISI√ìN
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-6,MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
-#EXTINF:-7,VISI”N VILLARRICA
+#EXTINF:-7,VISI√ìN VILLARRICA
 http://inliveserver.com:1935/8312/8312/playlist.m3u8
 
 #EXTINF:-8,UNICANAL
@@ -67,13 +64,13 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 #EXTINF:-22,VAUDEVILLE TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-23,ESTACI”N CRISTAL TV
+#EXTINF:-23,ESTACI√ìN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
 #EXTINF:-24,FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-25,INTEGRACI”N TV
+#EXTINF:-25,INTEGRACI√ìN TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
 #EXTINF:-26,CHORE TV
@@ -85,13 +82,13 @@ http://nextplayparaguay.live/hls/canal10.m3u8
 #EXTINF:-28,UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-29,CABLEM¡S
+#EXTINF:-29,CABLEM√ÅS
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 
-#EXTINF:-2001,RADIO ASUNCI”N
+#EXTINF:-2001,RADIO ASUNCI√ìN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
 
-#EXTINF:-30,OVACI”N
+#EXTINF:-30,OVACI√ìN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
 #EXTINF:-31,REAL MADRID TV
@@ -103,7 +100,7 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-33,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-34,AM…RICA SPORTS
+#EXTINF:-34,AM√âRICA SPORTS
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613413753/ei/GWkqYK60HoPWxQTi94SYBw/ip/181.126.194.133/id/1SmKEIpmcLU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN9O6G715AJDJPJiN7GttuS_ltZh6aSaI6F7SvIHg6deAiB4Wig4UO_X9XfTQfTi2wo72pEwm0BposYUJqrbuRZ9RQ%3D%3D/file/index.m3u8
 
 #EXTINF:-35,MLB NETWORK
@@ -127,7 +124,7 @@ http://207.246.84.143:8080/hls/Kanade.m3u8
 #EXTINF:-53,PLUTO TV ANIME
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=02c02686-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-53,PLUTO TV ANIME ACCI”N
+#EXTINF:-53,PLUTO TV ANIME ACCI√ìN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=9aa7b802-f692-11ea-abc9-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-54,ANIME LOVING
@@ -145,7 +142,7 @@ https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
 
-#EXTINF:-59,PBS KIDS (InglÈs)
+#EXTINF:-59,PBS KIDS (Ingl√©s)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-60,PEQUERADIO TV
@@ -157,7 +154,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c50009
 #EXTINF:-61,PLUTO TV KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=22941a63-f69a-11ea-bfbf-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-62,BOOMERANG CL¡SICO
+#EXTINF:-62,BOOMERANG CL√ÅSICO
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
 
 #EXTINF:-62,NICK JR. CLUB
@@ -166,7 +163,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009
 #EXTINF:-63,DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
-#EXTINF:-64,NICK CL¡SICO
+#EXTINF:-64,NICK CL√ÅSICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=4432f29e-f694-11ea-b4f5-0242ac110002&userId=&serverSideAds=true
 
 #EXTINF:-64,PLANETA KIDS
@@ -181,7 +178,7 @@ http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATR
 #EXTINF:-70,RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
-#EXTINF:-71,PELÕCULAS MANÕA
+#EXTINF:-71,PEL√çCULAS MAN√çA
 http://lavozdetucuman.com/peliculas1.m3u8
 
 #EXTINF:-72,MI TV CINE
@@ -199,7 +196,7 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1675545244.m3u
 #EXTINF:-76,CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w541442211.m3u8
 
-#EXTINF:-77,M¡XIMA MOVIE
+#EXTINF:-77,M√ÅXIMA MOVIE
 http://server1.oklanet.cl:1935/maximamovie1/maximamovie1/chunklist_w1678649134.m3u8
 
 #EXTINF:-78,WMS HD
@@ -226,7 +223,7 @@ https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
 
-#EXTINF:-100,BELEVISI”N (Chile)
+#EXTINF:-100,BELEVISI√ìN (Chile)
 http://v2.tustreaming.cl/belevision/index.m3u8
 
 #EXTINF:-101,TVN (Chile)
@@ -253,10 +250,10 @@ http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
 #EXTINF:-121,TELESUR (Costa Rica)
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-122,TICAVISI”N (Costa Rica)
+#EXTINF:-122,TICAVISI√ìN (Costa Rica)
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-123,SARAPIQUÕ TV (Costa Rica)
+#EXTINF:-123,SARAPIQU√ç TV (Costa Rica)
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
 #EXTINF:-124,TELESISTEMA (Costa Rica)
@@ -274,7 +271,7 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 #EXTINF:-133,TELENORD 12 (Rep. Dom.)
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
 
-#EXTINF:-140,LOVE NATURE EN ESPA—OL
+#EXTINF:-140,LOVE NATURE EN ESPA√ëOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
 #EXTINF:-150,ENCUENTRO
@@ -289,7 +286,7 @@ http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
 #EXTINF:-169,PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
-#EXTINF:-170,LA VOZ DE MARÕA TV
+#EXTINF:-170,LA VOZ DE MAR√çA TV
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w567330199.m3u8
 
 #EXTINF:-171,EWTN
@@ -298,7 +295,7 @@ https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m
 #EXTINF:-172,LA SAGRADA FAMILIA TV
 https://5b474ed5ea4c8.streamlock.net/1691/1691/chunklist_w795822853.m3u8
 
-#EXTINF:-173,MARÕA VISI”N
+#EXTINF:-173,MAR√çA VISI√ìN
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
 #EXTINF:-174,ESNE TV
@@ -316,7 +313,7 @@ https://videohd.live:19360/8010/8010.m3u8
 #EXTINF:-202,CINCO TV (Arg.)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
 
-#EXTINF:-203,AM…RICA TV TUCUM¡N (Arg.)
+#EXTINF:-203,AM√âRICA TV TUCUM√ÅN (Arg.)
 http://45.6.4.154/americatuc/vivo.m3u8
 
 #EXTINF:-204,9 LINK RESISTENCIA (Arg.)
@@ -331,7 +328,7 @@ http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b18
 #EXTINF:-207,NET TV (Arg.)
 https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
 
-#EXTINF:-208,TV P⁄BLICA FUEGUINA (Arg.)
+#EXTINF:-208,TV P√öBLICA FUEGUINA (Arg.)
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
 #EXTINF:-209,CANAL 9 SANTA CRUZ (Arg.)
@@ -349,58 +346,58 @@ http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa64277
 #EXTINF:-213,CHACO TV (Arg.)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 
-#EXTINF:-214,CANAL 13 SAN LUÕS (Arg.)
+#EXTINF:-214,CANAL 13 SAN LU√çS (Arg.)
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
 
-#EXTINF:-215,CANAL 29 QUILMES VISI”N (Arg.)
+#EXTINF:-215,CANAL 29 QUILMES VISI√ìN (Arg.)
 http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
 
 #EXTINF:-216,CANAL 12 TARTAGAL (Arg.)
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
-#EXTINF:-217,LA VOZ DE TUCUM¡N (Arg.)
+#EXTINF:-217,LA VOZ DE TUCUM√ÅN (Arg.)
 http://lavozdetucuman.com/lavozdetucumantv.m3u8
 
 #EXTINF:-218,CANAL 7 JUJUY (Arg.)
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-219,CANAL 9 RÕO CUARTO (Arg.)
+#EXTINF:-219,CANAL 9 R√çO CUARTO (Arg.)
 https://streamcasthd.com:1936/canal9riocuartotv/smil:canal9riocuartotv.smil/playlist.m3u8
 
-#EXTINF:-220,CANAL 5 SANTA F… (Arg.)
+#EXTINF:-220,CANAL 5 SANTA F√â (Arg.)
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-221,CANAL 5 SANTA F… 2 (Arg.)
+#EXTINF:-221,CANAL 5 SANTA F√â 2 (Arg.)
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 
-#EXTINF:-222,ARGENTINÕSIMA SATELITAL
+#EXTINF:-222,ARGENTIN√çSIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
 
-#EXTINF:-223,TELEF… CL¡SICO (Arg.)
+#EXTINF:-223,TELEF√â CL√ÅSICO (Arg.)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 
-#EXTINF:-223,TELEF… SALTA (Arg.)
+#EXTINF:-223,TELEF√â SALTA (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1613306673~exp=1613483073~acl=/i/canal11salta_1@722934/*~hmac=99ef1d3a216b1d3e8a6ccdf07b411974c7497585865acdd26a52dd6eb7c5a6f5
 
-#EXTINF:-224,TELEF… NEUQU…N (Arg.)
+#EXTINF:-224,TELEF√â NEUQU√âN (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1613307593~exp=1613483993~acl=/i/canal7neuquen_1@751158/*~hmac=fb2d9ade2b69270f2215b5f78ac22940927b2809904d1ac152cbfd23455a462f
 
-#EXTINF:-225,TELEF… TUCUM¡N (Arg.)
+#EXTINF:-225,TELEF√â TUCUM√ÅN (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1613307609~exp=1613484009~acl=/i/canal8tucuman_1@787002/*~hmac=556c73bf2528a0608b498e10a2ae6a15e3a61d4fb2aa8601391a3252f2f56ac5
 
-#EXTINF:-226,TELEF… MAR DEL PLATA (Arg.)
+#EXTINF:-226,TELEF√â MAR DEL PLATA (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1613307982~exp=1613484382~acl=/i/mdqdistri02_1@829747/*~hmac=8f036ea91315d6418d0c5cb1f542f5598f79b8a4fbc41f9219d6f6094b9db856
 
-#EXTINF:-227,TELEF… BAHÕA BLANCA (Arg.)
+#EXTINF:-227,TELEF√â BAH√çA BLANCA (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1613262000~exp=1613438400~acl=/I/canal9bahiablanca_1@685725/*~hmac=56958252bb1bd6d315e05b8b82d487bfe11fad76320b94183a37b02ab7cb1593
 
-#EXTINF:-227,TELEF… C”RDOBA (Arg.)
+#EXTINF:-227,TELEF√â C√ìRDOBA (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1613307851~exp=1613484251~acl=/i/canal8cordoba_1@685726/*~hmac=d33e1bf653f09854fad86067a26f02503db07fb159bfa1f44593efe91ec0056b
 
-#EXTINF:-228,TELEF… SANTA F… (Arg.)
+#EXTINF:-228,TELEF√â SANTA F√â (Arg.)
 https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613307641~exp=1613484041~acl=/i/canal13santafe_1@751190/*~hmac=d90fdac45875c4c380a8e9153a34cfd9d91a81e45130c5c7bd41c6d503bc5b12
 
-#EXTINF:-229,TELEF… ROSARIO (Arg.)
+#EXTINF:-229,TELEF√â ROSARIO (Arg.)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
 #EXTINF:-230,CANAL 3 FORMOSA (Arg.)
@@ -409,7 +406,7 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
 #EXTINF:-240,READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-#EXTINF:-250,C”RDOBA TV
+#EXTINF:-250,C√ìRDOBA TV
 https://5b38ce71f1f00.streamlock.net/8376/8376/chunklist_w128615180.m3u8
 
 #EXTINF:-270,26 TV
@@ -427,13 +424,13 @@ https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.
 #EXTINF:-291,TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-292,RT EN ESPA—OL
+#EXTINF:-292,RT EN ESPA√ëOL
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-293,FRANCE 24 EN ESPA—OL
+#EXTINF:-293,FRANCE 24 EN ESPA√ëOL
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-294,EURONEWS EN ESPA—OL
+#EXTINF:-294,EURONEWS EN ESPA√ëOL
 https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1612384548/ei/xLQaYLnZHKSC-LAP89iS-Ao/ip/181.126.194.133/id/JbKgQhFlMdU.2/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRAIgcQLNtKcGY0xiVMY7ygd-w9I8x-CAJsyFjocv5vbWeS4CIHAAK6rBgmQgC8s5GTyNig8Wkyip6RGlSujcyHQN2iW0/file/index.m3u8
 
 #EXTINF:-295,TVE 24H
@@ -445,7 +442,7 @@ http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_51
 #EXTINF:-297,ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
-#EXTINF:-300,CGTN ESPA—OL
+#EXTINF:-300,CGTN ESPA√ëOL
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-301,DW
@@ -454,7 +451,7 @@ http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 #EXTINF:-302,TV GALICIA
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
-#EXTINF:-302,TV GALICIA AM…RICA
+#EXTINF:-302,TV GALICIA AM√âRICA
 http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 
 #EXTINF:-303,EITB BASQUE
@@ -484,7 +481,7 @@ http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
 #EXTINF:-403,MELODY CHANNEL
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunklist_b1398304.m3u8
 
-#EXTINF:-404,TELEM⁄SICA
+#EXTINF:-404,TELEM√öSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
 
 #EXTINF:-405,RETRO PLUS TV 1
@@ -535,7 +532,7 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-422,ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
 
-#EXTINF:-423,M¡XIMA FM
+#EXTINF:-423,M√ÅXIMA FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
 
 #EXTINF:-424,VIDEO TOUR CHANNEL
@@ -556,16 +553,16 @@ https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 #EXTINF:-429,EUROLATINA
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
-#EXTINF:-430,M¡S CUMBIA TV
+#EXTINF:-430,M√ÅS CUMBIA TV
 https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 
 #EXTINF:-431,TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
 
-#EXTINF:-432,”RBITA TV
+#EXTINF:-432,√ìRBITA TV
 https://5dcabf026b188.streamlock.net/orbitatv/livestream/chunklist.m3u8
 
-#EXTINF:-433,TV+…XITOS
+#EXTINF:-433,TV+√âXITOS
 http://siglo21.dnsalias.com:8080/mylive/tvexitos/tracks-v1a1/mono.m3u8
 
 #EXTINF:-434,VIDEOROLA
