@@ -137,6 +137,12 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-56,LOS SIMPSONS 2
 https://lavozdetucuman.com/simpsons.m3u8
 
+#EXTINF:-56,FUTURAMA
+https://m3u-editor.com/serve/rokumaniatest/156476844
+
+#EXTINF:-56,SOUTH PARK
+https://m3u-editor.com/serve/rokumaniatest/156476846
+
 #EXTINF:-57,REAL MONSTERS
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
 
