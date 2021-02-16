@@ -126,6 +126,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c
 #EXTINF:-36,PRO WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-36,BELLATOR MMA
+http://mags.vip:2086/live/jav/jav123/99327.ts?checkedby:iptvcat.com
+
 #EXTINF:-50,CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
 
@@ -146,6 +149,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007
 
 #EXTINF:-54,ANIME LOVING
 http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-54,ANIMAX ASIA (Filipino)
+http://mags.vip:2086/live/jav/jav123/93232.ts?checkedby:iptvcat.com
 
 #EXTINF:-55,LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
