@@ -102,14 +102,17 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-33,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-34,AMÉRICA SPORTS
-https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1613413753/ei/GWkqYK60HoPWxQTi94SYBw/ip/181.126.194.133/id/1SmKEIpmcLU.1/source/yt_live_broadcast/requiressl/yes/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/vprv/1/go/1/nvgoi/1/keepalive/yes/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AOq0QJ8wRQIhAN9O6G715AJDJPJiN7GttuS_ltZh6aSaI6F7SvIHg6deAiB4Wig4UO_X9XfTQfTi2wo72pEwm0BposYUJqrbuRZ9RQ%3D%3D/file/index.m3u8
-
 #EXTINF:-35,MLB NETWORK
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
 #EXTINF:-36,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
+
+#EXTINF:-36,BEIN SPORTS XTRA
+http://mags.vip:2086/live/jav/jav123/98550.ts?checkedby:iptvcat.net
+
+#EXTINF:-36,IMPACT WRESTLING
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=740&deviceId=5df975e2b27cf5000921c102&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-50,CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
@@ -174,11 +177,17 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-62,NICK JR. CLUB
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=72248580-7472-4c29-8390-ceecba3952c3&userId=&serverSideAds=true
 
+#EXTINF:-62,NICK JR. LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
+
 #EXTINF:-63,DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
 
 #EXTINF:-64,NICK CLÁSICO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=cb454f6a-57fe-44d0-a643-47d6a877a025&userId=&serverSideAds=true
+
+#EXTINF:-64,NICK LATINO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-64,PLANETA KIDS
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -408,27 +417,6 @@ http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w135344
 #EXTINF:-223,TELEFÉ CLÁSICO (Arg.)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=5.2.4-1efe6efd2b014a3e84fe7ff6f89942eb7c94049f&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=a9c516a2-cd13-4321-a812-3ab72b0db482&deviceLat=-33.0728&deviceLon=-68.4627&deviceMake=Chrome%20Mobile&deviceModel=Chrome%20Mobile&deviceType=web&deviceVersion=80.0.3987.162&includeExtendedEvents=false&sid=38279f58-67e9-4189-874f-bc6305cd9296&userId=&serverSideAds=true
 
-#EXTINF:-223,TELEFÉ SALTA (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/canal11salta_1@722934/master.m3u8?hdnea=st=1613306673~exp=1613483073~acl=/i/canal11salta_1@722934/*~hmac=99ef1d3a216b1d3e8a6ccdf07b411974c7497585865acdd26a52dd6eb7c5a6f5
-
-#EXTINF:-224,TELEFÉ NEUQUÉN (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/canal7neuquen_1@751158/master.m3u8?hdnea=st=1613307593~exp=1613483993~acl=/i/canal7neuquen_1@751158/*~hmac=fb2d9ade2b69270f2215b5f78ac22940927b2809904d1ac152cbfd23455a462f
-
-#EXTINF:-225,TELEFÉ TUCUMÁN (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8tucuman_1@787002/master.m3u8?hdnea=st=1613307609~exp=1613484009~acl=/i/canal8tucuman_1@787002/*~hmac=556c73bf2528a0608b498e10a2ae6a15e3a61d4fb2aa8601391a3252f2f56ac5
-
-#EXTINF:-226,TELEFÉ MAR DEL PLATA (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/mdqdistri02_1@829747/master.m3u8?hdnea=st=1613307982~exp=1613484382~acl=/i/mdqdistri02_1@829747/*~hmac=8f036ea91315d6418d0c5cb1f542f5598f79b8a4fbc41f9219d6f6094b9db856
-
-#EXTINF:-227,TELEFÉ BAHÍA BLANCA (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/I/canal9bahiablanca_1@685725/master.m3u8?hdnea=st=1613262000~exp=1613438400~acl=/I/canal9bahiablanca_1@685725/*~hmac=56958252bb1bd6d315e05b8b82d487bfe11fad76320b94183a37b02ab7cb1593
-
-#EXTINF:-227,TELEFÉ CÓRDOBA (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/canal8cordoba_1@685726/master.m3u8?hdnea=st=1613307851~exp=1613484251~acl=/i/canal8cordoba_1@685726/*~hmac=d33e1bf653f09854fad86067a26f02503db07fb159bfa1f44593efe91ec0056b
-
-#EXTINF:-228,TELEFÉ SANTA FÉ (Arg.)
-https://tlfcapitalhls-lh.akamaihd.net/i/canal13santafe_1@751190/master.m3u8?hdnea=st=1613307641~exp=1613484041~acl=/i/canal13santafe_1@751190/*~hmac=d90fdac45875c4c380a8e9153a34cfd9d91a81e45130c5c7bd41c6d503bc5b12
-
 #EXTINF:-229,TELEFÉ ROSARIO (Arg.)
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
@@ -503,6 +491,9 @@ https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d56
 
 #EXTINF:-342,FOX NEWS
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
+
+#EXTINF:-342,CNN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
 #EXTINF:-400,PORTAL FOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
