@@ -135,11 +135,11 @@ https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
 #EXTINF:-51,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
-#EXTINF:-52,LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
 #EXTINF:-52,TATETI
 http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
+
+#EXTINF:-52,LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-53,KANADE TV
 http://207.246.84.143:8080/hls/Kanade.m3u8
