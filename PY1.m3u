@@ -138,8 +138,8 @@ https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
 #EXTINF:-51,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
-#EXTINF:-52,TATETI
-http://nano.zappingtv.com:1935/tateti/tvmas.smil/chunklist_b3628000_sles.m3u8
+#EXTINF:-52,TOONCAST
+http://mags.vip:2086/live/avila/avila/92482.ts
 
 #EXTINF:-52,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -251,6 +251,12 @@ http://mags.vip:2086/live/avila/avila/92602.ts
 
 #EXTINF:-64,CINE FAMILIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=9d7f9a45-a188-4a6e-b3dc-3a302d34def7&userId=&serverSideAds=true
+
+#EXTINF:-64,HBO FAMILY
+http://mags.vip:2086/live/avila/avila/88767.ts
+
+#EXTINF:-64,FOX PREMIUM FAMILY
+http://mags.vip:2086/live/avila/avila/98785.ts
 
 #EXTINF:-64,PLUTO TV SERIES RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
