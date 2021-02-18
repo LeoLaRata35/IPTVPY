@@ -159,6 +159,9 @@ http://animeloving.net/hls/stream.m3u8
 #EXTINF:-54,ANIMAX ASIA (Filipino)
 http://mags.vip:2086/live/jav/jav123/93232.ts?checkedby:iptvcat.com
 
+#EXTINF:-54,CONTV ANIME (Inglés)
+http://mags.vip:2086/live/avila/avila/99696.ts
+
 #EXTINF:-55,LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
@@ -185,6 +188,9 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130
 
 #EXTINF:-59,PBS KIDS (Inglés)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-59,CARTOONITO (Inglés)
+http://mags.vip:2086/live/avila/avila/15395.ts
 
 #EXTINF:-60,PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
