@@ -357,6 +357,12 @@ https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m
 #EXTINF:-152,VIAJAR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
 
+#EXTINF:-152,NASA TV PUBLIC
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+
+#EXTINF:-152,NASA TV MEDIA
+https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
+
 #EXTINF:-169,PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
