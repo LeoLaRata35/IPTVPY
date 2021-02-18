@@ -204,14 +204,14 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8
 #EXTINF:-62,BOOMERANG ORIGINAL
 http://mags.vip:2086/live/avila/avila/92619.ts
 
+#EXTINF:-62,NICK JR.
+http://mags.vip:2086/live/avila/avila/88800.ts
+
 #EXTINF:-62,NICK JR. CLUB
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=72248580-7472-4c29-8390-ceecba3952c3&userId=&serverSideAds=true
 
 #EXTINF:-62,NICK JR. LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=998&deviceId=5d8d0ec7b0f7015fbe0a3bf7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-
-#EXTINF:-62,NICK JR. LATINO
-http://mags.vip:2086/live/avila/avila/88800.ts
 
 #EXTINF:-63,DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
