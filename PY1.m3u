@@ -276,8 +276,20 @@ http://mags.vip:2086/live/avila/avila/88767.ts
 #EXTINF:-64,FOX PREMIUM FAMILY
 http://mags.vip:2086/live/avila/avila/98785.ts
 
+#EXTINF:-64,FOX PREMIUM ACTION
+http://mags.vip:2086/live/avila/avila/88737.ts
+
+#EXTINF:-64,FOX PREMIUM MOVIES
+http://mags.vip:2086/live/avila/avila/88740.ts
+
+#EXTINF:-64,FOX PREMIUM SERIES
+http://mags.vip:2086/live/avila/avila/88736.ts
+
 #EXTINF:-64,PLUTO TV SERIES RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
+
+#EXTINF:-64,FOX CHANNEL
+http://mags.vip:2086/live/avila/avila/98784.ts
 
 #EXTINF:-64,A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
