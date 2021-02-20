@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzNzg5NDk0LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiZjFmZmQwZTNhMzhlZTQ1ODU2YTA4YzNlNjVmNTBkYzExNjI2OGVlNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjEzODc3MTk5LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNzhmNmMwZjI1MzRhNzY4N2NiNjg4NjM4OTIwZjc2Yzk2N2Q2ZTcyZiJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -231,6 +231,9 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-64,NICK LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-64,TEEN NICK
+http://mags.vip:2086/live/avila/avila/92549.ts
+
 #EXTINF:-64,NICK ESPAÑA
 http://mags.vip:2086/live/avila/avila/88796.ts
 
@@ -238,7 +241,7 @@ http://mags.vip:2086/live/avila/avila/88796.ts
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-64,CARTOON NETWORK
-http://mags.vip:2086/live/avila/avila/88692.ts
+http://mags.vip:2086/live/avila/avila/98775.ts
 
 #EXTINF:-64,DISNEY CHANNEL
 http://mags.vip:2086/live/avila/avila/92597.ts
@@ -248,6 +251,12 @@ http://mags.vip:2086/live/avila/avila/88720.ts
 
 #EXTINF:-64,DISNEY XD
 http://mags.vip:2086/live/avila/avila/98778.ts
+
+#EXTINF:-64,DISNEY JUNIOR
+http://mags.vip:2086/live/avila/avila/88721.ts
+
+#EXTINF:-64,DISNEY JUNIOR MÉXICO
+http://mags.vip:2086/live/avila/avila/92596.ts
 
 #EXTINF:-64,ZOOMOO
 http://mags.vip:2086/live/avila/avila/66612.ts
