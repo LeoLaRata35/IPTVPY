@@ -105,9 +105,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009
 #EXTINF:-33,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-33,FOX SPORTS PREMIUM
-http://mags.vip:2086/live/avila/avila/92581.ts
-
 #EXTINF:-33,PLUTO TV DEPORTES
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=5.4.0-03751b61882e52dadae8597d2215c0142b039e02&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=8fe3bee1-703e-4fde-bb09-b8acf9d276fe&deviceLat=-12.0464&deviceLon=-77.0428&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=83.0.4103.97&includeExtendedEvents=false&marketingRegion=VE&sid=1fee75b8-72ff-4369-b9ed-84c17cb734c2&userId=&serverSideAds=true
 
@@ -141,9 +138,6 @@ https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
 #EXTINF:-51,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
-#EXTINF:-52,TOONCAST
-http://mags.vip:2086/live/avila/avila/92482.ts
-
 #EXTINF:-52,LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -161,9 +155,6 @@ http://animeloving.net/hls/stream.m3u8
 
 #EXTINF:-54,ANIMAX ASIA (Filipino)
 http://mags.vip:2086/live/jav/jav123/93232.ts?checkedby:iptvcat.com
-
-#EXTINF:-54,CONTV ANIME (Inglés)
-http://mags.vip:2086/live/avila/avila/99696.ts
 
 #EXTINF:-55,LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
@@ -192,9 +183,6 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130
 #EXTINF:-59,PBS KIDS (Inglés)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
-#EXTINF:-59,CARTOONITO (Inglés)
-http://mags.vip:2086/live/avila/avila/15395.ts
-
 #EXTINF:-60,PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
@@ -204,20 +192,11 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c50009
 #EXTINF:-61,BABYFIRST
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078b23bc/master.m3u8?advertisingId=&appName=web&appVersion=5.7.5-0b1674b626f5e5adc1f2b1d12b068e89a950fdf7&architecture=&buildVersion=&clientTime=&deviceDNT=false&deviceId=37c48206-1366-4672-9edf-577b06b7ce4f&deviceLat=-32.8833&deviceLon=-68.8167&deviceMake=Android%2BBrowser&deviceModel=Android%2BBrowser&deviceType=web&deviceVersion=4.0&includeExtendedEvents=false&marketingRegion=VE&sid=a65bdf35-f699-11ea-b899-0242ac110002&userId=&serverSideAds=true
 
-#EXTINF:-61,BABYFIRST ORIGINAL
-http://mags.vip:2086/live/avila/avila/92622.ts
-
 #EXTINF:-61,PLUTO TV KIDS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d4914a1d-7e84-4d3c-8c45-d8ec9a63252b&userId=&serverSideAds=true
 
 #EXTINF:-62,BOOMERANG CLÁSICO
 http://8.9.4.128:8080/hls/boomerangtv.m3u8
-
-#EXTINF:-62,BOOMERANG ORIGINAL
-http://mags.vip:2086/live/avila/avila/92619.ts
-
-#EXTINF:-62,NICK JR.
-http://mags.vip:2086/live/avila/avila/88800.ts
 
 #EXTINF:-62,NICK JR. CLUB
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=72248580-7472-4c29-8390-ceecba3952c3&userId=&serverSideAds=true
@@ -234,62 +213,14 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009
 #EXTINF:-64,NICK LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=997&deviceId=5d8d08395f39465da6fb3ec4&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-64,TEEN NICK
-http://mags.vip:2086/live/avila/avila/92549.ts
-
-#EXTINF:-64,NICK ESPAÑA
-http://mags.vip:2086/live/avila/avila/88796.ts
-
 #EXTINF:-64,PLANETA KIDS
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-64,CARTOON NETWORK
-http://mags.vip:2086/live/avila/avila/98775.ts
-
-#EXTINF:-64,DISNEY CHANNEL
-http://mags.vip:2086/live/avila/avila/92597.ts
-
-#EXTINF:-64,DISNEY CHANNEL ESPAÑA
-http://mags.vip:2086/live/avila/avila/88720.ts
-
-#EXTINF:-64,DISNEY XD
-http://mags.vip:2086/live/avila/avila/98778.ts
-
-#EXTINF:-64,DISNEY JUNIOR
-http://mags.vip:2086/live/avila/avila/88721.ts
-
-#EXTINF:-64,DISNEY JUNIOR MÉXICO
-http://mags.vip:2086/live/avila/avila/92596.ts
-
-#EXTINF:-64,ZOOMOO
-http://mags.vip:2086/live/avila/avila/66612.ts
-
-#EXTINF:-64,DISCOVERY KIDS
-http://mags.vip:2086/live/avila/avila/92602.ts
 
 #EXTINF:-64,CINE FAMILIA
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=9d7f9a45-a188-4a6e-b3dc-3a302d34def7&userId=&serverSideAds=true
 
-#EXTINF:-64,HBO FAMILY
-http://mags.vip:2086/live/avila/avila/88767.ts
-
-#EXTINF:-64,FOX PREMIUM FAMILY
-http://mags.vip:2086/live/avila/avila/98785.ts
-
-#EXTINF:-64,FOX PREMIUM ACTION
-http://mags.vip:2086/live/avila/avila/88737.ts
-
-#EXTINF:-64,FOX PREMIUM MOVIES
-http://mags.vip:2086/live/avila/avila/88740.ts
-
-#EXTINF:-64,FOX PREMIUM SERIES
-http://mags.vip:2086/live/avila/avila/88736.ts
-
 #EXTINF:-64,PLUTO TV SERIES RETRO
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d58eeaee-46d5-4edb-b70d-aca926769183&userId=&serverSideAds=true
-
-#EXTINF:-64,FOX CHANNEL
-http://mags.vip:2086/live/avila/avila/98784.ts
 
 #EXTINF:-64,A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -614,6 +545,12 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 
 #EXTINF:-407,REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
+
+#EXTINF:-407,80'S LOOP
+https://54d4596f49b947b987be6175b1a7a3f7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_plex/0a3255a5-e315-46e6-b8cb-4b9bce25cc11/0.m3u8
+
+#EXTINF:-407,90'S LOOP
+https://526cbf93692f48879c403ab8c1350e2a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_plex/5846b7b3-d46f-4652-8acb-e581996de641/0.m3u8
 
 #EXTINF:-409,MIX 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
