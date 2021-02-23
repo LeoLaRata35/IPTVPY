@@ -609,6 +609,36 @@ https://fc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-407,LOOP ELECTRONICA
 https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/863f2f66-5942-4e33-b1ba-bc1852b007f2/0.m3u8
 
+#EXTINF:-407,LOOP BEAST
+https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/ee523a3a-121c-477c-99ad-b1d155f6cce0/0.m3u8
+
+#EXTINF:-407,LOOP TEXAS TUNES
+https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/74fcffcf-b3eb-47dc-b338-9e6a38241a8d/0.m3u8
+
+#EXTINF:-407,LOOP TEXAS LATIN
+https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/d8b80fed-abff-473f-8ffa-58bff2c16891/0.m3u8
+
+#EXTINF:-407,LOOP BEDROM
+https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/7c4643bb-600c-49fe-9b6f-56cf304e5ac4/0.m3u8
+
+#EXTINF:-407,LOOP R&B
+https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/c09c8cd5-96fe-4ddb-a14c-ad076be152cc/0.m3u8
+
+#EXTINF:-407,LOOP ALT+
+https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/20480ac8-e570-4d9b-8579-6f2a78ee5a0d/0.m3u8
+
+#EXTINF:-407,LOOP TGIF
+https://6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_loop/736a479d-eb75-43c4-8407-04269664cad7/0.m3u8
+
+#EXTINF:-407,LOOP HIP HOP
+https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/7502da2b-1cce-4a25-b167-e0ed1192b58f/0.m3u8
+
+#EXTINF:-407,LOOP TRENDING
+https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/c5e6c3ac-1b6d-4397-9a7c-8b889b09e4c8/0.m3u8
+
+#EXTINF:-407,LOOP HOTTEST
+https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/1d364009-e579-4fa4-9f7e-05c08d81f276/0.m3u8
+
 #EXTINF:-417,MUSIC TOP
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1132959303_b2028000_sleng.m3u8
 
