@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0MjI0MTEwLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiY2NjMzM4ZDYzMDk3MTg2OWQ4MWQ0ZjA5MjNjYzQ0YTc5N2E2ZTcxNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0MzA3MzI0LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiODkzYzU4OTFlMDg4OTIwMWU0NmRjODIxNGVkZTRjOGZjZTE0YmQ2ZCJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -186,6 +186,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c
 #EXTINF:-57,REAL MONSTERS
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
 
+#EXTINF:-57,KENAN & KEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fcea93ffcf94500071c4b2f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff4bb60-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7bb7672d-32f3-4e6a-9ff0-3e2488d68da1&userId=&serverSideAds=true
+
+#EXTINF:-57,BIG TIME RUSH (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
+
 #EXTINF:-57,RUGRATS CRECIDOS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=77eecfd8-e31f-4f76-8c76-40f8cfe0d86a&userId=&serverSideAds=true
 
@@ -232,7 +238,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d800078
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=d4914a1d-7e84-4d3c-8c45-d8ec9a63252b&userId=&serverSideAds=true
 
 #EXTINF:-61,PLUTO TV KIDS (España)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aab1d29b39600073e243f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9080-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=58b4cae5-77ff-4f00-94f4-d95357ebbead&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+
+#EXTINF:-61,PLUTO TV KIDS + (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
 
 #EXTINF:-61,ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
@@ -277,10 +286,22 @@ http://lavozdetucuman.com/peliculas1.m3u8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde437229eff00091b6c30/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f2c03fa6-1afa-4ede-bf97-406268e3a7d1&userId=&serverSideAds=true
 
 #EXTINF:-71,CINE ACCIÓN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=abdd34d3-6190-462d-bd1f-48aed69e4db2&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f36881/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bfef8b40-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=787d09fb-c219-46d0-b022-07fb4d7f7395&userId=&serverSideAds=true
+
+#EXTINF:-71,CINE ACCIÓN 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804192-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d0b46a48-3e72-4c90-a658-826f98daa8a9&userId=&serverSideAds=true
+
+#EXTINF:-71,CINE ACCIÓN (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 
 #EXTINF:-71,ESTRELLAS DE ACCIÓN
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=5.5.1-47ae969efab27ec552faf45ab4c7e4c6a50ac344&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=59b58dcc-9f45-4b92-a6de-0b69e510fb0f&deviceLat=-33.0081&deviceLon=-71.5197&deviceMake=Safari&deviceModel=Safari&deviceType=web&deviceVersion=13.1.2&includeExtendedEvents=false&marketingRegion=VE&sid=f9e0d0ac-61fc-4579-a196-4660c4385888&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
+
+#EXTINF:-71,SCI-FI
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
+
+#EXTINF:-71,SCI-FI (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
 #EXTINF:-72,MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
@@ -592,16 +613,28 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chun
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
 
 #EXTINF:-407,VEVO 70'S
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 
 #EXTINF:-407,VEVO 80'S
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7b8bf927e090007685853/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=43501a2e-2968-4f0a-9974-5f5683f1f0db&userId=&serverSideAds=true
 
 #EXTINF:-407,VEVO 90'S
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bb1f86d94a000796e2c2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8aa1d2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=350f636b-2a16-48a8-9dfd-208857d4c1a7&userId=&serverSideAds=true
 
 #EXTINF:-407,VEVO 2K
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=androidmobile&appVersion=5.2.2&architecture=mobile&buildVersion=0&clientTime=&deviceDNT=0&deviceId=0&deviceLat=43.2298&deviceLon=-7.5825&deviceMake=0&deviceModel=0&deviceType=0&deviceVersion=0&marketingRegion=ES&sid=1234567890&serverSideAds=false
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fd7bca3e0a4ee0007a38e8c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8b6520-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=085b69d0-8c20-45f3-b57d-7845972596d9&userId=&serverSideAds=true
+
+#EXTINF:-407,VEVO POP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b635b43dd1a399b39eee/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f01ebfed-7ad5-4d03-b1ca-023870fcb436&userId=&serverSideAds=true
+
+#EXTINF:-407,VEVO R&B
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d83f66c9700009b96d0e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c80b6c0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6bc0815e-fe9a-464b-9d20-af824e8dcdc5&userId=&serverSideAds=true
+
+#EXTINF:-407,VEVO COUNTRY
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d75e84830900098a1ea0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c808fb2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7f46d76-39c5-4794-883c-4d22a9c41fde&userId=&serverSideAds=true
+
+#EXTINF:-407,VEVO REGGAETÓN & TRAP
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b750007706448/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868322-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fc027a03-e512-45db-98af-879f6889407f&userId=&serverSideAds=true
 
 #EXTINF:-409,MIX 24-7
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
