@@ -45,6 +45,9 @@ https://live-ak.vimeocdn.com/exp=1614454476~acl=%2F2aa23908-02ef-492b-8a37-36c2e
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
 
+#EXTINF:-15,ÑANDUTÍ TV
+https://cdn3.wowza.com/1/U0xCd1RZUGM5cDQ1/NkhSRzB6/hls/live/playlist.m3u8
+
 #EXTINF:-17,GEN
 http://daleplay.biz:8080/live/maite/maite/1062.m3u8
 
@@ -68,6 +71,9 @@ http://nextplayparaguay.live/hls/canal10.m3u8
 
 #EXTINF:-28,UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
+
+#EXTINF:-28,FIERA TV
+https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
 #EXTINF:-29,CABLEMÁS
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
