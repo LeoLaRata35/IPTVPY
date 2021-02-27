@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1614443467~acl=%2F2aa23908-02ef-492b-8a37-36c2efe10aee%2F%2A~hmac=82f10eaa954d1edfb9e23a97b7a91b11f5c3913abcee6d175cd4ebed50003062/2aa23908-02ef-492b-8a37-36c2efe10aee/chunklist_b416000.m3u8
+https://live-ak.vimeocdn.com/exp=1614454476~acl=%2F2aa23908-02ef-492b-8a37-36c2efe10aee%2F%2A~hmac=8004d78634b3d7fc3a46abb350d9727b598eee39bf8eb0aa5988ccd179c80c94/2aa23908-02ef-492b-8a37-36c2efe10aee/chunklist_b416000.m3u8
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -62,6 +62,9 @@ https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
 #EXTINF:-23,ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
+
+#EXTINF:-27,GCV CANAL 10 GUAJAYVI
+http://nextplayparaguay.live/hls/canal10.m3u8
 
 #EXTINF:-28,UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
