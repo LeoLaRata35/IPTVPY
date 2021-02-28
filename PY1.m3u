@@ -81,8 +81,14 @@ https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 #EXTINF:-2001,RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
 
+#EXTINF:-2001,ESPN
+https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
+
 #EXTINF:-2001,ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+
+#EXTINF:-2001,FOX SPORTS PREMIUM
+http://uruguayiptv.com:25461/marchettiandrea/7D0OHtiZEP/79961
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -269,6 +275,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d
 
 #EXTINF:-61,PLUTO TV KIDS + (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
+
+#EXTINF:-62,NICK
+http://balancer1.ottmex.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
 
 #EXTINF:-62,NICK JR. CLUB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
