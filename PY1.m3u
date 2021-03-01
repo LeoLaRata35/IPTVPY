@@ -69,6 +69,9 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-27,GCV CANAL 10 GUAJAYVI
 http://nextplayparaguay.live/hls/canal10.m3u8
 
+#EXTINF:-27,UNIRADIO TV
+https://59ce1298bfb98.streamlock.net/uniradiotv/uniradiotv/chunklist_w1422960308.m3u8
+
 #EXTINF:-28,UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
