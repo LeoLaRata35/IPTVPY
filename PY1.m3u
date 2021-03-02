@@ -292,7 +292,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d
 #EXTINF:-61,PLUTO TV KIDS + (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d24fb8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4cb362-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=afa8239d-eea1-4295-b421-43f3852ddc10&userId=&serverSideAds=true
 
-#EXTINF:-62,NICK JR.
+#EXTINF:-61,NICK JR.
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/335
 
 #EXTINF:-62,NICK JR. CLUB
@@ -318,6 +318,18 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076
 
 #EXTINF:-61,CARTOON NETWORK
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/274
+
+#EXTINF:-61,BOOMERANG
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/267
+
+#EXTINF:-61,DISNEY CHANNEL
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/287
+
+#EXTINF:-61,DISNEY JUNIOR
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/288
+
+#EXTINF:-61,DISNEY XD
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/289
 
 #EXTINF:-63,DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
