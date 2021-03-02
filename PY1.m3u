@@ -84,11 +84,11 @@ https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 #EXTINF:-2001,RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
 
-#EXTINF:-2001,ESPN
-https://sv.tsnt.xyz/espn/espn1o_sur.m3u8
-
 #EXTINF:-2001,ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+
+#EXTINF:-2001,ESPN 3
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/293
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -101,9 +101,6 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
 #EXTINF:-32,PLUTO TV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
-
-#EXTINF:-32,DISCOVERY TURBO
-http://balancer1.ottmex.com:8081/tecno/DISCOVERYTURBO.Tecnobyte/chunks.m3u8
 
 #EXTINF:-33,DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
@@ -186,9 +183,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 #EXTINF:-54,ANIME LOVING
 http://animeloving.net/hls/stream.m3u8
 
-#EXTINF:-54,ANIMAX ASIA (Filipino)
-http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
-
 #EXTINF:-54,CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
@@ -267,6 +261,9 @@ https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130
 #EXTINF:-58,EL CHAVO 2
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/30
 
+#EXTINF:-58,EL CHAPULÍN COLORADO
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/29
+
 #EXTINF:-58,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
@@ -300,14 +297,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d
 #EXTINF:-61,ACTION KIDS (España)
 https://stitcher.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
 
+#EXTINF:-62,NICK JR.
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/335
+
 #EXTINF:-62,NICK JR. CLUB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
 
 #EXTINF:-62,NICK JR. LATINO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0ec7b0f7015fbe0a3bf7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff372-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=508efa49-44d3-42fd-8d4d-75f10b4e7cc7&userId=&serverSideAds=true
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d
 
 #EXTINF:-62,NICK
-http://balancer1.ottmex.com:8081/tecno/Nick.TecnoByte/chunks.m3u8
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/335
 
 #EXTINF:-64,NICK CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c347e2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18711-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8d15965-7824-4eee-a6c8-345e488692b7&userId=&serverSideAds=true
@@ -320,6 +320,9 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-61,ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
+
+#EXTINF:-61,DISCOVERY KIDS
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/285
 
 #EXTINF:-61,CARTOON NETWORK
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/274
@@ -338,6 +341,9 @@ http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/288
 
 #EXTINF:-61,DISNEY XD
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/289
+
+#EXTINF:-61,ONCE NIÑOS
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/339
 
 #EXTINF:-63,DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
@@ -361,37 +367,43 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
 #EXTINF:-64,SPACE
-http://balancer1.ottmex.com:8081/tecno/Space.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,GOLDEN PREMIERE
-http://balancer1.ottmex.com:8081/tecno/GoldenPremier.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,TNT
-http://balancer1.ottmex.com:8081/tecno/Tnt.TecnoByte/chunks.m3u8
-
-#EXTINF:-64,HBO
-http://balancer1.ottmex.com:8081/tecno/HBO.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,HBO 2
-http://balancer1.ottmex.com:8081/tecno/Hbo2.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,HBO FAMILY
-http://balancer1.ottmex.com:8081/tecno/HboFamily.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,HBO PLUS
-http://balancer1.ottmex.com:8081/tecno/HboPlus.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,HBO SIGNATURE
-http://balancer1.ottmex.com:8081/tecno/HboSignature.Tecnobyte/chunks.m3u8
-
-#EXTINF:-64,STAR ACTION
-http://balancer1.ottmex.com:8081/tecno/FoxAction.Tecnobyte/chunks.m3u8
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/345
 
 #EXTINF:-64,STAR SERIES
-http://balancer1.ottmex.com:8081/tecno/FoxSeries.Tecnobyte/chunks.m3u8
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/302
+
+#EXTINF:-64,STAR ACTION
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/297
+
+#EXTINF:-64,STAR CINEMA
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/298
+
+#EXTINF:-64,STAR CLASSICS
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/299
 
 #EXTINF:-64,STAR FAMILY
-http://balancer1.ottmex.com:8081/tecno/FoxFamily.Tecnobyte/chunks.m3u8
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/300
+
+#EXTINF:-64,STAR MOVIES
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/301
+
+#EXTINF:-64,HBO
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/312
+
+#EXTINF:-64,HBO 2
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/310
+
+#EXTINF:-64,HBO +
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/309
+
+#EXTINF:-64,HBO FAMILY
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/311
+
+#EXTINF:-64,HBO XTREME
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/313
+
+#EXTINF:-64,CINEMAX
+http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/277
 
 #EXTINF:-64,A3CINE
 http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
@@ -653,12 +665,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54
 
 #EXTINF:-140,PLUTO TV ANIMALES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
-
-#EXTINF:-140,ANIMAL PLANET
-http://balancer1.ottmex.com:8081/tecno/AnimalPlanet.TecnoByte/chunks.m3u8
-
-#EXTINF:-140,NAT GEO
-http://balancer1.ottmex.com:8081/tecno/NatGeo.TecnoByte/chunks.m3u8
 
 #EXTINF:-140,PLUTO TV CIENCIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
