@@ -186,6 +186,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007c
 #EXTINF:-54,ANIME LOVING
 http://animeloving.net/hls/stream.m3u8
 
+#EXTINF:-54,ANIMAX ASIA (Filipino)
+http://210.210.155.35/session/83bc2526-da69-11e8-881b-c81f66f89318/dr9445/h/h144/01.m3u8
+
 #EXTINF:-54,CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
