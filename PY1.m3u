@@ -243,9 +243,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c9331210007
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
 
-#EXTINF:-58,EL CHAPULÍN COLORADO
-http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/29
-
 #EXTINF:-58,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
 
