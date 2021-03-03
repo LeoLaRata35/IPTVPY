@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0NzQzNjg5LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiYjBkZmJjNDRjNjEzNDc0YjQwM2ZiNWM2NzMyY2Q2NWM0ZWY5ZWQyMCJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0ODI2NjUzLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiY2U4ZWRjODhmOWEzMDA1ZmQ4YmQ1YWM3OGViNWZlYzUzYzU3MzNkMiJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -329,9 +329,6 @@ http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/274
 
 #EXTINF:-61,BOOMERANG
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/267
-
-#EXTINF:-61,TOONCAST
-http://balancer1.ottmex.com:8081/tecno/Tooncast.Tecnobyte/chunks.m3u8
 
 #EXTINF:-61,DISNEY CHANNEL
 http://5.9.30.198:2086/b3z3uEWTdz/vVKnRVxc7P/287
