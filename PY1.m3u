@@ -81,6 +81,9 @@ https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 #EXTINF:-29,CABLEMÁS
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 
+#EXTINF:-29,VINT TV
+http://181.121.50.205:8080/live/stream.m3u8
+
 #EXTINF:-2001,RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
 
