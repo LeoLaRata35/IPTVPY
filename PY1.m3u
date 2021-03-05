@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE0OTU2MzM2LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNjU5YWExMjdjM2FjNWJmNjc3ZjQzZmFjMDU5MDM5NjllZDhmN2ZhOSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MDAwNzcwLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiY2NhMTc3YjZlNGExNWU1MzVjMWM0OGE0MzdkZDMxOTI4Y2IyNDY2MCJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -324,6 +324,9 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-71,PELÍCULAS MANÍA
 http://lavozdetucuman.com/peliculas1.m3u8
 
+#EXTINF:-71,PARAMOUNT+ PRESENTA
+https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+
 #EXTINF:-71,CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
 
@@ -518,9 +521,6 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3
 
 #EXTINF:-100,BELEVISIÓN (Chile)
 http://v2.tustreaming.cl/belevision/index.m3u8
-
-#EXTINF:-101,TVN (Chile)
-http://unlimited10-cl.dps.live/tvn/tvn.smil/tvn/livestream1/chunks.m3u8
 
 #EXTINF:-102,HUASCO TV (Chile)
 https://paneltv.online:1936/8062/8062/playlist.m3u8
@@ -953,9 +953,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w11329593
 
 #EXTINF:-418,ON RADIO K-POP
 https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
-
-#EXTINF:-420,K-POP TV
-https://srv3.zcast.com.br/kpoptv/kpoptv/playlist.m3u8
 
 #EXTINF:-421,CMT MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
