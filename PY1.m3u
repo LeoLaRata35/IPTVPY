@@ -81,8 +81,8 @@ https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 #EXTINF:-29,CABLEMÁS
 https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 
-#EXTINF:-29,VINT TV
-http://181.121.50.205:8080/live/stream.m3u8
+#EXTINF:-29,INTEGRACIÓN TV
+http://nextplayparaguay.live/hls/integraciontv.m3u8
 
 #EXTINF:-2001,RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
@@ -411,6 +411,9 @@ https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-72,RAKUTEN TV ACTION MOVIES
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-72,RAKUTEN TV FAMILY
+https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-72,MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
 
@@ -575,6 +578,9 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 
 #EXTINF:-133,TELENORD 12 (Rep. Dom.)
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
+
+#EXTINF:-133,TV SUR (Guatemala)
+https://televinterapp.com:19360/tvsur/tvsur.m3u8
 
 #EXTINF:-140,LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
