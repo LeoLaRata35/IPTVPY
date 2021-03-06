@@ -1020,6 +1020,9 @@ https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 #EXTINF:-429,EUROLATINA
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
+#EXTINF:-429,LATIDO TV
+https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
+
 #EXTINF:-430,MÁS CUMBIA TV
 https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
 
