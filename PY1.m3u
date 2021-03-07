@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MDg3NjY4LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiM2FiYmEwMzhhZWViYzIyMTdkMmFkMzQ3YjhkNTRiMGVlNmM0MDM0YSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MTc0OTI0LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMDU1YjliMDE4NTA3YWU0ODMzMWE4MmMwODUzM2Y2MzBmZDEwMTQwOSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -83,6 +83,9 @@ https://59ce1298bfb98.streamlock.net:443/cablemas/cablemas/playlist.m3u8
 
 #EXTINF:-29,INTEGRACIÓN TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
+
+#EXTINF:-26,CHORE TV
+http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
 #EXTINF:-2001,RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
@@ -180,8 +183,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d00098
 #EXTINF:-53,PLUTO TV ANIME ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
-#EXTINF:-54,ANIME LOVING
+#EXTINF:-54,ANIME ZONE TV
 http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-54,TOONIZAKI
+https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
 
 #EXTINF:-54,CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
