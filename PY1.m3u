@@ -156,6 +156,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072
 #EXTINF:-50,CACHIPUM TV
 https://tls.cdnz.cl/cachipuntv/live/chunklist_w1787285152.m3u8
 
+#EXTINF:-50,BOOMERANG CLÁSICO
+http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
+
+#EXTINF:-50,DREIKO TV
+http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
+
 #EXTINF:-51,PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
 
