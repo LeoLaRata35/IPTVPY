@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MjU5OTY5LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMDEzOTY0NzA3Nzc2NWU3ZWE0YmYzMjE5MmIzYTBlOGY5ZDI5M2YxNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE1MzgxMjg2LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNjYyNmEzM2IyNTU4MWU2ZThiMDE1ZjgzNjkyOGIxNzZiMjNlOTQxOCJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -91,7 +91,13 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w2001769688.m3u8
 
 #EXTINF:-2001,ESPN 2
-https://sv.tsnt.xyz/espn/espn2o_sur.m3u8
+https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8
+
+#EXTINF:-2001,FOX SPORTS
+https://content.uplynk.com/channel/8fac9e5f9b4f4e098efd2f88d77f8f57.m3u8?cqs=kU7TvL_HC_AgrCLYHqiSd-pI88cCCgyi5kw51JexktPF0kk8tA3A9la9W9H7iM8v6TVGhno7CueGlwZg-hnesdPo53es1YFdbNR309dvyzLT58nJvnXmcsQNRwkBIq62UaDA326f825YpxmiayRfjpaIJ5IA7OMfAIX74W-EFS8yYaqOcGWog9rpzE2opKBqAZZgEkN9_ARk5GIH3shYSchqVUpg_4aqhv27CAwEjs7Yh9yl3bWApsjNe_lY2zPxA_Cgn8ewxwEx3O1KDmPjfazDb1xy_brWjCs8I_t0xguc7SUbGuAbfhkeGrzAwk783doimivw7jNRYaa7HaaIPYNhsk3wN2j14KY44c3ZSLmlqbjW6_-rV28B_16mxD2SR9N2h-J2EHr_qklpPUHU3znct-WHLote4t4szV-igao1LUhcY3nBo5vOzdJWMdOBEEYhlbnnFg4d7AOhu-6Gfg==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
+
+#EXTINF:-2001,FOX SPORTS 2
+https://content.uplynk.com/channel/96d2eaa9a5c24b53a01c6bf15065386c.m3u8?cqs=zvDNnfqseMzZMPkprE5qMq14SJcLExp_uEOVg_rEKkWJi8olhDrg9s9cgk2-m6v0ONDRpmAFfsudCl56oMUcy-qSgYMKW130vYG0hnzJFXZEGdjTI4B-bpSV3eFdJPAULJk1PqqYulBpPq8zyqboq6Spo4uzsiPIF3HpppgXTDnfsRktDg_-e-qSJccrSG-q5jj65CwdTbbHZEWdxyCvDrpzuq8RNDARRQF2WcCHdjHdGw01GB02vW-vyLbt2JdNk_-j-EagkzJgr3T-OAWeMruBAWFdEwK4BnNMpD3vONN5uC7I1xAEUd9AoyZkgEOLwtusiXPEhpVAnck2WJNOG5pHW3Opw5PoDfnEnehRdVornvbV6AMwxpUuc4TPEFBfDt6n8wqY-WLCcHSJPyVmfyIe4AlNCvDd-lhSmapLUEsRwrJDY3eJBN3xct95wLwnUqvK0JTEzs3rGJOk1MFOCA==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -135,8 +141,11 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 #EXTINF:-36,BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
-#EXTINF:-36,MLB TV
+#EXTINF:-36,MLS TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
+
+#EXTINF:-36,TENNIS CHANNEL
+https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
 #EXTINF:-36,NFL CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
@@ -163,7 +172,7 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
 #EXTINF:-51,PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w190057400.m3u8
+hhttps://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-51,ESR 24/7 NETWORK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
@@ -279,6 +288,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 #EXTINF:-61,EL REINO INFANTIL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
+#EXTINF:-64,TOON GOOGLES
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-64,CHIQUILINES
+https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
+
 #EXTINF:-61,PLUTO TV KIDS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dae8ce788b0009eaf77b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef84427d-008b-4c14-b485-09f974e5056f&userId=&serverSideAds=true
 
@@ -308,6 +323,9 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-61,ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
+
+#EXTINF:-61,TOONCAST
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
 #EXTINF:-64,SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
@@ -425,6 +443,24 @@ https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-72,RAKUTEN TV FAMILY
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-72,CINE REAL
+https://cinereal-plex.amagi.tv/CineReal/master.m3u8
+
+#EXTINF:-72,TU CINE
+https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
+
+#EXTINF:-72,CINE HORRORFY
+https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
+
+#EXTINF:-72,CINE JUNTOS
+https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
+
+#EXTINF:-72,CINE SUREÑO
+https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
+
+#EXTINF:-72,TOP CINE
+https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
 #EXTINF:-72,MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
@@ -715,7 +751,7 @@ http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
 #EXTINF:-207,NET TV (Arg.)
-https://unlimited1-us.dps.live/nettv/nettv.smil/playlist.m3u8
+http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
 
 #EXTINF:-208,TV PÚBLICA FUEGUINA (Arg.)
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
@@ -730,7 +766,7 @@ https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w205858764.m3u8
 
 #EXTINF:-212,KZO (Arg.)
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8 
 
 #EXTINF:-213,CHACO TV (Arg.)
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
@@ -739,7 +775,7 @@ https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
 
 #EXTINF:-215,CANAL 29 QUILMES VISIÓN (Arg.)
-http://inliveserver.com:1935/8386/8386/chunklist_w237176165.m3u8
+http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
 #EXTINF:-216,CANAL 12 TARTAGAL (Arg.)
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
