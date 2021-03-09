@@ -93,12 +93,6 @@ https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w200176
 #EXTINF:-2001,ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8
 
-#EXTINF:-2001,FOX SPORTS
-https://content.uplynk.com/channel/8fac9e5f9b4f4e098efd2f88d77f8f57.m3u8?cqs=kU7TvL_HC_AgrCLYHqiSd-pI88cCCgyi5kw51JexktPF0kk8tA3A9la9W9H7iM8v6TVGhno7CueGlwZg-hnesdPo53es1YFdbNR309dvyzLT58nJvnXmcsQNRwkBIq62UaDA326f825YpxmiayRfjpaIJ5IA7OMfAIX74W-EFS8yYaqOcGWog9rpzE2opKBqAZZgEkN9_ARk5GIH3shYSchqVUpg_4aqhv27CAwEjs7Yh9yl3bWApsjNe_lY2zPxA_Cgn8ewxwEx3O1KDmPjfazDb1xy_brWjCs8I_t0xguc7SUbGuAbfhkeGrzAwk783doimivw7jNRYaa7HaaIPYNhsk3wN2j14KY44c3ZSLmlqbjW6_-rV28B_16mxD2SR9N2h-J2EHr_qklpPUHU3znct-WHLote4t4szV-igao1LUhcY3nBo5vOzdJWMdOBEEYhlbnnFg4d7AOhu-6Gfg==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
-
-#EXTINF:-2001,FOX SPORTS 2
-https://content.uplynk.com/channel/96d2eaa9a5c24b53a01c6bf15065386c.m3u8?cqs=zvDNnfqseMzZMPkprE5qMq14SJcLExp_uEOVg_rEKkWJi8olhDrg9s9cgk2-m6v0ONDRpmAFfsudCl56oMUcy-qSgYMKW130vYG0hnzJFXZEGdjTI4B-bpSV3eFdJPAULJk1PqqYulBpPq8zyqboq6Spo4uzsiPIF3HpppgXTDnfsRktDg_-e-qSJccrSG-q5jj65CwdTbbHZEWdxyCvDrpzuq8RNDARRQF2WcCHdjHdGw01GB02vW-vyLbt2JdNk_-j-EagkzJgr3T-OAWeMruBAWFdEwK4BnNMpD3vONN5uC7I1xAEUd9AoyZkgEOLwtusiXPEhpVAnck2WJNOG5pHW3Opw5PoDfnEnehRdVornvbV6AMwxpUuc4TPEFBfDt6n8wqY-WLCcHSJPyVmfyIe4AlNCvDd-lhSmapLUEsRwrJDY3eJBN3xct95wLwnUqvK0JTEzs3rGJOk1MFOCA==&kid=7e62bb2a550343b5a8b7b48e63cc22bf
-
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
@@ -170,9 +164,6 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
 #EXTINF:-50,DREIKO TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
-
-#EXTINF:-51,PAKA PAKA
-hhttps://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-51,ESR 24/7 NETWORK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
@@ -275,6 +266,9 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-60,PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
+
+#EXTINF:-51,PAKA PAKA
+hhttps://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
 
 #EXTINF:-61,PLUTO TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
