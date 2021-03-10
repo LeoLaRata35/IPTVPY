@@ -558,6 +558,9 @@ https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
 #EXTINF:-90,ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
+#EXTINF:-90,SONY CANAL NOVELAS
+https://sony-novelas-1.roku.wurl.com/playlist.m3u8
+
 #EXTINF:-90,PLUTO TV NOVELAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
 
@@ -1026,6 +1029,9 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w11329593
 #EXTINF:-418,ON RADIO K-POP
 https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
 
+#EXTINF:-418,ON RADIO CHILE
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8
+
 #EXTINF:-421,CMT MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
 
@@ -1104,8 +1110,11 @@ https://srv5.zcast.com.br/andre4369/andre4369/playlist.m3u8
 #EXTINF:-437,TV POP
 https://v4.tustreaming.cl/poptv/index.m3u8
 
-#EXTINF:-438,CLICK TV
-http://v2.tustreaming.cl/clicktv/index.m3u8
+#EXTINF:-438,HIT 360
+http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
+
+#EXTINF:-438,TELE MÁS
+https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-439,THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
