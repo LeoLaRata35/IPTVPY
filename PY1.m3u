@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1615393883~acl=%2Fa824f6bf-fe67-43e5-83bb-a6f34cff76c7%2F%2A~hmac=9426750a017dc6a6396ca47d972754344e7c9a1b8343add358bbe09c722cacec/a824f6bf-fe67-43e5-83bb-a6f34cff76c7/chunklist_b3256000.m3u8
+https://live-ak.vimeocdn.com/exp=1615418288~acl=%2F9088bd92-1131-4db7-9d5a-0e17585d29f6%2F%2A~hmac=027efb9c1b58be35cce5311defdfa2ae0c9b113be40eda949be64fe223bd6b83/9088bd92-1131-4db7-9d5a-0e17585d29f6/chunklist_b2056000.m3u8
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -49,7 +49,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/
 https://cdn3.wowza.com/1/U0xCd1RZUGM5cDQ1/NkhSRzB6/hls/live/playlist.m3u8
 
 #EXTINF:-17,GEN
-https://tigocloudgen.desdeparaguay.net/gentv/gentv_py_alta/playlist.m3u8?k=e4e5ab1235950a70e112565a6f37cd46780a36ba3bb5d9e890014dc85288f1cd&exp=1614987553
+https://tigocloudgen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1879719016.m3u8
 
 #EXTINF:-18,RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
@@ -92,6 +92,9 @@ https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/chunklist_w200176
 
 #EXTINF:-2001,ESPN 2
 https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8
+
+#EXTINF:-2001,FOX SPORTS 2
+https://content-asae1-up-1.uplynk.com/channel/96d2eaa9a5c24b53a01c6bf15065386c/e.m3u8?exp=1615414743&ct=c&cid=96d2eaa9a5c24b53a01c6bf15065386c&expand=drmOff&iph=1ef1e557c74519b2331d8dcc2f51a9962309e8f9780ae3bd5b88892e1e308c66&euid=%7B0AB21471-8296-480C-8E67-643C28831153%7D_000_1_001_live_00-06-00_1.2.2.23&cdn=ec&stgcfg=datg&rays=edcba&pp2ip=0&delay=0&v=3&sig=d166a79779e7b00c6d9707af1a108c4a039094f57e62730cbd273dda86f5b407&pbs=207e63a5e8d64273bd4107c2120ef253
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
