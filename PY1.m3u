@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1615665285~acl=%2F7d1485a2-3d0c-49dd-a47b-f6c141c002eb%2F%2A~hmac=49959cc4d82243ae265d4ad221579d1646ca88c79457df91d59f16329aeed45a/7d1485a2-3d0c-49dd-a47b-f6c141c002eb/chunklist_b416000.m3u8?max_segments=10
+https://blackghost.live/311/tvx.php?opcion=xtv28&c=66250
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -97,7 +97,10 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 
 #EXTINF:-2001,FOX SPORTS PREMIUM
-https://blackghost.live/get/wistream7.php?canal=3&file=.m3u8
+https://blackghost.live/play/wistream-311.php?cat=latinos&ch=fox-sports-premium&k=black-ghost&f=.m3u8
+
+#EXTINF:-2001,TNT SPORTS ARG.
+https://blackghost.live/311/tvx.php?opcion=xtv27&c=110856
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
