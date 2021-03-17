@@ -96,8 +96,14 @@ https://sv.tsnt.xyz/espn/espn2o_sur_c.m3u8
 #EXTINF:-2001,BEIN SPORTS EN ESPAÑOL
 http://157.230.224.200/androidtv/web/app.php/video/playvideo/486/12?f=.m3u8
 
+#EXTINF:-2001,CLARO SPORTS
+https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
+
+#EXTINF:-30,BEST CABLE SPORTS
+https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 
 #EXTINF:-31,REAL MADRID TV
 http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/index_1000_av-p.m3u8
@@ -122,6 +128,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078
 
 #EXTINF:-33,PLUTO TV COMPETENCIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
+
+#EXTINF:-33,SONY CANAL COMPETENCIAS
+https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-33,COMBATE AMÉRICAS
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
@@ -522,6 +531,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d00077
 #EXTINF:-81,FAILARMY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
 
+#EXTINF:-81,SONY CANALCOMEDIAS
+https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-81,PLUTO TV HUMOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8397936791b30007ebb5a7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc45-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6125129c-5aac-4b90-ba29-7333c93545b2&userId=&serverSideAds=true
 
@@ -623,6 +635,9 @@ https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
 #EXTINF:-106,LATINO 54 TV (Chile)
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
+
+#EXTINF:-106,TV SUR VISIÓN
+http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
 
 #EXTINF:-120,TELERED (Costa Rica)
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
@@ -771,14 +786,17 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-200,GEN TV (Arg.)
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-200,AVC (Arg.)
-https://tna5.bozztv.com/AVCHD/index.m3u8
-
 #EXTINF:-202,CINCO TV (Arg.)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
 
 #EXTINF:-203,AMÉRICA TV TUCUMÁN (Arg.)
 http://45.6.4.154/americatuc/vivo.m3u8
+
+#EXTINF:-203,CANAL 10 TUCUMÁN (Arg.)
+https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616016840&h=dbb7e2e2f5c2cbc35cc0e9e0c668404c
+
+#EXTINF:-203,X24 TUCUMÁN (Arg.)
+https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-204,9 LINK RESISTENCIA (Arg.)
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
