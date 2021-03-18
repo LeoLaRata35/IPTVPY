@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MTYzMDUzLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMWU0NjRlMjk2ZDJmMWY1MzE2YTAzYzNjYTUzMjI4MjQxM2E0OTRmMSJ9
+https://live-ak.vimeocdn.com/exp=1616085086~acl=%2F81171343-65f9-4a39-aa52-4f9a85c166ef%2F%2A~hmac=26a6d650a7f80eb4ded5e536fca818d6fe527b4085f9491073eaa2937e45d36c/81171343-65f9-4a39-aa52-4f9a85c166ef/chunklist_b416000.m3u8?max_segments=10
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -314,6 +314,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d800078
 
 #EXTINF:-64,TOON GOOGLES
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+
+#EXTINF:-64,TOON GOOGLES EN ESPAÑOL
+https://stream.ads.ottera.tv/cl/8ced4fa7-5446-4acf-a403-aceda4ea2bda/1280x720_2300000_4.m3u8
 
 #EXTINF:-64,CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
@@ -614,6 +617,15 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7274806621ff00072
 
 #EXTINF:-90,NARCOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f7b47f12a45590007821749/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8a2ca4-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=db32e708-3f49-4116-9202-54e60c2967ae&userId=&serverSideAds=true
+
+#EXTINF:-90,NOVELAS CLUB
+https://live-content.xumo.com/273/content/XM0GLI8UTMZO00/21978125/3.m3u8
+
+#EXTINF:-90,TELEMUNDO AL DÍA
+https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
+
+#EXTINF:-90,ESTRELLA TV
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
 
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
@@ -996,14 +1008,14 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 #EXTINF:-404,TELEMÚSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
 
+#EXTINF:-407,REWIND
+https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
+
 #EXTINF:-405,RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
 
 #EXTINF:-406,RETRO PLUS TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w653594315.m3u8
-
-#EXTINF:-407,REWIND
-https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
 
 #EXTINF:-407,VEVO 70'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
@@ -1113,23 +1125,26 @@ https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/
 #EXTINF:-407,LOOP HOTTEST
 https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/1d364009-e579-4fa4-9f7e-05c08d81f276/0.m3u8
 
-#EXTINF:-417,MUSIC TOP
-http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1132959303_b2028000_sleng.m3u8
+#EXTINF:-407,STINGRAY MUSIC EVERYTHING 80'S
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
-#EXTINF:-418,ON RADIO K-POP
-https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
+#EXTINF:-407,STINGRAY MUSIC CLASSIC ROCK
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
-#EXTINF:-418,ON RADIO CHILE
-https://tls.cdnz.cl/onradio3/live/playlist.m3u8
+#EXTINF:-407,STINGRAY MUSIC GREATEST HITS
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraygreatesthits/CDN/768x432_690800/chunklist.m3u8
 
-#EXTINF:-421,CMT MUSIC
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+#EXTINF:-407,STINGRAY MUSIC HIT LIST
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhitlist/CDN/768x432_690800/chunklist.m3u8
 
-#EXTINF:-421,COUNTRY MUSIC 4U
-https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
+#EXTINF:-407,STINGRAY MUSIC HOT COUNTRY
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayhotcountry/CDN/768x432_690800/chunklist.m3u8
 
-#EXTINF:-421,CMC
-http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
+#EXTINF:-407,STINGRAY MUSIC KARAOKE
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraykaraoke/CDN/640x360_981200/chunklist.m3u8
+
+#EXTINF:-407,STINGRAY SOUL STORM
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432_690800/chunklist.m3u8
 
 #EXTINF:-421,MTV LOVE MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7434-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7e1dc13-cad3-45a3-914b-99d1ae366e78&userId=&serverSideAds=true
@@ -1145,6 +1160,24 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee16
 
 #EXTINF:-421,MTV BLOCK PARTY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+
+#EXTINF:-418,ON RADIO K-POP
+https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
+
+#EXTINF:-418,ON RADIO CHILE
+https://tls.cdnz.cl/onradio3/live/playlist.m3u8
+
+#EXTINF:-417,MUSIC TOP
+http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1132959303_b2028000_sleng.m3u8
+
+#EXTINF:-421,CMT MUSIC
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f68f53eb1e5800007390bf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c896951-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=42bcfa63-aec5-4760-b993-bf2501603b69&userId=&serverSideAds=true
+
+#EXTINF:-421,COUNTRY MUSIC 4U
+https://broadcast.mytvtogo.net/countrymusic4u/countrymusic4u/playlist.m3u8
+
+#EXTINF:-421,CMC
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 #EXTINF:-421,LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
