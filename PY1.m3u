@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1616022513~acl=%2Fa2313a89-0c46-4526-9b44-0517abdc29b8%2F%2A~hmac=68251e62271f0ea346304e41e4a2556076a8b3c3601568524f2b7ec52694bf12/a2313a89-0c46-4526-9b44-0517abdc29b8/chunklist_b416000.m3u8?max_segments=10
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MTIwNzQ3LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiYTE2YjQ3ZWJlNTRkN2U4Mzk0OGJmYTljOGIxYjlmYjkyZTE0MWM5YiJ9
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
