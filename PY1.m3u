@@ -285,6 +285,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd00070
 #EXTINF:-57,BABAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
 
+#EXTINF:-57,ANGRY BIRDS
+https://stream.ads.ottera.tv/cl/b05c134d-9864-481b-a7a0-01875ca714d0/854x480_550000_1.m3u8
+
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
 
@@ -313,7 +316,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
 #EXTINF:-64,TOON GOOGLES
-https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=514
+https://stream.ads.ottera.tv/cl/e0691a55-6c27-4cc3-8851-a6bd43eaf93a/1920x1080_2323988_4.m3u8
 
 #EXTINF:-64,TOON GOOGLES EN ESPAÑOL
 https://stream.ads.ottera.tv/cl/8ced4fa7-5446-4acf-a403-aceda4ea2bda/1280x720_2300000_4.m3u8
