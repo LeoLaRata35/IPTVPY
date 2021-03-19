@@ -292,10 +292,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f29ada4bdaebd00070
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076f3ffe/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc42-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4dd50492-4fb9-436b-9efe-56335cf7502f&userId=&serverSideAds=true
 
 #EXTINF:-57,ANGRY BIRDS
-https://stream.ads.ottera.tv/cl/b05c134d-9864-481b-a7a0-01875ca714d0/854x480_550000_1.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
 
-#EXTINF:-57,OM NOM STORIES
-https://stream.ads.ottera.tv/cl/40dbe385-e687-4948-b66a-592fc6068630/1920x1080_2538196_7.m3u8
+#EXTINF:-57,OM NOM TV
+https://stream.ads.ottera.tv/cl/26a32d51-a1a6-4c9b-9380-fd8a7ea7523d/1920x1080_2628174_10.m3u8
 
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
@@ -322,25 +322,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
 #EXTINF:-64,TOON GOOGLES EN ESPAÑOL
-https://stream.ads.ottera.tv/cl/4ed85c5f-994e-4fb5-9ab5-54863955f0bf/640x360_350000_0.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=514&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162813&id=266202&ip=92.38.148.59&override_expiration=1500&sign=78NzuaWLyGAP4kbH8utFNF5%2B8dC%2BaR%2B02l9vTZofyv8%3D
 
 #EXTINF:-64,TOON GOOGLES (Inglés)
-https://stream.ads.ottera.tv/cl/e0691a55-6c27-4cc3-8851-a6bd43eaf93a/1920x1080_2323988_4.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=37&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5eea605574085f0040ddc794&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
 
 #EXTINF:-64,TOON GOOGLES JR. (Inglés)
-https://stream-us-east-1.getpublica.com/cl/6841035e-2afc-4120-89c0-b9721ca80e7f/480x240_722485_3.m3u8
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36&live=1&app_bundle=com.plexapp.desktop&did=df8e1a36-847d-5096-86a7-3803ed330ede&app_domain=app.plex.tv&app_name=plex&h=691&w=1224&content_title=MorUy57ijWhGe4ixZb_T&content_series=5f123330eca6a20040b328e8&custom4=plex&gdpr=1&device_make=Windows&device_model=Firefox&coppa=1&us_privacy=1---
 
 #EXTINF:-64,TOON GOOGLES MOVIES (Inglés)
-https://stream.ads.ottera.tv/cl/c3f38fda-32ee-4a1a-9bce-b773eff2ec46/640x360_881000_1.m3u8
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=285&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616163335&id=264522&ip=92.38.148.59&override_expiration=1500&sign=z936zg2CSi4j4KGtT351mCqyum%2BVJv0Jj0HE4Pu92jQ%3D
 
 #EXTINF:-64,MY TOONZ (Inglés)
-https://stream.ads.ottera.tv/cl/c18c828f-f51f-4bbb-9afc-0b96ad45b64e/1280x720_1400000_3.m3u8
+https://api-ott.mytoonz.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1356&timestamp=1616163185&ip=92.38.148.59&override_expiration=1500&sign=H3u8RDpNqe3HutWOLVaTs1EhOpDrg5DdwoJ27cnRla8%3D
 
 #EXTINF:-59,PBS KIDS (Inglés)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-59,KIDOODLE TV (Inglés)
-https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/ba9dd16e-56da-4d26-a808-94b26f74f22c/0.m3u8
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/1d045896-8061-414f-b467-2b5afadb837e/3.m3u8
 
 #EXTINF:-64,CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
