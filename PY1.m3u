@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MTY4MjA3LCJzZXNzaW9uIjoiOTIuMzguMTQ4LjU4Iiwid2hpdGVsaXN0IjpbIjkyLjM4LjE0OC41OCJdfSwic2lnbmF0dXJlIjoiMWExNjZhZWNjMjNmNjk0NzA1NDliNWFmNWFkNjA3ZmY4NjYxNDUxNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE2MjEwOTQ0LCJzZXNzaW9uIjoiOTIuMzguMTQ4LjU4Iiwid2hpdGVsaXN0IjpbIjkyLjM4LjE0OC41OCJdfSwic2lnbmF0dXJlIjoiY2IyMmQ4NGQyOTRjMDAzOWExZWQ0MTZmNDVjNmU5ZTBjMDQzZjg0YSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -192,6 +192,9 @@ http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 #EXTINF:-50,DREIKO TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
+#EXTINF:-50,LEVEL UP TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/7cadbb36-1978-4af3-8bc2-8f9fc8b423c3/0.m3u8
+
 #EXTINF:-51,ESR 24/7 NETWORK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
 
@@ -204,7 +207,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904f
 #EXTINF:-71,IGN 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
 
-#EXTINF:-71,IGN 3 (Inglés)
+#EXTINF:-71,IGN 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
 
 #EXTINF:-71,PLUTO TV GAMER (Inglés)
@@ -227,6 +230,9 @@ https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
 
 #EXTINF:-54,CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
+
+#EXTINF:-54,RETRO CRUSH TV (Inglés)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/520bb366-8131-46f4-aa70-3fba74f67bcd/4.m3u8
 
 #EXTINF:-54,YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
@@ -288,14 +294,14 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076
 #EXTINF:-57,ANGRY BIRDS
 https://stream.ads.ottera.tv/cl/b05c134d-9864-481b-a7a0-01875ca714d0/854x480_550000_1.m3u8
 
+#EXTINF:-57,OM NOM STORIES
+https://stream.ads.ottera.tv/cl/40dbe385-e687-4948-b66a-592fc6068630/1920x1080_2538196_7.m3u8
+
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
 
 #EXTINF:-58,LOS TRES CHIFLADOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e11eb9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=025be615-509e-4721-8804-92898ace6781&userId=&serverSideAds=true
-
-#EXTINF:-59,PBS KIDS (Inglés)
-https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
 #EXTINF:-60,PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
@@ -315,11 +321,26 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebac49ce4dc8b00078
 #EXTINF:-61,EL REINO INFANTIL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d3d06fb60d8000781fce8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51f247aa-de6a-4551-a331-ffa4c5dc6b64&userId=&serverSideAds=true
 
-#EXTINF:-64,TOON GOOGLES
+#EXTINF:-64,TOON GOOGLES EN ESPAÑOL
+https://stream.ads.ottera.tv/cl/4ed85c5f-994e-4fb5-9ab5-54863955f0bf/640x360_350000_0.m3u8
+
+#EXTINF:-64,TOON GOOGLES (Inglés)
 https://stream.ads.ottera.tv/cl/e0691a55-6c27-4cc3-8851-a6bd43eaf93a/1920x1080_2323988_4.m3u8
 
-#EXTINF:-64,TOON GOOGLES EN ESPAÑOL
-https://stream.ads.ottera.tv/cl/8ced4fa7-5446-4acf-a403-aceda4ea2bda/1280x720_2300000_4.m3u8
+#EXTINF:-64,TOON GOOGLES JR. (Inglés)
+https://stream-us-east-1.getpublica.com/cl/6841035e-2afc-4120-89c0-b9721ca80e7f/480x240_722485_3.m3u8
+
+#EXTINF:-64,TOON GOOGLES MOVIES (Inglés)
+https://stream.ads.ottera.tv/cl/c3f38fda-32ee-4a1a-9bce-b773eff2ec46/640x360_881000_1.m3u8
+
+#EXTINF:-64,MY TOONZ (Inglés)
+https://stream.ads.ottera.tv/cl/c18c828f-f51f-4bbb-9afc-0b96ad45b64e/1280x720_1400000_3.m3u8
+
+#EXTINF:-59,PBS KIDS (Inglés)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
+
+#EXTINF:-59,KIDOODLE TV (Inglés)
+https://7c16fcbdbd1b4a74b712c2052303b6bb.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_KidoodleTV/ba9dd16e-56da-4d26-a808-94b26f74f22c/0.m3u8
 
 #EXTINF:-64,CHIQUILINES
 https://chiquilines-plex.amagi.tv/Chiquilines-plex/master.m3u8
@@ -348,14 +369,17 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c
 #EXTINF:-64,NICK LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 
+#EXTINF:-61,NICK MUSIC
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+
 #EXTINF:-64,PLANETA KIDS
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-61,ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
 
-#EXTINF:-61,TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+#EXTINF:-61,CARTOON NETWORK
+http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
 
 #EXTINF:-64,SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
@@ -492,6 +516,9 @@ https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 #EXTINF:-72,TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
+#EXTINF:-72,LA CORRIENTE TV
+https://stream.ads.ottera.tv/cl/c4794928-972f-41d7-bb3e-fe34e98143ab/640x360_400000_0.m3u8
+
 #EXTINF:-72,MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
 
@@ -536,6 +563,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d00077
 
 #EXTINF:-81,FAILARMY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebaccf1734aaf0007142c86/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a62-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b9ea5930-45f6-4bd0-bca2-db4f4ca9fbc2&userId=&serverSideAds=true
+
+#EXTINF:-81,AFV EN ESPAÑOL
+https://c054f53413c54c1d9214a6156a264c0d.mediatailor.us-west-2.amazonaws.com/v1/manifest/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-46-AFV_ES-PLEX/df019a29-f1e1-4465-b304-53786ead6b92/0.m3u8
 
 #EXTINF:-81,SONY CANALCOMEDIAS
 https://sony-comedias-1.roku.wurl.com/manifest/playlist.m3u8
@@ -629,6 +659,15 @@ https://live-content.xumo.com/2592/content/XM06GWT4TVFWAW/22861908/3.m3u8
 
 #EXTINF:-90,ESTRELLA TV
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-estrellatv-xumo/CDN/master.m3u8
+
+#EXTINF:-90,ESTRELLA NEWS
+https://estrellanews-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=60089d97f682a3002c34829b/hls/amagi_hls_data_plexAAAAA-estrellanews-plex/CDN/768x432_1425600/index.m3u8
+
+#EXTINF:-90,ESPAÑOL RUN TIME
+https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+
+#EXTINF:-90,CANELA TV
+https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/1280x720_4569479_0.m3u8
 
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
