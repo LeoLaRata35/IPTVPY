@@ -147,6 +147,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7
 #EXTINF:-35,MLB NETWORK
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
+#EXTINF:-35,MLB CHANNEL
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
+
 #EXTINF:-36,RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
@@ -384,6 +387,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076
 #EXTINF:-61,CARTOON NETWORK
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
 
+#EXTINF:-61,MOVIES
+https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
 #EXTINF:-64,SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
 
@@ -412,7 +418,10 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 http://lavozdetucuman.com/peliculas1.m3u8
 
 #EXTINF:-71,PARAMOUNT+ PRESENTA
-https://stitcher.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=yasirProd
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b1776000776526d/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+
+#EXTINF:-35,NUESTRA VISIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
 #EXTINF:-71,CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
@@ -693,7 +702,7 @@ https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 #EXTINF:-106,LATINO 54 TV (Chile)
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
 
-#EXTINF:-106,TV SUR VISIÓN
+#EXTINF:-106,TV SUR VISIÓN ALERCE TV (Chile)
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
 
 #EXTINF:-120,TELERED (Costa Rica)
@@ -711,8 +720,14 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 #EXTINF:-124,TELESISTEMA (Costa Rica)
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 
+#EXTINF:-124,TV SUR CANAL 14 (Costa Rica)
+https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
+
 #EXTINF:-130,TELESISTEMA (Rep. Dom.)
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w42154415.m3u8
+
+#EXTINF:-130,CANAL 6 DAJABÓN (Rep. Dom.)
+https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
 
 #EXTINF:-131,TELENORD 8 (Rep. Dom.)
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
@@ -723,8 +738,29 @@ http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 #EXTINF:-133,TELENORD 12 (Rep. Dom.)
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
 
+#EXTINF:-133,GALAXIA TV (Rep. Dom.)
+https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
+
+#EXTINF:-130,PHTV (Rep. Dom.)
+https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
+
+#EXTINF:-130,HERMANAS MIRABAL TV 33 (Rep. Dom.)
+https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
+
+#EXTINF:-130,VISIÓN DORADA TV (Colombia)
+https://movil.ejeserver.com/live/visiondorada.m3u8
+
 #EXTINF:-133,TV SUR (Guatemala)
 https://televinterapp.com:19360/tvsur/tvsur.m3u8
+
+#EXTINF:-133,CANAL 11 ZULIA (Venezuela)
+https://tinyurl.com/y6nj4aas
+
+#EXTINF:-133,CHOLUSAT SUR CANAL 36 (Honduras)
+http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
+
+#EXTINF:-133,TELEARANDA (España)
+https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 
 #EXTINF:-133,SABER MÁS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
