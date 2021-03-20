@@ -369,7 +369,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7c348520b40009c
 #EXTINF:-64,NICK LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ff371-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c59413c7-c50b-4407-b45a-db56bbc21724&userId=&serverSideAds=true
 
-#EXTINF:-61,NICK MUSIC
+#EXTINF:-64,NICK TEEN
+https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
+
+#EXTINF:-61,TOONCAST
 http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
 
 #EXTINF:-64,PLANETA KIDS
