@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MTIxNDE4LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiOWIzYTg0MzFhYzMxZTFjZWU0NTA0ZmY2MzcxZjM1MDgwMDliZTdhMyJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE3MjA4MTcxLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMjY3YzBmOTdiZTk4NGY2NjQ1MzFhOTFhYjM1OWIzZmJiZWZkOWI5OSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -40,7 +40,7 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-14,PARAGUAY TV
-https://live-ak.vimeocdn.com/exp=1617038732~acl=%2F65269b13-29f1-4667-b6f1-8082eb0e93a7%2F%2A~hmac=0b41a4d2856813a652f1f9ead2e10f8dd00320fdbc06aa503098dc6fd5b25e7f/65269b13-29f1-4667-b6f1-8082eb0e93a7/chunklist_b3256000.m3u8?max_segments=10
+https://live-api.cloud.vimeo.com/sessions/b0f92cea-cdf2-4497-a2cf-3c0e2e145d54/playlist/hls.m3u8?cdn=fastly&json=1&~id=player&~exp=1617125449&~sig=LuG492pB1JScgKnzdRQmEjiMXipNsdFydIga1lDw-oU
 
 #EXTINF:-15,ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
