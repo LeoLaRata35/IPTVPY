@@ -66,8 +66,8 @@ https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 #EXTINF:-27,GCV CANAL 10 GUAJAYVI
 http://nextplayparaguay.live/hls/canal10.m3u8
 
-#EXTINF:-27,TAPUA FM
-https://59ce1298bfb98.streamlock.net/marianotv/marianotv/plaTAPUA FM
+#EXTINF:-27,CABLEMÁS
+https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 
 #EXTINF:-28,UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
@@ -536,6 +536,9 @@ https://stream.ads.ottera.tv/cl/c4794928-972f-41d7-bb3e-fe34e98143ab/640x360_400
 
 #EXTINF:-72,MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
+
+#EXTINF:-72,MI CINE LIFE
+https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-73,FMTV
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
