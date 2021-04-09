@@ -310,7 +310,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
 #EXTINF:-51,PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/playlist.m3u8
+https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1735583969.m3u8
 
 #EXTINF:-61,PLUTO TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
@@ -690,6 +690,9 @@ https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
 
+#EXTINF:-64,ZPTV (Chile)
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8?WebM3UCL
+
 #EXTINF:-100,BELEVISIÓN (Chile)
 http://v2.tustreaming.cl/belevision/index.m3u8
 
@@ -710,6 +713,9 @@ http://190.3.169.119:8080/latina/latina/playlist.m3u8
 
 #EXTINF:-106,TV SUR VISIÓN ALERCE TV (Chile)
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
+
+#EXTINF:-106,TV MAULESUR (Chile)
+https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
 
 #EXTINF:-120,TELERED (Costa Rica)
 http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
@@ -897,11 +903,17 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90
 #EXTINF:-175,ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
+#EXTINF:-175,VIBRA TV (Arg)
+https://live.autistici.org/hls/vibratelevision_mid.m3u8
+
 #EXTINF:-199,5RTV (Arg.)
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-200,GEN TV (Arg.)
 https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-200,FÉNIX TV (Arg.)
+https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
 #EXTINF:-202,CINCO TV (Arg.)
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
@@ -983,6 +995,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074
 
 #EXTINF:-230,CANAL 3 FORMOSA (Arg.)
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
+
+#EXTINF:-230,CANAL 2 VILLA HERNANDARIAS (Arg.)
+https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/chunklist_w1138147341.m3u8
 
 #EXTINF:-240,READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
@@ -1113,8 +1128,17 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 #EXTINF:-404,TELEMÚSICA
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
 
+#EXTINF:-404,RADIOTECA TV
+https://tvstreaming.cl:1936/8042/8042/chunklist_w1750701715.m3u8
+
+#EXTINF:-404,MUNDO DE LA MÚSICA TV
+https://tv.streamingchilenos.com:1936/8034/8034/chunklist_w1427082379.m3u8
+
 #EXTINF:-407,REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
+
+#EXTINF:-407,RECUERDOS RETRO RADIO
+https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
 
 #EXTINF:-405,RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
@@ -1278,7 +1302,7 @@ https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
 #EXTINF:-418,ON RADIO CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
 
-#EXTINF:-418,ON CLUBBING TV
+#EXTINF:-418,CLUBBING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ad4ad6537680007be2ea6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e551-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=70bc0c2a-93a5-4713-b658-cad49ec55f38&userId=&serverSideAds=true
 
 #EXTINF:-417,MUSIC TOP
@@ -1299,6 +1323,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37a
 #EXTINF:-422,ZAPPING MUSIC
 https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
 
+#EXTINF:-422,TRIBUTO VALENTINA
+https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
+
 #EXTINF:-423,MÁXIMA FM
 http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
 
@@ -1307,6 +1334,9 @@ http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
 
 #EXTINF:-425,XTV MUSIC
 https://tls.cdnz.cl/xtvmusic/xtvmusic/chunklist_w1301350852.m3u8
+
+#EXTINF:-425,RE7
+https://vdo.mivideo.pro:3725/stream/play.m3u8
 
 #EXTINF:-426,TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
