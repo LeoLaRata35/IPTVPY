@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MzMwNDM2LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiMGY4YTI4MDdiMzIyOWZjZTlmM2Y3ZjM5Njk2N2QwYTdiYzg1NmJhNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4MzcwODcwLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiYjA5YmJjYmJiNzE5MDNmYzNhMWM2NzIzNmY5M2QyNjc2NzQxMGQxOCJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -83,9 +83,6 @@ http://nextplayparaguay.live/hls/integraciontv.m3u8
 
 #EXTINF:-26,CHORE TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
-
-#EXTINF:-2001,GEN
-https://tigocloudgen.desdeparaguay.net/gentv/gentv_py_alta/chunklist_w1086346664.m3u8?k=3519537e589f333e6a801e76e567e0c5a676be0088d82a5c22b487579dbe475c&exp=1618244511
 
 #EXTINF:-2001,CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
@@ -684,8 +681,11 @@ https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
 
+#EXTINF:-64,5TV LINARES (Chile)
+http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
+
 #EXTINF:-64,ZPTV (Chile)
-https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8?WebM3UCL
+https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
 
 #EXTINF:-100,BELEVISIÓN (Chile)
 http://v2.tustreaming.cl/belevision/index.m3u8
@@ -753,8 +753,23 @@ https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 #EXTINF:-130,HERMANAS MIRABAL TV 33 (Rep. Dom.)
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
 
+#EXTINF:-130,SUPER TV CANAL 55 (Rep. Dom.)
+https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
+
+#EXTINF:-130,MICROVISIÓN (Rep. Dom.)
+http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
+
+#EXTINF:-130,CANAL 12 (Rep. Dom.)
+http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+
+#EXTINF:-130,SURAM TV (Colombia)
+https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
+
 #EXTINF:-130,VISIÓN DORADA TV (Colombia)
 https://movil.ejeserver.com/live/visiondorada.m3u8
+
+#EXTINF:-130,TELEÍSLAS (Colombia)
+http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
 #EXTINF:-133,TV SUR (Guatemala)
 https://televinterapp.com:19360/tvsur/tvsur.m3u8
@@ -976,7 +991,7 @@ https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 
 #EXTINF:-222,ARGENTINÍSIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w1353448793_b1912000_sleng.m3u8
+http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
 #EXTINF:-223,TELEFÉ CLÁSICO (Arg.)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
@@ -992,6 +1007,15 @@ https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
 
 #EXTINF:-230,CANAL 2 VILLA HERNANDARIAS (Arg.)
 https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/chunklist_w1138147341.m3u8
+
+#EXTINF:-230,CANAL 17 MILENIUMTV SALTA (Arg.)
+https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
+
+#EXTINF:-230,CHACRA TV (Arg.)
+http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
+
+#EXTINF:-230,CIUDAD TV (Arg.)
+http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
 #EXTINF:-240,READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
