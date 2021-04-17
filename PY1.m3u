@@ -165,6 +165,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c
 #EXTINF:-36,PRO WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
+#EXTINF:-36,FIGHTING NETWORK
+https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
+
 #EXTINF:-36,BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
@@ -377,9 +380,6 @@ https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-61,ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
-
-#EXTINF:-61,CARTOON NETWORK
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/683?checkedby:hlscat.com
 
 #EXTINF:-61,MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
