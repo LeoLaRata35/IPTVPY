@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE4OTc5NDA1LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiN2IyYjgzYTI5OTAwYzYxOGY0ZDc4MzJkMzllM2YxZDlkNzNjYjJhZCJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjE5MDY2MjMxLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNTBlNzI5NmVhZWRlZjVkNmRjODRiNTg1MmQ4MTg1YWQ1MjI5MWRmNSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -290,9 +290,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e67e20c93312100076
 
 #EXTINF:-57,ANGRY BIRDS
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=1&us_privacy=1---&did=29d976831067d48c1669f305dcaea6f9&app_bundle=com.toongoggles.html5&app_store_url=http%3A%2F%2Fwww.toongoggles.com%2Fdevices&app_domain=toongoggles.com&app_name=toongoggles&custom_targeting=web&custom_4=internal&h=720&w=1280&content_channel=toongoggles&content_dist_name=internal&device_make=&device_model=&preferred_language=EN&livestream=1&timestamp=1616162944&id=266911&ip=92.38.148.59&override_expiration=1500&sign=xjG7CjbtexmXurqdKFkyO0wdwLtEAWU50VjIK587uGs%3D
-
-#EXTINF:-57,OM NOM TV
-https://stream.ads.ottera.tv/cl/c19c0da5-ba91-4251-af56-15962c101f4c/1280x720_921723_3.m3u8
 
 #EXTINF:-58,EL CHAVO
 https://videostreaming.cloudserverlatam.com/chavotv/chavotv/chunklist_w925937130.m3u8
