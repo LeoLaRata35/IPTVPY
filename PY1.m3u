@@ -87,8 +87,17 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 #EXTINF:-26,GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
+#EXTINF:-26,FARRA PLAY
+http://159.203.148.226/live/farra_low.m3u8
+
 #EXTINF:-2001,CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+
+#EXTINF:-2001,ESPN 2
+http://23.237.78.54/live-1000/263/playlist.m3u8
+
+#EXTINF:-2001,DIRECTV SPORTS
+http://23.227.145.10:128/budTV/3232/1645_.m3u8
 
 #EXTINF:-30,OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
@@ -303,8 +312,8 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85f1dc1418bd0007e
 #EXTINF:-60,PEQUERADIO TV
 http://canadaremar2.todostreaming.es/live/peque-pequetv.m3u8
 
-#EXTINF:-51,PAKA PAKA
-https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1735583969.m3u8
+#EXTINF:-51,SUPERTOONS TV
+https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-61,PLUTO TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
@@ -373,7 +382,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
 #EXTINF:-61,TOONCAST
-http://us1-external-sources.iptvserver.tv:80/kkkrkDp2a9KNwAwGzpb/QT94uK5NNQw4r4Qs/725?checkedby:hlscat.com
+https://hlscat.com/my_list/s/a91cf12954c12fb688450ae4687bc71b.m3u8
 
 #EXTINF:-64,PLANETA KIDS
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
@@ -681,6 +690,9 @@ https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
 
+#EXTINF:-91,UCV (Chile)
+https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
 #EXTINF:-64,5TV LINARES (Chile)
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
@@ -844,7 +856,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb0181613700073
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b005b66d1950007857df6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9bc5a0-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=976f275a-b9e8-4f1f-a035-2b8cae1da9c0&userId=&serverSideAds=true
 
 #EXTINF:-150,ENCUENTRO
-https://5fb24b460df87.streamlock.net/live-cont.ar/encuentro/chunklist_w1733579940.m3u8
+https://hlscat.com/my_list/s/ace945b1e7abbea5ab9be62007a85e66.m3u8
 
 #EXTINF:-151,MIRADOR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
