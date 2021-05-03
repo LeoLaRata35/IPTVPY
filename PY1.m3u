@@ -1227,66 +1227,6 @@ http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
 #EXTINF:-416,MIX 24-7 POP
 http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
 
-#EXTINF:-407,LOOP 80'S
-https://4f5e5eb0064545fb96182a578bb2fe52.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_loop/595d8b39-4de3-4417-a4a7-f774e05e0393/4.m3u8
-
-#EXTINF:-407,LOOP 90'S
-https://f90ce02efb6b40359dd2835720482ee1.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_loop/a8e05f8b-95f4-472a-9b94-31ae9d90c2c6/0.m3u8
-
-#EXTINF:-407,LOOP YACHT ROCK
-https://e9a624472294431eab677bb40ba0f677.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/yacht_rock_loop/6fe85092-f747-4078-ad4d-4f54ab026d6c/0.m3u8
-
-#EXTINF:-407,LOOP FAR OUT
-https://e59e998ae0da436ca0a3042ef9594ccb.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_loop/d5e5104b-de00-4bb4-bd1a-d45b028cd4ae/0.m3u8
-
-#EXTINF:-407,LOOP THAT'S HOT
-https://0a2e9d1e4fc4414ebaf22d40b81e14ab.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/thats_hot_loop/ba6a0705-a6bf-48e2-9b11-1a2c587c9bf6/0.m3u8
-
-#EXTINF:-407,LOOP FLASHBACK
-https://80daef5afee04639ab6f19432058fb93.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/like_yesterday_loop/cd47f77d-714d-40b2-a872-b3ca2697ed25/0.m3u8
-
-#EXTINF:-407,LOOP SYNAPSE
-https://d6749b2b5cb74c85a06a9841003eb04b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/neural_focused_loop/f1060a74-e7ef-4b20-8d7f-c1a5166b9bf5/0.m3u8
-
-#EXTINF:-407,LOOP UNWIND
-https://c1d8b62bac24481e82f91c4445b17092.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/unwind_loop/307168dc-7387-4bca-9d51-f050a59a1ab3/0.m3u8
-
-#EXTINF:-407,LOOP PARTY
-https://fc8e6a8033f94f0e847ba56e1695db2e.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/party_loop/35c2f113-2297-42c3-99b4-83000a52de47/0.m3u8
-
-#EXTINF:-407,LOOP ELECTRONICA
-https://1e1876eb600945e89b6d98ddf44d26f2.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/electro_anthems_loop/19dc7242-8217-4560-b190-3a2f65095370/0.m3u8
-
-#EXTINF:-407,LOOP BEAST
-https://4995bb351158404890f211589ad8235f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/beast_mode_loop/1cbc3d96-f492-4662-8bf3-3eb772e56578/0.m3u8
-
-#EXTINF:-407,LOOP TEXAS TUNES
-https://931a92f064db4a8db82cb89f072dc6c7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/texas_sized_hits_loop/15ef7dc3-a047-48b7-ab5f-9b12ba3070ec/0.m3u8
-
-#EXTINF:-407,LOOP LATIN
-https://61d06f00ea524bb9a59ed1ceaa43a294.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/latin_x_pop_loop/4c80f204-0500-465b-a2ba-a0a88b00c9da/4.m3u8
-
-#EXTINF:-407,LOOP BEDROM
-https://0137a758022c46a38e455092610c984b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_loop/4e986e9d-e287-4721-9b37-07e2cd215373/0.m3u8
-
-#EXTINF:-407,LOOP R&B
-https://42b70e05dc1c40d78b2668f570ea38b4.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hot_rnb_loop/4c50ccf7-03c7-4aaa-a67f-a357ce347a7c/0.m3u8
-
-#EXTINF:-407,LOOP ALT+
-https://bf478e05dd884185aebc142c47e5081a.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/alt_loop/52296c04-462f-43d5-b640-e185b27712fa/0.m3u8
-
-#EXTINF:-407,LOOP TGIF
-https://6149ddf7366040d29cf349bb83ff3d3f.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_loop/8eb02171-b983-466e-9a61-850f62bb924b/0.m3u8
-
-#EXTINF:-407,LOOP HIP HOP
-https://43cab9654d1c43a39d7c282d7f3485a7.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hip_hop_bangers_loop/9b3f082c-ae26-45df-a383-8e14f25bcde1/0.m3u8
-
-#EXTINF:-407,LOOP TRENDING
-https://9bc40819ec6f4c9c8b9831323f77621b.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/trending_loop/fd9b9d65-e382-4fa8-9386-db022ae9c9fc/0.m3u8
-
-#EXTINF:-407,LOOP HOTTEST
-https://e896313b744c41d095a1981b251d4344.mediatailor.us-west-2.amazonaws.com/v1/manifest/6b8beeb9ed833d048c8c8155a25a28fe617c5474/hottest_of_the_hot_loop/a156c92f-4dc7-4cb8-b7cf-fd9462d51d3a/3.m3u8
-
 #EXTINF:-407,STINGRAY MUSIC EVERYTHING 80'S
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
