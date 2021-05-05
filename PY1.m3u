@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMTg5Mzk1LCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNzk3OTc1ODhlZjg4NWMzNDFjODM0NDNmNWNjMTA1M2NlZDc5ZjUwNiJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwMjc3NjUzLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiNmNkZmY1NGQ5MzI3NjkzMDYwOGI5MWI5MDIzZjA1ZmIxNTM5MDlhNSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -651,6 +651,9 @@ https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 #EXTINF:-90,SIN TETAS NO HAY PARAÍSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
 
+#EXTINF:-90,SIN TETAS NO HAY PARAÍSO 2
+https://stitcher.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b5013f78-ad4f-11eb-bd7e-0242ac110002
+
 #EXTINF:-90,PLUTO TV NOVELAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
 
@@ -1253,6 +1256,12 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingraysoulstorm/CDN/768x432
 
 #EXTINF:-407,STINGRAY MUSIC ÉXITOS DEL MOMENTO
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/stingray2/d7e71382-06c7-4071-bac2-bd7a19510c7f/0.m3u8
+
+#EXTINF:-407,STINGRAY CONCIERTOS
+https://stitcher.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b967cd/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b5013f78-ad4f-11eb-bd7e-0242ac110002
+
+#EXTINF:-407,STINGRAY KARAOKE
+https://stitcher.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=b5013f78-ad4f-11eb-bd7e-0242ac110002
 
 #EXTINF:-407,VH1 CLASSICS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
