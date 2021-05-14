@@ -399,9 +399,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6f
 #EXTINF:-64,NICK TEEN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
-#EXTINF:-61,TOONCAST
-https://hlscat.com/my_list/s/a91cf12954c12fb688450ae4687bc71b.m3u8
-
 #EXTINF:-64,PLANETA KIDS
 https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
 
@@ -537,17 +534,32 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073
 #EXTINF:-72,RAKUTEN TV SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-72,RAKUTEN TV SPOTLIGHT 2
+https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-72,RAKUTEN TV SHOWS
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-72,RAKUTEN TV SHOWS 2
+https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-72,RAKUTEN TV COMEDY MOVIES
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-72,RAKUTEN TV COMEDY MOVIES 2
+https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-72,RAKUTEN TV ACTION MOVIES
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
+#EXTINF:-72,RAKUTEN TV ACTION MOVIES 2
+https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
+
 #EXTINF:-72,RAKUTEN TV FAMILY
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-72,RAKUTEN TV TOP FREE
+https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
 #EXTINF:-72,CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
@@ -1013,6 +1025,12 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 
 #EXTINF:-200,GEN TV (Arg.)
 https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-200,ZONDA TV (Arg.)
+https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
+
+#EXTINF:-200,XAMA TV (Arg.)
+https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
 #EXTINF:-200,FÉNIX TV (Arg.)
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
