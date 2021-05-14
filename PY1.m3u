@@ -819,6 +819,12 @@ http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 #EXTINF:-124,TV SUR CANAL 14 (Costa Rica)
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
+#EXTINF:-124,TELE MÁS (Costa Rica)
+https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8?WebM3UCL
+
+#EXTINF:-130,CERTV CANAL 4 (Rep. Dom.)
+https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/playlist.m3u8
+
 #EXTINF:-130,TELESISTEMA (Rep. Dom.)
 https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w42154415.m3u8
 
@@ -851,6 +857,12 @@ http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
 #EXTINF:-130,CANAL 12 (Rep. Dom.)
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
+
+#EXTINF:-130,TELERADIO AMÉRICA (Rep. Dom.)
+https://ss3.domint.net:3008/tra_str/canal45/playlist.m3u8
+
+#EXTINF:-130,TV RECUERDOS CANAL 56 (Rep. Dom.)
+https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 
 #EXTINF:-130,SURAM TV (Colombia)
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
