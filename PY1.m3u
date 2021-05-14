@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIwOTYxOTYyLCJzZXNzaW9uIjoiMTgxLjEyNi4xOTQuMTMzIiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMTk0LjEzMyJdfSwic2lnbmF0dXJlIjoiYmM3YWZhNjMxOGE2NWFkMjQwZDc3OTE4YWFiNWNkNmJkODA3MjJjMiJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMDQ4MDc2LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNzZlYzM4ZTU3ZTMxODI2YzgwZTI4OGU1MjE0YWQ1ZDQyODg4MjJlMyJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -89,6 +89,9 @@ https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
 #EXTINF:-26,FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
+
+#EXTINF:-26,TAPUA TV
+https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
 #EXTINF:-2001,CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
