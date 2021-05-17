@@ -237,6 +237,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d00098
 #EXTINF:-53,PLUTO TV ANIME ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
+#EXTINF:-53,PLUTO TV ANIME CLÁSICO
+https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e68d103f-b6ef-11eb-97a6-0242ac110002
+
 #EXTINF:-54,ANIME ZONE TV
 http://animeloving.net/hls/stream.m3u8
 
@@ -293,6 +296,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091
 
 #EXTINF:-57,BIG TIME RUSH (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
+
+#EXTINF:-57,GARFIELD (España)
+https://stitcher.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e68d103f-b6ef-11eb-97a6-0242ac110002
 
 #EXTINF:-57,RUGRATS CRECIDOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
