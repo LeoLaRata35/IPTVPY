@@ -1,98 +1,97 @@
-EXTM3U
+#EXTM3U
 
-#EXTINF:-1,RCN TV
+#EXTINF:-1,tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png" group-title="NACIONALES",RCN TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
-#EXTINF:-2,NPY
+#EXTINF:-2,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES",NPY
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8 
 
-#EXTINF:-3,TVS
+#EXTINF:-3,tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES",TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
-#EXTINF:-4,TELEFUTURO
+#EXTINF:-4,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES",TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-5,PARAVISIÓN
+#EXTINF:-5,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es" group-title="NACIONALES",PARAVISIÓN
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-6,MI TV
+#EXTINF:-6,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES",MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
-#EXTINF:-7,VISIÓN VILLARRICA
+#EXTINF:-7,tvg-logo="https://play-lh.googleusercontent.com/ZYiE4ZM-taF4zLvDFDsU2i7vV8MJ31ydJd2E6ae6WTkA5UN-iqgDpSAqDzb4KoFDYC4" group-title="NACIONALES",VISIÓN VILLARRICA
 http://inliveserver.com:1935/8312/8312/playlist.m3u8
 
-#EXTINF:-8,UNICANAL
+#EXTINF:-8,tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES",group-title="NACIONALES",UNICANAL
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-9,SNT
+#EXTINF:-9,tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES",SNT
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMzExMzI2LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYmI0ZmMwYjhlN2FjYWJhNWI5MDZkN2ExM2IwN2M1NTdhYWFhYTY1ZSJ9
 
-#EXTINF:-10,SUR
+#EXTINF:-10,tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES",SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-11,LATELE
+#EXTINF:-11,tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES",LATELE
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
 
-#EXTINF:-12,C9N
+#EXTINF:-12,tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES",C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-video=3900000-audio_20000=144800.m3u8
 
-#EXTINF:-13,TRECE
+#EXTINF:-13,tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES",TRECE
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-14,LIM TV
+#EXTINF:-14,tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES",LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
-#EXTINF:-15,ABC TV
+#EXTINF:-15,tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png" group-title="NACIONALES",ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-15,ÑANDUTÍ TV
+#EXTINF:-15,tvg-logo="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAOEAAADgCAMAAADCMfHtAAAAh1BMVEX////0mRP0lgDzkAD0lAD0lwDzjwD//fr1mxX0mAz60KX97+D/+/b5x5P1ojf60qn859H+9uz3u3j3uHH97Nr73sD1pDz+8+f72rr4wIT3s2X1nyv5ypj74cb61rD2r1v2p0X4woj4vXz2sV/2q1D85Mz3tGn1oC/2p0T6zJ72rVX4wIX0myJf3R6AAAAGgUlEQVR4nO2daXeqMBCG22QCjaAo1K0u1dZW7fX//74rFWRLWIQk9Jx5Pt2e6iFvk1kyGXKfnhAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQRAEQXqI7Wy8of95OI1Go9Ph0x96G8c2PajOcLb+CCgAEMZ4CGPk+hOFo791TA+uNe4iYBYQ/iyCE6AkWLimB/k49uKdytTduar82f7NBfvqA7BydREMIHg1PdzGbHaU1JIXzSQ9TU0PuRGbI603fQmcrv6OxvGJVhifROPsy/TQa+G+PaTvpvFzYnr41Qwa2V8eQs+mBVQw2UELfSFwmpsWUcaiZnwog9GtaRlyfNpaXwgNTAuR4I7artAYOPYyk3NY+xUaw0gPc5yvh2OECE43pgXlmVod6guxepbhdC7wKnFhWlSaTfcC+zWL426iREFib9LUeadOJgXtSXpjc0UCnznrR1zctUm1y2E70+JC/nWVyYiApWl5itxogmU88tugyggjwLQpvqkzwhvk3azAqZpImIaazW2UBYoETkzWi/cq/WiMSX86UetHYyxzqY1yN3ODfZoS6OiZwuskmtrxv3VXtiiHGYoYc/WRIoaaOUn90GOFIcQ3IdDVESliqInczdOpEAYGFM5K0xkeNiP8UnXMXQt+1C+wJFRwoLALhoPFdLrw1sHu+mMtk+Uiot9R/QFjLVukxJqdc8Nxtt9QfejGX0REv4ShdoUr8eIDuhTnWOMlqTiYIsLvRR6bX1SKETEXLlJOlyVOb/peNpESDX70Fe3J6Va0SGFUEZnnS5B6YEniEkQKwVOgooxvwYqjH9Xfs4cyjRJL+4wepD39Fmx9rXoxS6aRjoUfP8R/Suhy+NUIclJaexnZZyjWrzgXf3h0jxd6c9NFYRqa7cQHLK9RFg5e4s+B3nrNMK+wcXV6Mco6VhBXY+z7g8i+9aib8J53NA+UNcdBqrVP1oAxuZsD+2k55mbk4/1jHSL2NmzPZJwTSzZBycGd5pifW6SPn6DYm/1hNfuQZp0pg5esYzVMcq5UnZ9LGbzW08TXrELyrexJP4nBSwKmGjbZVaowVKUyC9B5rp8NhwpLYenMAnT2u2UrGFRdR0E6wddayRikFfIXdQ9KJ/igs/U0oxDW6h6UeY4xhQr3pl+9UMhX6p7jE1MK055GZUaccWhaPU06WoC6bolsqURrtEjbh8KC+yiT3yv8UxZJZW18pOwpX9ncUGvWlsq8ibq28112E0q1vm2S2tOU2f/X2vfXj2Y8m9wGRm8pKrGQEuvYXK77WwKULR86dLhkd9kqo5KA5IBbvq8YWNEQOaHHQWN/lC8FaT7qTs5lpAWacbruz4H6zbZYr/l6peazmeldoaTMmXf14Utbhwbu3i2UnLVuD1POVGodhTkI32ha1a4aHwunBrpbomM3wE+SDxQqqrfFCsM6BmkfC4dU/LnL4dcgzomlVcxCRTVebFa1QTrPxS8rjLti4syUvUk+cJQe3xPrUG5SZ1Hvv9asNMS1Kv60ZX2ZDPheOpHTlfBoytL+/uzppoB9P9ki3PJj+2v0GJ0FrsP1VuK2aj7TLfC+CWZUTKnASORlOU35HXd8PliytnGt298bXfSWhhdjXH78/XD473t3obSklUH/Is1Uo1up/L3ohBBW2ljEDvoFptIaDWg+Ho3Q0MUew8W9NqoRZi1qAL3nvzGuxg5aQ5dJaGuhNdNA+5TkNcoxESpuKH0xLwFq9Fopwtaj0EgLdISWTmgjHdB38qUKBZhogE7xqt7ZWDpL3QKUv71m0M1ESLqhu0J/93MBR21mY+h9oAxblRLrN62qxFdnitCT+5SUXarA9BdnxNiC8mYXcN6bOzEnnbzbVBBIenQB31zBzQoceuBGE5zOJfZMYDiL3dpi7wRebfHSpUdlzz2ywRi79aWQCTAzfaOJmKCr7Iaq66puidfJlVicGt3yluNc2q9UuPTwzsQUS6vdNHLL+H6wirH4gLP2BBre0dfiLH9PtAKisqG6S9yPh25LJtTvZ4wQMQmspvNIrKAndwjWZLIXvCcqhQMse5jEVGBvT7SWSA505vVmJ9gMZ7iyKjJyBnQ17F2S3YT54B0k/8lF2KdAfwZ/Wl7Eq+fPGKW/F52EhP+glMx8r9/ZS0Mm46m33i/9wP/Yr73p+O85FgRBEARBEARBEARBEARBEARBEARBEARBEARBEARBEARBEC38BwL2VmRjfx4GAAAAAElFTkSuQmCC" group-title="NACIONALES",ÑANDUTÍ TV
 https://srv.panelcast.net/nanduti/nanduti/playlist.m3u8
 
-#EXTINF:-18,RCC
+#EXTINF:-18,tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES",RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
-#EXTINF:-19,SUCESO TV
+#EXTINF:-19,tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES",SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-20,KOA TV
+#EXTINF:-20,tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES",KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
-#EXTINF:-21,SOMOS DEL ESTE TV
+#EXTINF:-21,tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES",SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:-23,ESTACIÓN CRISTAL TV
+#EXTINF:-23,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES",ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-27,GCV CANAL 10 GUAJAYVI
+#EXTINF:-27,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yBIMu0llgnATqjwCEye-OgslI1jVa4a13pRw8iGWdUcxS4qqN4MXKgTEfN6ToomMkAU&usqp=CAU" group-title="NACIONALES",GCV CANAL 10 GUAJAYVI
 http://nextplayparaguay.live/hls/canal10.m3u8
 
-#EXTINF:-27,CABLEMÁS
+#EXTINF:-27,tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="NACIONALES",CABLEMÁS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 
-#EXTINF:-28,UGA TV
+#EXTINF:-28,tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES",UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-28,FIERA TV
+#EXTINF:-28,tvg-logo="https://play-lh.googleusercontent.com/pD0HjojpbUNvaooC92pivnHYIRx87PAyHziUFs1CLW1ThDM9qvp-Ykb_O2a6i_7iXS0=h250-rw" group-title="NACIONALES",FIERA TV
 https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
-#EXTINF:-29,EMPRENDE TV
+#EXTINF:-29,tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES",EMPRENDE TV
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 
-#EXTINF:-29,INTEGRACIÓN TV
+#EXTINF:-29,tvg-logo="data:image/jpeg;base64,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" group-title="NACIONALES",INTEGRACIÓN TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
-#EXTINF:-26,CHORE TV
+#EXTINF:-26,tvg-logo="https://image.winudf.com/v2/image1/cGFyYWd1YWkuamVndWFrYV9zY3JlZW5fMF8xNjAwNzQ2NzcwXzAxNA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="NACIONALES",CHORE TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
-#EXTINF:-26,GO TV
+#EXTINF:-26,tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES",GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
-#EXTINF:-26,FARRA PLAY
+#EXTINF:-26,tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES",FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-26,TAPUA TV
+#EXTINF:-26,tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES",TAPUA TV
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
-
 #EXTINF:-2001,CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
