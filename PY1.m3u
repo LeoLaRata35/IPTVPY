@@ -25,7 +25,7 @@ http://inliveserver.com:1935/8312/8312/playlist.m3u8
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9,SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMTM1OTAwLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNTgxOWYxZTkyZDlkNTc5MDQ3NmM4YTY5YzI2ZjA1OWFkYzkzMTcwYyJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxMzExMzI2LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYmI0ZmMwYjhlN2FjYWJhNWI5MDZkN2ExM2IwN2M1NTdhYWFhYTY1ZSJ9
 
 #EXTINF:-10,SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -767,6 +767,15 @@ https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/
 
 #EXTINF:-91,LATINOS UP
 https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3u8
+
+#EXTINF:-91,GH TELEVISIÓN
+https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
+
+#EXTINF:-91,CANAL 18
+https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
+
+#EXTINF:-91,CANAL 7 (Chile)
+https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
 
 #EXTINF:-91,UCV (Chile)
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
