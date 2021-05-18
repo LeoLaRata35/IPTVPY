@@ -120,7 +120,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d
 #EXTINF:-33,tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",FÚTBOL PARA FANS
+#EXTINF:-33,tvg-logo="https://i.ibb.co/qWhn5N8/Apple-Onion-2016.png" group-title="DEPORTES Y COMPETENCIAS",FÚTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
 #EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV DEPORTES
