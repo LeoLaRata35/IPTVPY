@@ -195,78 +195,77 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 #EXTINF:-36,tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png" group-title="DEPORTES Y COMPETENCIAS",GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
+#EXTINF:-50,tvg-logo="https://www.levelup.com/images/logo.svg" group-title="GAMING Y ANIME",LEVEL UP TV
+https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/7cadbb36-1978-4af3-8bc2-8f9fc8b423c3/0.m3u8
+
+#EXTINF:-51,tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="GAMING Y ANIME",ESR 24/7 NETWORK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
+
+#EXTINF:-51,#EXTINF:-51,tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="GAMING Y ANIME",ESR 24/7 NETWORK (Inglés)
+https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
+
+#EXTINF:-71,tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="GAMING Y ANIME",IGN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
+
+#EXTINF:-71,tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="GAMING Y ANIME",IGN 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
+
+#EXTINF:-71,tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="GAMING Y ANIME",IGN 3
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
+
+#EXTINF:-71,tvg-logo="https://lh3.googleusercontent.com/proxy/L_FBizqqab0vP8G4ZiSTZAy5C8VJJtFRgJK28A82AlEYoGz5Uc_hG0BO5PVOzTo7D2V8IznT2x8cAzyxnPWxvZB1koYXG3dgwlWsUZ9CcPwsbfd46bqpEiL9cPwwjitJSolGcBx38vF8p5vx" group-title="GAMING Y ANIME",PLUTO TV GAMER (Inglés)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
+
+#EXTINF:-52,tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME",LOCOMOTION
+http://51.222.85.85:81/hls/loco/index.m3u8
+
+#EXTINF:-53,tvg-logo="https://cfm.yidio.com/mobile/img/streams/602/logo-180h.png" group-title="GAMING Y ANIME",PLUTO TV ANIME
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
+
+#EXTINF:-53,tvg-logo="https://www.techgames.com.mx/wp-content/uploads/2020/05/Pluto-TV-anime-accion-800x360.jpg" group-title="GAMING Y ANIME",PLUTO TV ANIME ACCIÓN
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
+
+#EXTINF:-53,tvg-logo="https://www.line-stickers.com/wp-content/uploads/2017/05/NINJA-HATTORI-KUN-.png" group-title="GAMING Y ANIME",PLUTO TV ANIME CLÁSICO
+https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e68d103f-b6ef-11eb-97a6-0242ac110002
+
+#EXTINF:-54,tvg-logo="https://lh3.googleusercontent.com/-Y39xxVnyC-s/YGO9nUlOTfI/AAAAAAABBEA/Ibwzbtm-67UtK78dc75JoB1OPmUHFnh5ACK8BGAsYHg/s512/2021-03-30.png" group-title="GAMING Y ANIME"ANIME ZONE TV
+http://animeloving.net/hls/stream.m3u8
+
+#EXTINF:-54,tvg-logo="data:image/png;base64,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" group-title="GAMING Y ANIME",TOKUSATO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
+
+#EXTINF:-54,tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="GAMING Y ANIME",TOONIZAKI
+https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
+
+#EXTINF:-54,tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME",CONTV ANIME (Inglés)
+https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
+
+#EXTINF:-54,tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png" group-title="GAMING Y ANIME",RETRO CRUSH TV (Inglés)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/520bb366-8131-46f4-aa70-3fba74f67bcd/4.m3u8
+
+#EXTINF:-54,tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME",YU-GI-OH!
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
+
+#EXTINF:-54,tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME",YU-GI-OH! 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
+
+#EXTINF:-54,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME",NARUTO
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
+
+#EXTINF:-54,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Naruto_logo.svg/1280px-Naruto_logo.svg.png" group-title="GAMING Y ANIME",NARUTO 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
+
+#EXTINF:-54,tvg-logo="https://static.wikia.nocookie.net/jump-force/images/7/75/One_Piece_Logo.png/revision/latest?cb=20180717152610&path-prefix=es" group-title="GAMING Y ANIME",ONE PIECE
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
+
+#EXTINF:-50,tvg-logo="https://cdn.mitvstatic.com/programs/sv_mundo-geek-s00e02_l_m.jpg" group-title="GAMING Y ANIME",MUNDO GEEK
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 
 #EXTINF:-50,CANAL ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
 
 #EXTINF:-50,DREIKO TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
-
-#EXTINF:-50,MUNDO GEEK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
-
-#EXTINF:-50,LEVEL UP TV
-https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/7cadbb36-1978-4af3-8bc2-8f9fc8b423c3/0.m3u8
-
-#EXTINF:-51,ESR 24/7 NETWORK
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c8dada/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c11-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8c67fb7c-fcd9-41e1-baba-8fefef855e17&userId=&serverSideAds=true
-
-#EXTINF:-51,ESR 24/7 NETWORK (Inglés)
-https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
-
-#EXTINF:-71,IGN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
-
-#EXTINF:-71,IGN 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f8ecee24576bc0007a13b79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda4eee0-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9030f60f-6b24-446e-8b43-73ed42a17db8&userId=&serverSideAds=true
-
-#EXTINF:-71,IGN 3
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077e31af/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449ed93-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8552379d-eb98-45b8-bf09-8d25de349206&userId=&serverSideAds=true
-
-#EXTINF:-71,PLUTO TV GAMER (Inglés)
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
-
-#EXTINF:-52,LOCOMOTION
-http://51.222.85.85:81/hls/loco/index.m3u8
-
-#EXTINF:-53,PLUTO TV ANIME
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
-
-#EXTINF:-53,PLUTO TV ANIME ACCIÓN
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
-
-#EXTINF:-53,PLUTO TV ANIME CLÁSICO
-https://stitcher.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=e68d103f-b6ef-11eb-97a6-0242ac110002
-
-#EXTINF:-54,ANIME ZONE TV
-http://animeloving.net/hls/stream.m3u8
-
-#EXTINF:-54,TOKU SATO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
-
-#EXTINF:-54,TOONIZAKI
-https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
-
-#EXTINF:-54,CONTV ANIME (Inglés)
-https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
-
-#EXTINF:-54,RETRO CRUSH TV (Inglés)
-https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/manifest/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/520bb366-8131-46f4-aa70-3fba74f67bcd/4.m3u8
-
-#EXTINF:-54,YU-GI-OH!
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
-
-#EXTINF:-54,YU-GI-OH! 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604930bc28b24d0007e0e171/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121fb50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=02e68d02-b9a6-4878-9f5d-7d552a4dfa78&userId=&serverSideAds=true
-
-#EXTINF:-54,NARUTO
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee92e72fb286e0007285fec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27170-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1372261-d71b-427e-b9b7-e0afe4a6974b&userId=&serverSideAds=true
-
-#EXTINF:-54,NARUTO 2
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60493045fbb5e50007b36f4d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121d440-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=94e07421-ca3c-463f-b308-3fd75bb5431d&userId=&serverSideAds=true
-
-#EXTINF:-54,ONE PIECE
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f8000779eb99/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c14-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c4c4d3a3-dc88-49b4-9fda-30049d73b3f2&userId=&serverSideAds=true
 
 #EXTINF:-55,LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
