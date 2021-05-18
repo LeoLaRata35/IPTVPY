@@ -111,7 +111,7 @@ https://iptvcat.com/my_list/s/b8d1bab7634629d935ff0009d2abe542.m3u8
 #EXTINF:-32,tvg-logo="https://pbs.twimg.com/profile_images/955807275117174784/oPNrCwAs.jpg" group-title="DEPORTES Y COMPETENCIAS",EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-32,tvg-logo="https://static-homepage-en.pluto.tv/hp-assets/images/pluto-tv-abbd637b3dc06fb0f0c5ee6eea402166.svg" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV VELOCIDAD
+#EXTINF:-32,tvg-logo="https://images.pluto.tv/channels/5dd6dc7480e3550009133d4a/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 
 #EXTINF:-32,tvg-logo="https://www.formulatv.com/images/noticias/21200/21241/1.jpg" group-title="DEPORTES Y COMPETENCIAS",TUNING
@@ -120,16 +120,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d
 #EXTINF:-33,tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS",DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-33,tvg-logo="https://pluto.tv/assets/images/logoSplash.svg" group-title="DEPORTES Y COMPETENCIAS",FÚTBOL PARA FANS
+#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5e3ddd1a3ef73b00091d5779/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",FÚTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://pluto.tv/assets/images/logoSplash.svg" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV DEPORTES
+#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5dcde07af1c85b0009b18651/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://pluto.tv/assets/images/logoSplash.svg" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV PELEAS
+#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5e98b0447665f200078caded/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV PELEAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://pluto.tv/assets/images/logoSplash.svg" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV COMPETENCIAS
+#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5dd6d935d000120009bc1132/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV COMPETENCIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
 
 #EXTINF:-33,tvg-logo="https://static.wikia.nocookie.net/logos2/images/2/2b/Menu_icon_12123.png/revision/latest/scale-to-width-down/545?cb=20210108015136" group-title="DEPORTES Y COMPETENCIAS",SONY CANAL COMPETENCIAS
@@ -144,10 +144,10 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539b
 #EXTINF:-33,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="DEPORTES Y COMPETENCIAS",ALL ELITE WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/dcrkqfi-73eb2990-fa66-41b1-99f9-80c70b4e7c64.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGNya3FmaS03M2ViMjk5MC1mYTY2LTQxYjEtOTlmOS04MGM3MGI0ZTdjNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RKhPwInn3Dy-mLiLpnYkzl-45WT8duHTwOQTU4vjfAs" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA
+#EXTINF:-33,tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
-#EXTINF:-3300,tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/88e30824-3c9a-4957-b6ab-394cb783aa20/dcrkqfi-73eb2990-fa66-41b1-99f9-80c70b4e7c64.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzg4ZTMwODI0LTNjOWEtNDk1Ny1iNmFiLTM5NGNiNzgzYWEyMFwvZGNya3FmaS03M2ViMjk5MC1mYTY2LTQxYjEtOTlmOS04MGM3MGI0ZTdjNjQucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.RKhPwInn3Dy-mLiLpnYkzl-45WT8duHTwOQTU4vjfAs" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA 2
+#EXTINF:-3300,tvg-logo="https://images.pluto.tv/channels/5f99a772c54853000797bf18/colorLogoPNG.png?w=117" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 
 #EXTINF:-35,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES Y COMPETENCIAS",MLB NETWORK
