@@ -348,7 +348,7 @@ https://kedoo-supertoonstv-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-61,tvg-logo="https://i.postimg.cc/brHp8wVz/JUNIOR.png" group-title="NIÑOS Y ADOLESCENTES",PLUTO TV JUNIOR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2ac4bc6c500094ab45b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff09cb2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8363a179-73ed-45ee-8927-75d6fecf5c50&userId=&serverSideAds=true
 
-#EXTINF:-61,tvg-logo="https://i.postimg.cc/brHp8wVz/JUNIOR.png" group-title="NIÑOS Y ADOLESCENTES",,PLUTO TV JUNIOR (España)
+#EXTINF:-61,tvg-logo="https://i.postimg.cc/brHp8wVz/JUNIOR.png" group-title="NIÑOS Y ADOLESCENTES",PLUTO TV JUNIOR (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa9bcd8160700076d45d1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4492a41-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8ae70f51-5e3c-4e72-b4fa-e5c3a3ced6ae&userId=&serverSideAds=true
 
 #EXTINF:-61,tvg-logo="https://static.wikia.nocookie.net/santiago/images/1/16/Bftvlogo2019.png/revision/latest/scale-to-width-down/601?cb=20201104211713" group-title="NIÑOS Y ADOLESCENTES",BABYFIRST
@@ -483,16 +483,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcb62e63d4d8f0009f
 #EXTINF:-71,tvg-logo="https://i.postimg.cc/R0Dhhd1N/CINE-ACCI-N.png" group-title="CINE Y SERIES",CINE ACCIÓN (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac2591dd8880007bb7d6d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4ba1f1-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2ef6bc3f-95cc-43bd-98df-11ffd10b28fc&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE ADRENALINA
+#EXTINF:-71,group-title="CINE Y SERIES",CINE ADRENALINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d164d92e97a5e107638d2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0ffcd50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6a432784-0445-4dce-b1c8-3ec58a005793&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE SUSPENSO
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/XJ7dX5Np/CINE-SUSPENSO.png" group-title="CINE Y SERIES",CINE SUSPENSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc4e8bcbb9010009b4e84f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18710-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6602c30d-29cf-40ea-9379-390b2d9b72bb&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE TERROR
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE Y SERIES",CINE TERROR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddf1ed95e740009fef7ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00070-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c808f376-3c51-4ce4-8dc1-f9b1e9c494cc&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE TERROR 2
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/XJQhy9wh/CINE-TERROR.png" group-title="CINE Y SERIES",CINE TERROR 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d180092e97a5e107638d3/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31d6ed5a-e18e-40e7-86c3-072f2b86df3c&userId=&serverSideAds=true
 
 #EXTINF:-71,CINE COMEDIA
