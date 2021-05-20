@@ -276,7 +276,7 @@ https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/play
 #EXTINF:-56,tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES",LOS SIMPSONS 2
 https://lavozdetucuman.com/simpsons.m3u8
 
-#EXTINF:-56,tvg-logo="http://www.brucesallan.com/wp-content/uploads/2013/06/MTV-logo.jpg" group-title="NIÑOS Y ADOLESCENTES",MTV ANIMACIONES
+#EXTINF:-56,tvg-logo="https://i.postimg.cc/1XdvJp8v/MTV_ANIMACIONES.png" group-title="NIÑOS Y ADOLESCENTES",MTV ANIMACIONES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27172-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ee82024-6fd5-4fd7-b68f-606316a1738b&userId=&serverSideAds=true
 
 #EXTINF:-57,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Real_Monsters_DVD_logo.png/revision/latest?cb=20160108033538" group-title="NIÑOS Y ADOLESCENTES",REAL MONSTERS
@@ -618,25 +618,25 @@ https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1675545244.m3u
 #EXTINF:-76,tvg-logo="" group-title="CINE Y SERIES",CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w541442211.m3u8
 
-#EXTINF:-77,RETRO TV PALMARES
+#EXTINF:-77,tvg-logo="https://i.postimg.cc/jdC6ZwQ7/RETRO-TV-PALMARES.png" group-title="CINE Y SERIES",RETRO TV PALMARES
 http://tvretropalmares.com:8090/hls/envivo.m3u8?WebM3UCL
 
-#EXTINF:-78,WMS HD
+#EXTINF:-78tvg-logo="https://i.postimg.cc/HnFrSxdw/wmshd.png" group-title="CINE Y SERIES",,WMS HD
 http://cm.hostlagarto.com:8081/wmserviceHD/wmservicehd.myStream/chunks.m3u8
 
-#EXTINF:-79,CINE.AR
+#EXTINF:-79,tvg-logo="https://i.postimg.cc/63k7cq9d/cinear.jpg" group-title="CINE Y SERIES",CINE.AR
 https://5fb24b460df87.streamlock.net/live-cont.ar/cinear/chunklist_w1950619080.m3u8
 
-#EXTINF:-801,FLIXTUBE
+#EXTINF:-801,tvg-logo="https://i.postimg.cc/FsQdJYCv/flixtube.png" group-title="CINE Y SERIES",FLIXTUBE
 https://panel.streamingtv-mediacp.online:1936/8054/8054/.m3u8
 
-#EXTINF:-80,WOW TV
+#EXTINF:-80,tvg-logo="https://i.postimg.cc/9fSzX0wv/wowtv.png" group-title="CINE Y SERIES",WOW TV
 http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/chunklist_w84588335.m3u8
 
-#EXTINF:-81,COLOSAL TV
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/QMBxzDYS/colosaltv.png" group-title="CINE Y SERIES",COLOSAL TV
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/chunklist_w2104890955.m3u8
 
-#EXTINF:-81,COMEDY CENTRAL
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/VkQRvsn0/comedy_central.png" group-title="COMEDIA Y ENTRETENIMIENTO",COMEDY CENTRAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a432945000762d06b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=79573c15-77dd-11eb-a61c-2f38487b60c0&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd904709-6614-46f7-80bd-de128553e6f3&userId=&serverSideAds=true
 
 #EXTINF:-81,COMEDY CENTRAL LATINO
