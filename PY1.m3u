@@ -501,121 +501,121 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcdde78f080d900098
 #EXTINF:-71,tvg-logo="https://i.postimg.cc/cLgRNQqQ/CINE-COMEDIA.png" group-title="CINE Y SERIES",CINE COMEDIA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8099c49f600076579b2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9679f680-433b-41b5-b65b-d3f9c407f275&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE JAJA!!
+#EXTINF:-71,group-title="CINE Y SERIES",CINE JAJA!!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f513564e4622a0007c578c0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115c650-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2c24e3d-01f5-4d23-a4be-a53210dbc21c&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE XOXO
+#EXTINF:-71,group-title="CINE Y SERIES",CINE XOXO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5136317aedfb0007016f93/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a115ed60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f83ca203-9359-411e-a06a-f401bb16ab3a&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE ROMANCE
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/yNSgq7gv/CINE-ROMANCE.png" group-title="CINE Y SERIES",CINE ROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd7ea2aeab5230009986735/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f9d5191c-e833-44e1-b5c5-067f5a57a102&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE ROMÁNTICO
+#EXTINF:-71,group-title="CINE Y SERIES",CINE ROMÁNTICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac9a2d3611d0007a844bb/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a89d0-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b946b5ad-df98-4df0-a5c3-637b325d942e&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE DRAMA
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE Y SERIES",CINE DRAMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfcb229eff00091b6bdf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00072-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6e24734a-39dc-48e4-8068-40d233385993&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE DRAMA (España)
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/ZK7CCW6w/CINE-DRAMA.png" group-title="CINE Y SERIES",CINE DRAMA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac947dcd00d0007937c08/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a62c1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99870be5-05f2-48d8-b695-39dfabde3232&userId=&serverSideAds=true
 
-#EXTINF:-71,CINE LATINO
+#EXTINF:-71,group-title="CINE Y SERIES",CINE LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc54853000797a5e8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d22-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7915058d-f10f-499c-be51-3669a8f4bd35&userId=&serverSideAds=true
 
-#EXTINF:-71,ESTRELLAS DE ACCIÓN
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/KzDYFjZr/ESTRELLAS-DE-ACCI-N.png" group-title="CINE Y SERIES",ESTRELLAS DE ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e972a21ad709d00074195ba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22351-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=988908ef-9cb1-4bfd-9346-d817932e3a37&userId=&serverSideAds=true
 
-#EXTINF:-71,SÉPTIMO ARTE
+#EXTINF:-71,group-title="CINE Y SERIES",CSÉPTIMO ARTE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96b1c4f1ca3f0629f4bf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0eedd60-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05e50493-989d-41b8-b7ad-f17f965c8f4a&userId=&serverSideAds=true
 
-#EXTINF:-71,PLUTOTV THRILLERS
+#EXTINF:-71,group-title="CINE Y SERIES",CPLUTOTV THRILLERS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d000745d7cf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a3bb2-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bec2cd61-c8bf-4269-8475-9b5cdf24d1f0&userId=&serverSideAds=true
 
-#EXTINF:-71,SCI-FI
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES",SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
 
-#EXTINF:-71,SCI-FI (España)
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES",SCI-FI (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
-#EXTINF:-71,VIAJE A LAS ESTRELLAS
+#EXTINF:-71,group-title="CINE Y SERIES",VIAJE A LAS ESTRELLAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6049295e7dcef800073c2499/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a51-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c8ef5fcb-54da-459f-aee5-b09662432fc7&userId=&serverSideAds=true
 
-#EXTINF:-72,RAKUTEN TV SPOTLIGHT
+#EXTINF:-72,group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT
 https://rakuten-spotlight-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV SPOTLIGHT 2
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV SPOTLIGHT 2
 https://rakuten-spotlight-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV SHOWS
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV SHOWS
 https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV SHOWS 2
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV SHOWS 2
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV COMEDY MOVIES
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV COMEDY MOVIES 2
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV COMEDY MOVIES 2
 https://rakuten-comedymovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV ACTION MOVIES
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES
 https://rakuten-actionmovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV ACTION MOVIES 2
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV ACTION MOVIES 2
 https://rakuten-actionmovies-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV FAMILY
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV FAMILY
 https://rakuten-family-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,RAKUTEN TV TOP FREE
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES",RAKUTEN TV TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
 
-#EXTINF:-72,CINE REAL
+#EXTINF:-72,group-title="CINE Y SERIES",CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
 
-#EXTINF:-72,TU CINE
+#EXTINF:-72,group-title="CINE Y SERIES",TU CINE
 https://tucine-plex.amagi.tv/TuCine-xumo/master.m3u8
 
-#EXTINF:-72,CINE HORRORFY
+#EXTINF:-72,group-title="CINE Y SERIES",CINE HORRORFY
 https://olympusamagi.pc.cdn.bitgravity.com/Horrify-roku/master.m3u8
 
-#EXTINF:-72,CINE JUNTOS
+#EXTINF:-72,group-title="CINE Y SERIES",CINE JUNTOS
 https://olympusamagi.pc.cdn.bitgravity.com/Juntos-roku/master.m3u8
 
-#EXTINF:-72,CINE SUREÑO
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/5NMZLgS0/CINE-SURE-O.jpg" group-title="CINE Y SERIES",CINE SUREÑO
 https://olympusamagi.pc.cdn.bitgravity.com/CineSureno-roku/master.m3u8
 
-#EXTINF:-72,TOP CINE
+#EXTINF:-72,group-title="CINE Y SERIES",TOP CINE
 https://olympusamagi.pc.cdn.bitgravity.com/TopCine-roku/master.m3u8
 
-#EXTINF:-72,LA CORRIENTE TV
+#EXTINF:-72,group-title="CINE Y SERIES",LA CORRIENTE TV
 https://stream.ads.ottera.tv/cl/c4794928-972f-41d7-bb3e-fe34e98143ab/640x360_400000_0.m3u8
 
-#EXTINF:-72,MI TV CINE
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/sf5LjSCR/mitv.png" group-title="CINE Y SERIES",MI TV CINE
 http://162.244.80.176:8081/abr/stream/live/livestream_480p/chunks.m3u8
 
-#EXTINF:-72,007 EN ESPAÑOL
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/5ympwBfY/007.png" group-title="CINE Y SERIES",007 EN ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b58e7ea6f9918873886f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1006990-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=54476272-59d4-461e-be4b-c9e19dd585d8&userId=&serverSideAds=true
 
-#EXTINF:-72,THE WALKING DEAD
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/kgGwbRzG/TWD.png" group-title="CINE Y SERIES",THE WALKING DEAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e82bb378601b80007b4bd78/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a109b860-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=89e7768a-d856-44a6-ba93-5bff4d40757c&userId=&serverSideAds=true
 
-#EXTINF:-72,CSI EN ESPAÑOL
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/dVT7Tqsr/CSI.png" group-title="CINE Y SERIES",CSI EN ESPAÑOL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604928d54a4f730007ff76bc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11f8a50-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=38041b3f-c9d2-4524-8784-12dc0b2a0c11&userId=&serverSideAds=true
 
-#EXTINF:-72,MI CINE LIFE
+#EXTINF:-72,tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES",,MI CINE LIFE
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-73,FMTV
+#EXTINF:-73,tvg-logo="https://i.postimg.cc/7P2YVB8r/FMTV-1.png" group-title="CINE Y SERIES",FMTV
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
 
-#EXTINF:-74,FMTV 2
+#EXTINF:-74,tvg-logo="https://i.postimg.cc/zvrmpFKq/FMTV-2.jpg" group-title="CINE Y SERIES",FMTV 2
 https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w1362286339.m3u8
 
-#EXTINF:-75,FMTV 3
+#EXTINF:-75,tvg-logo="" group-title="CINE Y SERIES",FMTV 3
 https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1675545244.m3u8
 
-#EXTINF:-76,CINE CLUB
+#EXTINF:-76,tvg-logo="" group-title="CINE Y SERIES",CINE CLUB
 https://stmv1.zcastbr.com/cineclubtv/cineclubtv/chunklist_w541442211.m3u8
 
 #EXTINF:-77,RETRO TV PALMARES
