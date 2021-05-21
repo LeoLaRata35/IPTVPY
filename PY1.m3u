@@ -693,37 +693,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f661f68f9200078
 #EXTINF:-81,tvg-logo="https://i.postimg.cc/Y089QgD2/dating.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV DATING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d27-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=74a78902-e6fb-4524-b3af-ed5282ffbf6e&userId=&serverSideAds=true
 
-#EXTINF:-82,tvg-logo="https://i.postimg.cc/Y089QgD2/dating.png" group-title="NOVELAS Y TALKSHOWS",INFINITA TV PREMIUM
+#EXTINF:-82,tvg-logo="https://i.postimg.cc/kM0rjSvG/infinita_tv.jpg" group-title="NOVELAS Y TALKSHOWS",INFINITA TV PREMIUM
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
 
-#EXTINF:-90,ZEE MUNDO
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/gcSjrgp5/zeemundo.png" group-title="NOVELAS Y TALKSHOWS",ZEE MUNDO
 https://y5w8j4a9.ssl.hwcdn.net/mundohd/tracks-v1a1/index.m3u8
 
-#EXTINF:-90,CONFLICTO TV
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/2jhmNT6h/CONFLICTOTV.png" group-title="NOVELAS Y TALKSHOWS",CONFLICTO TV
 https://content.uplynk.com/channel/c56a6c94a53843c79d3eca411d39f96f.m3u8
 
-#EXTINF:-90,SONY CANAL NOVELAS
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/C5S8YN37/sonynovelas.png" group-title="NOVELAS Y TALKSHOWS",SONY CANAL NOVELAS
 https://sony-novelas-1.roku.wurl.com/playlist.m3u8
 
-#EXTINF:-90,SIN TETAS NO HAY PARAÍSO
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="NOVELAS Y TALKSHOWS",SIN TETAS NO HAY PARAÍSO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae52e34a3700007000534/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a9a8e552-8b68-11eb-b9cd-1bc319230674&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f7a1d9b1-1365-4889-bb27-c286960039b6&userId=&serverSideAds=true
 
-#EXTINF:-90,SIN TETAS NO HAY PARAÍSO 2
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/CxPQXtDw/STNHP.png" group-title="NOVELAS Y TALKSHOWS",SIN TETAS NO HAY PARAÍSO 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/604bdf4e6d0abc0007ba77ad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bdaa71-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc5aeb38-8de1-4922-821b-78e2296d5daa&userId=&serverSideAds=true
 
-#EXTINF:-90,PLUTO TV NOVELAS
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/pX7jSJTg/NOVELAS.png" group-title="NOVELAS Y TALKSHOWS",PLUTO TV NOVELAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0cc2efd2700090b7ff4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02782-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b78acb-0a00-4b76-bfa7-4f50b2916c32&userId=&serverSideAds=true
 
-#EXTINF:-90,PLUTO TV TELENOVELAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f914f9dccb4de0007df8bc4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=dda62761-6a6f-11eb-8380-d53d31dd7908&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5672b9c0-2841-4fd4-ad79-89a6c5fe9134&userId=&serverSideAds=true
-
-#EXTINF:-90,TELEMUNDO TELENOVELAS
-http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7df7a3-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a164a5e2-21e7-49e8-a7e9-bbc4785c7386&userId=&serverSideAds=true
-
-#EXTINF:-90,TELEMUNDO TELENOVELAS CLÁSICO
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/brrSv3LH/novelas_clásicas.png" group-title="NOVELAS Y TALKSHOWS",TELEMUNDO TELENOVELAS CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96cc422df39f1a338d165/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a0f0b220-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=79e9b33f-8cdd-440c-8503-74ea6fda2b73&userId=&serverSideAds=true
 
-#EXTINF:-90,NOVELAS ROMANCE
+#EXTINF:-90,tvg-logo="https://i.postimg.cc/Bb2bbkHF/romance.png" group-title="NOVELAS Y TALKSHOWS",AMANTES DELROMANCE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e84db2db3851800077c871e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c839cf2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9a7995e2-90ca-4ea0-82a2-c34af9dc3d4e&userId=&serverSideAds=true
 
 #EXTINF:-90,NOVELAS DRAMA
