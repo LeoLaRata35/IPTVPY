@@ -447,7 +447,7 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600728952b17760007
 #EXTINF:-35,tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="CINE Y SERIES",NUESTRA VISIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
 
-#EXTINF:-71,tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES"CINE
+#EXTINF:-71,tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES",CINE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5defde6d6c07b50009cf0757/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae24-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b1c7f116-fa08-488b-a213-5bb1f7ee5ad2&userId=&serverSideAds=true
 
 #EXTINF:-71,tvg-logo="https://i.postimg.cc/k5ZDjspW/CINE.png" group-title="CINE Y SERIES",CINE 2
@@ -669,31 +669,31 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98a911c881310007d
 #EXTINF:-81,tvg-logo="https://i.postimg.cc/j5w0MTFV/MTV_PLUTO_TV.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV PLUTO TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab088b3279760007d4e4fd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a7e64375-725e-11eb-8572-a154f88ef305&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1ae43b29-e0ce-4a28-90a5-107a512d1569&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV LATINO
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/SsFpRsrZ/mtvlatino.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96d351652631e36d4331f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=180d9c2e-993f-4454-ac06-0f43e4f8058c&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV ORIGINALS
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/NGRR5zgb/originals.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV ORIGINALS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed3000794d1d7/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4495152-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c371865e-69ac-45d8-80b7-62e5b4982b87&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV ORIGINALS 2
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/NGRR5zgb/originals.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV ORIGINALS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff05-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=515c9042-50ef-465d-8e07-385e27e4cdaf&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV CRIBS
+#EXTINF:-81,tvg-logo="" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c680-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a40f774d-360e-44d5-8490-935e6ac7b98a&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV CRIBS 2
+#EXTINF:-81,tvg-logo="" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2612-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786f8457-42a5-48f9-8833-bffe6bb92508&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV CATFISH
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/L6TfVgg1/catfish.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CATFISH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab3c7778230000735cf41/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b4497861-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=233b67dc-c1e8-4702-97db-01e491dfcc9b&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV CATFISH 2
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/L6TfVgg1/catfish.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CATFISH 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f661f68f9200078870d4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff06-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=807d26b3-dae4-4895-b8e0-c9e4ab926b6d&userId=&serverSideAds=true
 
-#EXTINF:-81,MTV DATING
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/Y089QgD2/dating.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV DATING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600169ec77e6f70008fa9cf0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b4d27-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=74a78902-e6fb-4524-b3af-ed5282ffbf6e&userId=&serverSideAds=true
 
-#EXTINF:-82,INFINITA TV PREMIUM
+#EXTINF:-82,tvg-logo="https://i.postimg.cc/Y089QgD2/dating.png" group-title="NOVELAS Y TALKSHOWS",INFINITA TV PREMIUM
 https://rtmp02.portalexpress.es/infinitatv/infinitatv/chunklist_w527562519.m3u8
 
 #EXTINF:-90,ZEE MUNDO
