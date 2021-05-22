@@ -1146,10 +1146,10 @@ http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 #EXTINF:-240,tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA",READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-#EXTINF:-270,tvg-logo="https://i.postimg.cc/d0YGm4RG/26tv.png" group-title="ARGENTINA"group-title="NOTICIAS",READY TV26 TV
+#EXTINF:-270,tvg-logo="https://i.postimg.cc/d0YGm4RG/26tv.png" group-title="ARGENTINA" group-title="NOTICIAS",26 TV
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-271,,tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="ARGENTINA"group-title="NOTICIAS",IP
+#EXTINF:-271,,tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="ARGENTINA" group-title="NOTICIAS",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 #EXTINF:-272,CNN CHILE
