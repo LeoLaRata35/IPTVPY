@@ -18,8 +18,8 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_
 #EXTINF:-6,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES",MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
-#EXTINF:-7,tvg-logo="https://i.postimg.cc/C1gXs1rR/vision_villarrica.png" group-title="NACIONALES",VISIÓN VILLARRICA
-http://inliveserver.com:1935/8312/8312/playlist.m3u8
+#EXTINF:-7,tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg" group-title="NACIONALES",CAPIATÁ TV
+https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u8
 
 #EXTINF:-8,tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES",UNICANAL
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
@@ -86,6 +86,9 @@ http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
 #EXTINF:-26,tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES",GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
+
+#EXTINF:-26,tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES",FRUTILLAR FM
+https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
 #EXTINF:-26,tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES",FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
