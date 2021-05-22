@@ -879,46 +879,46 @@ http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 #EXTINF:-133,tvg-logo="https://i.postimg.cc/c4cC2kTT/telearanda.jpg" group-title="OTROS PAÍSES",TELEARANDA (España)
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 
-#EXTINF:-133,SABER MÁS
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/wvfrPpZL/sabermas.png" group-title="DOCUMENTALES Y CULTURA",SABER MÁS
 https://sabermas-plex.amagi.tv/SaberMas-xumo/master.m3u8
 
-#EXTINF:-140,LOVE NATURE EN ESPAÑOL
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA",LOVE NATURE EN ESPAÑOL
 https://bamus-spa-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-140,LOVE NATURE (Inglés)
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/q7bRmtJL/lovenature.png" group-title="DOCUMENTALES Y CULTURA",LOVE NATURE (Inglés)
 https://origin-02.nxplay.com.br/LOVENATURE_NX/tracks-v1a1/mono.m3u8
 
-#EXTINF:-140,SAMSUNG WILD LIFE (Inglés)
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/X7q082ZT/wildlife.png" group-title="DOCUMENTALES Y CULTURA",SAMSUNG WILD LIFE (Inglés)
 https://d23gend7a1exlu.cloudfront.net/playlist.m3u8
 
-#EXTINF:-140,PLUTO TV NATURALEZA
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV NATURALEZA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd85eac039bba0009e86d1d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16000-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d26f2f3a-e8be-493e-9e88-d9c8f6a4b80c&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV NATURALEZA 2
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/bYmVsWCk/NATURALEZA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV NATURALEZA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d10ce06a9665fe54bf74a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804190-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c17b587b-1c4b-4113-806a-81298e54678e&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV ANIMALES
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV ANIMALES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd834c66fe2ca0009303b8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f8b00032-b77c-4a09-85aa-2efb870d9032&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV ANIMALES (España)
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/htT0b5rC/ANIMALES.png.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV ANIMALES (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae6a78d801e0007117d21/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80604634-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1735a645-8fe1-4cf4-96a3-62c1e4c43743&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV CIENCIA
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/XqnvmpSG/CIENCIA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV CIENCIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd8364ea1d6780009929902/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff138f0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1f0bad78-81a8-4ec0-bca7-e97463a2cc94&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV HISTORIA
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/XYLkzyRF/HISTORIA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV HISTORIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de5758e1a30dc00094fcd6c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18713-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3efb2623-4d66-4ffa-b1f5-4b9d5f63d16c&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV VIDA REAL
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/4yx8WQdY/VIDA_REAL.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV VIDA REAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df265697ec3510009df1ef0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d530-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ec2383fd-6e28-4df5-9d1c-b66eee700e0c&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV VIDA REAL 2
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/4yx8WQdY/VIDA_REAL.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV VIDA REAL 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0b44cc331900075e7769/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2614-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=90ce9a24-5441-43cd-b47a-9bf118213407&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV VIDA REAL (España)
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/4yx8WQdY/VIDA_REAL.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV VIDA REAL (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f8ccd2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c682-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8d96b811-f975-445c-a6de-0af8c9a1816e&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV MUNDO REAL
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/mgfq7qMD/mundoreal.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV MUNDO REAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff01-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88807768-141f-4fbd-b153-6f5257129b8c&userId=&serverSideAds=true
 
 #EXTINF:-140,PLUTO TV MISTERIOS
