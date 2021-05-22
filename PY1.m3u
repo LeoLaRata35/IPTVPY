@@ -921,73 +921,73 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abdceddf6a20007f
 #EXTINF:-140,tvg-logo="https://i.postimg.cc/mgfq7qMD/mundoreal.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV MUNDO REAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdfda84c970007e750b5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff01-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88807768-141f-4fbd-b153-6f5257129b8c&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV MISTERIOS
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/RZkDvtPY/MISTERIOS.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV MISTERIOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde2f53449c50009b2b4dc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=143bd56d-49f4-4f1d-af28-384df378b15d&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV REALITIES
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/vT0KySj7/REALITY.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV REALITIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298d086e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8068a1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8f99b228-251b-4230-bbe0-7bc14292a7e0&userId=&serverSideAds=true
 
-#EXTINF:-140,PLUTO TV AVENTURA
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/J7HKz0XV/AVENTURA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV AVENTURA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
 
-#EXTINF:-140,SPIKE EXTREMO
+#EXTINF:-140,tvg-logo="" group-title="DOCUMENTALES Y CULTURA",SPIKE EXTREMO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804191-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c982c0-0d7b-4cf8-bf92-6eaec6a491c2&userId=&serverSideAds=true
 
-#EXTINF:-140,MUNDO PARANORMAL
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/zGV7Qkrh/mundo_paranormal.png" group-title="DOCUMENTALES Y CULTURA",MUNDO PARANORMAL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492a9bbca75b0007b1bfd5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a11fff80-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=825634f7-2c2a-419b-b7b3-bf9a679e2c61&userId=&serverSideAds=true
 
-#EXTINF:-140,MISTERIOS SIN RESOLVER
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/zGQFN1fX/SIN_RESOLVER.png" group-title="DOCUMENTALES Y CULTURA",MISTERIOS SIN RESOLVER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f610042272f68000867685b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c3-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e8023daf-3778-41a0-b07f-825852bd1452&userId=&serverSideAds=true
 
-#EXTINF:-140,MISTERIOS SIN RESOLVER 2
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/zGQFN1fX/SIN_RESOLVER.png" group-title="DOCUMENTALES Y CULTURA",MISTERIOS SIN RESOLVER 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d882d5233170007ee880e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1155120-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=88135a72-e32e-4ffd-b14e-f345a944ab79&userId=&serverSideAds=true
 
-#EXTINF:-140,MISTERIOS MÉDICOS
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/90LrDV1x/misteriosmedicos.png" group-title="DOCUMENTALES Y CULTURA",MISTERIOS MÉDICOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f230e416b68ff00075b0139/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27173-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=25a22310-9312-4b9f-b9e9-92dac7411fe9&userId=&serverSideAds=true
 
-#EXTINF:-140,NOSEY ESCÁNDALOS
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/WpYqDwMh/NOSEY_ESCÁNDALOS.png" group-title="DOCUMENTALES Y CULTURA",NOSEY ESCÁNDALOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9afb01816137000737f799/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9b9e94-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9b2a898c-7040-4bff-bd1e-d592627cbf9f&userId=&serverSideAds=true
 
-#EXTINF:-140,NOSEY CASOS
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/W1gdHRxk/NOSEY_CASOS.png" group-title="DOCUMENTALES Y CULTURA",NOSEY CASOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f9b005b66d1950007857df6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9bc5a0-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=976f275a-b9e8-4f1f-a035-2b8cae1da9c0&userId=&serverSideAds=true
 
-#EXTINF:-150,ENCUENTRO
+#EXTINF:-150,tvg-logo="https://i.postimg.cc/Gh79xLrr/encuentro.png" group-title="DOCUMENTALES Y CULTURA",ENCUENTRO
 https://hlscat.com/my_list/s/ace945b1e7abbea5ab9be62007a85e66.m3u8
 
-#EXTINF:-151,MIRADOR
+#EXTINF:-151,tvg-logo="https://i.postimg.cc/j5MQ6VS1/mirador.png" group-title="DOCUMENTALES Y CULTURA",MIRADOR
 https://5fb24b460df87.streamlock.net/live-cont.ar/mirador/chunklist_w678055608.m3u8
 
-#EXTINF:-151,LOUPE
+#EXTINF:-151,tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="DOCUMENTALES Y CULTURA",LOUPE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600b248969c6580007e91a2d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b24c9db0-8dd8-11eb-83c3-1ff76e6e06e9&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7a6e25a5-cd97-4493-beb5-5001da599dd1&userId=&serverSideAds=true
 
-#EXTINF:-151,LOUPE 2
+#EXTINF:-151,tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="DOCUMENTALES Y CULTURA",LOUPE 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc38adbc38100073511f2/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=98a3fd62-8e3f-11eb-9619-637dcb8e0f08&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a35b3c8a-7da4-45c8-99f2-06811ca4c06d&userId=&serverSideAds=true
 
-#EXTINF:-151,LOUPE 3
+#EXTINF:-151,tvg-logo="https://i.postimg.cc/DZctBcrG/LOUPE.png" group-title="DOCUMENTALES Y CULTURA",LOUPE 3
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f0cb39b4ae1f80007bad585/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc98e9f5-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bbe6a5-becc-4f1b-8af9-bb8f6923faf9&userId=&serverSideAds=true
 
-#EXTINF:-152,VIAJAR
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/Y9LYFvTv/viajartv.png" group-title="DOCUMENTALES Y CULTURA",VIAJAR
 http://www.radiosargentina.com.ar/php/tvm3u.php?id=VIAR0028
 
-#EXTINF:-152,PLUTO TV VIAJES
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/P5H0sYP5/VIAJES.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV VIAJES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcddfbdb7cf0e0009ae09ea/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff00071-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ef6ea5a4-5004-451b-bbdc-9dd3d9cc8614&userId=&serverSideAds=true
 
-#EXTINF:-152,MUNDO VIAJERO
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/g2Qsb6zT/mundoviajero.png" group-title="DOCUMENTALES Y CULTURA",MUNDO VIAJERO
 https://stitcher.pluto.tv/stitch/hls/channel/60511efd71ec430007f50d97/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
 
-#EXTINF:-152,NASA TV PUBLIC
+#EXTINF:-152tvg-logo="https://i.postimg.cc/Jhm2PLR7/nasatv.png" group-title="DOCUMENTALES Y CULTURA",NASA TV PUBLIC
 https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
 
-#EXTINF:-152,NASA TV MEDIA
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/Jhm2PLR7/nasatv.png" group-title="DOCUMENTALES Y CULTURA",NASA TV MEDIA
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master_2000.m3u8
 
-#EXTINF:-152,PLUTO TV COCINA
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/MGdCYHZK/COCINA.png" group-title="ESTILO DE VIDA",PLUTO TV COCINA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde0657444a40009cd2422/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02780-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8850b362-804f-4cf0-a920-4f711796663f&userId=&serverSideAds=true
 
-#EXTINF:-152,PLUTO TV COCINA 2
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/MGdCYHZK/COCINA.png" group-title="ESTILO DE VIDA",PLUTO TV COCINA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c801a80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0e0dc4ab-902e-4ad1-a9d5-748727626eaa&userId=&serverSideAds=true
 
-#EXTINF:-152,PLUTO TV COCINA (España)
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/MGdCYHZK/COCINA.png" group-title="ESTILO DE VIDA",PLUTO TV COCINA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
 
 #EXTINF:-152,FOODIES
