@@ -774,29 +774,29 @@ https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u
 #EXTINF:-100,tvg-logo="https://i.postimg.cc/sXXcCGXQ/belevision.png" group-title="CHILE",BELEVISIÓN
 http://v2.tustreaming.cl/belevision/index.m3u8
 
-#EXTINF:-102,HUASCO TV (Chile)
+#EXTINF:-102,tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE",HUASCO TV
 https://paneltv.online:1936/8062/8062/playlist.m3u8
 
-#EXTINF:-103,ENFOQUE DIGITAL (Chile)
+#EXTINF:-103,tvg-logo="https://i.postimg.cc/4xYP09YY/enfoquedigital.png" group-title="CHILE",ENFOQUE DIGITAL
 https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
 
-#EXTINF:-104,QUINTA TV (Chile)
+#EXTINF:-104,tvg-logo="https://i.postimg.cc/FzncbTgD/quintatv.png" group-title="CHILE",QUINTA TV
 https://livefocamundo.com:8081/8164/index.m3u8
 
-#EXTINF:-105,CANAL 74 TV (Chile)
+#EXTINF:-105,tvg-logo="https://i.postimg.cc/fLz06G88/canal74.jpg" group-title="CHILE",CANAL 74 TV
 https://Stmv1.zcastbr.com/canal74hd/canal74hd/playlist.m3u8
 
-#EXTINF:-106,LATINO 54 TV (Chile)
+#EXTINF:-106,tvg-logo="https://i.postimg.cc/02P2ZYHC/latino_54.png" group-title="CHILE",CANAL CLATINO 54
 http://190.3.169.119:8080/latina/latina/playlist.m3u8
 
-#EXTINF:-106,TV SUR VISIÓN ALERCE TV (Chile)
+#EXTINF:-106,tvg-logo="https://i.postimg.cc/G2vdxtFN/ALERCE.png" group-title="CHILE",SUR VISIÓN ALERCE TV
 http://170.79.102.254:1935/pruebacamara/Survision_tv_alerce/chunklist_w1568568829.m3u8
 
-#EXTINF:-106,TV MAULESUR (Chile)
+#EXTINF:-106,tvg-logo="https://i.postimg.cc/4dWwMbQh/tvmaule.png" group-title="CHILE",TV MAULE LIVE
 https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?WebM3UCL
 
-#EXTINF:-120,TELERED (Costa Rica)
-http://k4.usastreams.com/ARBtv/teleplus/playlist.m3u8
+#EXTINF:-120,tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="COSTA RICA",TELERED
+http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
 
 #EXTINF:-121,TELESUR (Costa Rica)
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
