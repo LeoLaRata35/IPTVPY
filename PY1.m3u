@@ -678,10 +678,10 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aadf373bed300079
 #EXTINF:-81,tvg-logo="https://i.postimg.cc/NGRR5zgb/originals.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV ORIGINALS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f59f5b7cc331900075e7767/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44aff05-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=515c9042-50ef-465d-8e07-385e27e4cdaf&userId=&serverSideAds=true
 
-#EXTINF:-81,tvg-logo="" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/pdGpqPKK/cribs.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ab9c6d8f1300007f54e30/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c680-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a40f774d-360e-44d5-8490-935e6ac7b98a&userId=&serverSideAds=true
 
-#EXTINF:-81,tvg-logo="" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS 2
+#EXTINF:-81,tvg-logo="https://i.postimg.cc/pdGpqPKK/cribs.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CRIBS 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a0a5ea82f7200075cb926/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b2612-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=786f8457-42a5-48f9-8833-bffe6bb92508&userId=&serverSideAds=true
 
 #EXTINF:-81,tvg-logo="https://i.postimg.cc/L6TfVgg1/catfish.png" group-title="COMEDIA Y ENTRETENIMIENTO",MTV CATFISH
@@ -930,7 +930,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d93b4d71754e6a4298
 #EXTINF:-140,tvg-logo="https://i.postimg.cc/J7HKz0XV/AVENTURA.png" group-title="DOCUMENTALES Y CULTURA",PLUTO TV AVENTURA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddc266f80e3550009136843/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff16001-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4420bd28-3750-4503-ab32-d76a0c1ec97d&userId=&serverSideAds=true
 
-#EXTINF:-140,tvg-logo="" group-title="DOCUMENTALES Y CULTURA",SPIKE EXTREMO
+#EXTINF:-140,tvg-logo="https://i.postimg.cc/65ntyB3Y/spike_extremo.png" group-title="DOCUMENTALES Y CULTURA",SPIKE EXTREMO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d11baeb31c5a43b77bf59/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c804191-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=18c982c0-0d7b-4cf8-bf92-6eaec6a491c2&userId=&serverSideAds=true
 
 #EXTINF:-140,tvg-logo="https://i.postimg.cc/zGV7Qkrh/mundo_paranormal.png" group-title="DOCUMENTALES Y CULTURA",MUNDO PARANORMAL
@@ -990,25 +990,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093
 #EXTINF:-152,tvg-logo="https://i.postimg.cc/MGdCYHZK/COCINA.png" group-title="ESTILO DE VIDA",PLUTO TV COCINA (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1acdaa8ba90f0007d5e760/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4c6543-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1fc7e1c7-88d8-4d19-915b-02a6745f031d&userId=&serverSideAds=true
 
-#EXTINF:-152,FOODIES
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/cHX8ZV7L/foodies.png" group-title="ESTILO DE VIDA",FOODIES
 https://stitcher.pluto.tv/stitch/hls/channel/5d8d0fbaa8742fa3093899da/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
 
-#EXTINF:-152,HELL'S KITCHEN EN ESPAÑOL
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/d0vM7CX0/hellskitchen.png" group-title="ESTILO DE VIDA",HELL'S KITCHEN EN ESPAÑOL
 https://stitcher.pluto.tv/stitch/hls/channel/60492b2794116800073e32dc/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
 
-#EXTINF:-152,MASTER CHEF
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/905S179T/MASTER_CHEF.png" group-title="ESTILO DE VIDA",MASTER CHEF
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddbd27091820009f86dd9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d532-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3935b7bb-6c42-4a74-a1c0-19d91d4ea3b7&userId=&serverSideAds=true
 
-#EXTINF:-152,TASTEMADE
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/3wFvfMzw/TASTEMADE.png" group-title="ESTILO DE VIDA",TASTEMADE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f998c1fc54853000797bacd/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff35bd1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b54be6f9-df4b-4c83-b6ff-d2c9a847569e&userId=&serverSideAds=true
 
-#EXTINF:-152,PLUTO TV HOGAR
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/W3JdZhgx/HOGAR.png" group-title="ESTILO DE VIDA",PLUTO TV HOGAR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ab8056beb000091fc6b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0c3c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83815638-64f0-4bf4-8cd2-92feb27f8740&userId=&serverSideAds=true
 
-#EXTINF:-152,FASHIONBOX
+#EXTINF:-152,tvg-logo="https://i.postimg.cc/RZ6x4Kmr/FASHIONBOOX.png" group-title="ESTILO DE VIDA",FASHIONBOX
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e0007285aad/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff24a64-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dcad69d9-cbe2-4e00-a9bc-3c865cdc4424&userId=&serverSideAds=true
 
-#EXTINF:-169,PAX TV
+#EXTINF:-169,tvg-logo="https://i.postimg.cc/vm5k7tkn/paxtv.png" group-title="CATÓLICO",PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
 #EXTINF:-170,LA VOZ DE MARÍA TV
