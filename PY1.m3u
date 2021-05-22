@@ -1038,121 +1038,118 @@ https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90
 #EXTINF:-175,tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="CATÓLICO",ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-200,tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA",GEN TV (Arg.)
+#EXTINF:-200,tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
-#EXTINF:-200,ZONDA TV (Arg.)
+#EXTINF:-200,tvg-logo="https://i.postimg.cc/0QyWnWkz/ondatv.jpg" group-title="ARGENTINA",ZONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
-#EXTINF:-200,XAMA TV (Arg.)
+#EXTINF:-200,tvg-logo="https://i.postimg.cc/d02366Hc/xamatv.png" group-title="ARGENTINA",XAMA TV
 https://sc1.stweb.tv/unisanjuan/live/playlist.m3u8
 
-#EXTINF:-200,FÉNIX TV (Arg.)
+#EXTINF:-200,tvg-logo="https://i.postimg.cc/85s8cPrX/fenixtv.jpg" group-title="ARGENTINA",FÉNIX TV
 https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 
-#EXTINF:-202,CINCO TV (Arg.)
+#EXTINF:-202,tvg-logo="https://i.postimg.cc/c4fJ0XWg/cincotv.png" group-title="ARGENTINA",CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
 
-#EXTINF:-203,AMÉRICA TV TUCUMÁN (Arg.)
+#EXTINF:-203,tvg-logo="https://i.postimg.cc/RhRbLkfJ/amertucuman.png" group-title="ARGENTINA",AMÉRICA TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8
 
-#EXTINF:-203,CANAL 10 TUCUMÁN (Arg.)
+#EXTINF:-203,tvg-logo="https://i.postimg.cc/d3q535Xs/c10tucuman.png" group-title="ARGENTINA",CANAL 10 TUCUMÁN
 https://cdntvstrm.vo.llnwd.net/e1/livesec/canal10tuc.stream/chunklist.m3u8?e=1616016840&h=dbb7e2e2f5c2cbc35cc0e9e0c668404c
 
-#EXTINF:-203,X24 TUCUMÁN (Arg.)
+#EXTINF:-203,tvg-logo="https://i.postimg.cc/ncr1W9fP/x24tucuman.jpg" group-title="ARGENTINA",X24 TUCUMÁN
 https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
-#EXTINF:-204,9 LINK RESISTENCIA (Arg.)
+#EXTINF:-204,tvg-logo="https://i.postimg.cc/G2S4T2g4/9link.png" group-title="ARGENTINA",CANAL 9 RESISTENCIA
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
 
-#EXTINF:-205,CANAL 4 JUJUY (Arg.)
+#EXTINF:-205,tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA",CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
 
-#EXTINF:-206,TELEMAX (Arg.)
+#EXTINF:-206,tvg-logo="https://i.postimg.cc/3xRwMpKz/telemaxarg.jpg" group-title="ARGENTINA",TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
 
-#EXTINF:-207,NET TV (Arg.)
-http://unlimited6-us.dps.live/nettv/nettv.smil/nettv/livestream1/chunks.m3u8
+#EXTINF:-207,tvg-logo="https://i.postimg.cc/26FYL8k4/netv.png" group-title="ARGENTINA",NET TV
+https://unlimited1-cl-movistar.dps.live/nettv/nettv.smil/nettv/livestream2/chunks.m3u8
 
-#EXTINF:-208,TV PÚBLICA FUEGUINA (Arg.)
+#EXTINF:-208,tvg-logo="https://i.postimg.cc/XYk1SGvS/tdf.jpg" group-title="ARGENTINA",TV PÚBLICA FUEGUINA
 https://vivo.solumedia.com:19360/tvpublicafueguina/tvpublicafueguina.m3u8
 
-#EXTINF:-209,CANAL 9 SANTA CRUZ (Arg.)
+#EXTINF:-209,tvg-logo="https://i.postimg.cc/v85WNRBC/c9sc.png" group-title="ARGENTINA",CANAL 9 SANTA CRUZ
 https://live.canalnueve.tv/canal.m3u8
 
-#EXTINF:-210,CANAL 13 LA RIOJA (Arg.)
+#EXTINF:-210,tvg-logo="https://i.postimg.cc/7hNJYkJ6/canal13larioja.jpg" group-title="ARGENTINA",CANAL 13 LA RIOJA
 https://59d52c5a5ce5e.streamlock.net:4443/mp/mp/chunklist_w349212570.m3u8
 
-#EXTINF:-211,CANAL 8 CATAMARCA (Arg.)
+#EXTINF:-211,tvg-logo="https://i.postimg.cc/8zvDhbwd/8catamarca.png" group-title="ARGENTINA",CANAL 8 CATAMARCA
 https://5975e06a1f292.streamlock.net:4443/c8/c8/chunklist_w205858764.m3u8
 
-#EXTINF:-212,KZO (Arg.)
-http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8 
+#EXTINF:-212,tvg-logo="https://i.postimg.cc/LX6r0kkb/kzo.png" group-title="ARGENTINA",KZO
+http://g2.vxral-slo.transport.edge-access.net/nx-beta/nx.hor.livetx.01/5eaa642772b3a25e2c28699e_360p/index.m3u8
 
-#EXTINF:-213,CHACO TV (Arg.)
+#EXTINF:-213,tvg-logo="https://i.postimg.cc/bN24Mwbp/chacotv.png" group-title="ARGENTINA",CHACO TV
 https://5b7ecefab6325.streamlock.net/Streamtv/chacotv/chunklist_w1837024863.m3u8
 
-#EXTINF:-214,CANAL 13 SAN LUÍS (Arg.)
+#EXTINF:-214,tvg-logo="https://i.postimg.cc/BtW7s2Ds/c13sl.png" group-title="ARGENTINA",CANAL 13 SAN LUÍS
 https://5975e06a1f292.streamlock.net:4443/sanluistv/ngrp:sanluistv_all/chunklist_w1940570986_b581072.m3u8
 
-#EXTINF:-215,CANAL 29 QUILMES VISIÓN (Arg.)
+#EXTINF:-215,tvg-logo="https://i.postimg.cc/8kL0B0Vz/c29quilmes.jpg" group-title="ARGENTINA",CANAL 29 QUILMES VISIÓN
 http://inliveserver.com:1935/8386/8386/playlist.m3u8
 
-#EXTINF:-216,CANAL 12 TARTAGAL (Arg.)
+#EXTINF:-216,tvg-logo="https://i.postimg.cc/8kL0B0Vz/c29quilmes.jpg" group-title="ARGENTINA",CANAL 12 TARTAGAL
 https://59d52c5a5ce5e.streamlock.net:4443/munitar/munitar/chunklist_w354333646.m3u8
 
-#EXTINF:-217,LA VOZ DE TUCUMÁN (Arg.)
+#EXTINF:-217,tvg-logo="https://i.postimg.cc/RhfhNz3f/lavozdetucuman.jpg" group-title="ARGENTINA",LA VOZ DE TUCUMÁN
 http://lavozdetucuman.com/lavozdetucumantv.m3u8
 
-#EXTINF:-218,CANAL 7 JUJUY (Arg.)
+#EXTINF:-218,tvg-logo="https://i.postimg.cc/252ZDmvS/c7jujuy.png" group-title="ARGENTINA",CANAL 7 JUJUY
 https://5975e06a1f292.streamlock.net:4443/canal7jujuy/ngrp:canal7jujuy_all/playlist.m3u8
 
-#EXTINF:-219,CANAL 9 RÍO CUARTO (Arg.)
+#EXTINF:-219,tvg-logo="https://i.postimg.cc/GhGz18p3/riocuartotv.png" group-title="ARGENTINA",CANAL 9 RÍO CUARTO
 https://streamcasthd.com:1936/canal9riocuartotv/smil:canal9riocuartotv.smil/playlist.m3u8
 
-#EXTINF:-220,CANAL 5 SANTA FÉ (Arg.)
+#EXTINF:-220,tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA",CANAL 5 SANTA FÉ
 https://5975e06a1f292.streamlock.net:4443/c5sf/c5sf/playlist.m3u8
 
-#EXTINF:-221,CANAL 5 SANTA FÉ 2 (Arg.)
+#EXTINF:-221,tvg-logo="https://i.postimg.cc/7LYN7Knb/c5sf1.png" group-title="ARGENTINA",CANAL 5 SANTA FÉ 2 (Arg.)
 https://5975e06a1f292.streamlock.net:4443/c5sf2/c5sf2/playlist.m3u8
 
-#EXTINF:-222,ARGENTINÍSIMA SATELITAL
+#EXTINF:-222,tvg-logo="https://i.postimg.cc/s2YRQDK3/argentinisima.png" group-title="ARGENTINA",ARGENTINÍSIMA SATELITAL
 http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/playlist.m3u8
 
-#EXTINF:-223,TELEFÉ CLÁSICO (Arg.)
+#EXTINF:-223,tvg-logo="https://i.postimg.cc/1t9VFWCN/TELEFÉCLÁSICO.png" group-title="ARGENTINA",TELEFÉ CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de91cf02fc07c0009910465/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae23-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a367d0d9-b23d-4bb5-8d48-55f0cbeac4fb&userId=&serverSideAds=true
 
-#EXTINF:-229,TELEFÉ ROSARIO (Arg.)
+#EXTINF:-229,tvg-logo="https://i.postimg.cc/QtC0LfFv/teleferosario.png" group-title="ARGENTINA",TELEFÉ ROSARIO
 http://telefewhitehls-lh.akamaihd.net/i/whitelist_hls@302302/master.m3u8
 
-#EXTINF:-229,TELEFÉ NOTICIAS (Arg.)
+#EXTINF:-229,tvg-logo="https://i.postimg.cc/bNCXfsfX/ELEFÉNOTICIAS.png" group-title="ARGENTINA",TELEFÉ NOTICIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f523aa5523ae000074745ec/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff334c2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dffc36b9-57c6-4973-9903-2f83d465ac40&userId=&serverSideAds=true
 
-#EXTINF:-230,CANAL 3 FORMOSA (Arg.)
+#EXTINF:-230,tvg-logo="https://i.postimg.cc/6QgYXdC3/canal3formosa.jpg" group-title="ARGENTINA",CANAL 3 FORMOSA
 https://stmvideo2.livecastv.com/agenfor/agenfor/chunklist_w1391664117.m3u8
 
-#EXTINF:-230,CANAL 2 VILLA HERNANDARIAS (Arg.)
+#EXTINF:-230,tvg-logo="https://i.postimg.cc/DZ7mmNrY/c2vh.jpg" group-title="ARGENTINA",CANAL 2 VILLA HERNANDARIAS
 https://59537faa0729a.streamlock.net/canal2hernandarias/canal2hernandarias/chunklist_w1138147341.m3u8
 
-#EXTINF:-230,CANAL 17 MILENIUMTV SALTA (Arg.)
+#EXTINF:-230,tvg-logo="https://i.postimg.cc/rpNw69BG/mileniumsalta.png" group-title="ARGENTINA",MILENIUM TV SALTA
 https://59c5c86e10038.streamlock.net/6605140/6605140/playlist.m3u8
 
-#EXTINF:-230,CHACRA TV (Arg.)
+#EXTINF:-230,tvg-logo="https://i.postimg.cc/1zBs73FJ/chacratv.png" group-title="ARGENTINA",CHACRA TV
 http://s8.stweb.tv:1935/chacra/live/chunks.m3u8
 
-#EXTINF:-230,CIUDAD TV (Arg.)
+#EXTINF:-230,tvg-logo="https://i.postimg.cc/wvtxtdt2/8hXClQRl.jpg" group-title="ARGENTINA",CIUDAD TV
 http://coninfo.net:1935/chacodxdtv/live/chunklist_w1251301598.m3u8
 
-#EXTINF:-240,READY TV
+#EXTINF:-240,tvg-logo="https://i.postimg.cc/0j2fGcsV/readytv.png" group-title="REPÚBLICA DOMINICANA",READY TV
 http://190.103.183.24:1935/ReadyTV/ReadyHD/chunklist.m3u8
 
-#EXTINF:-250,CÓRDOBA TV
-https://5b38ce71f1f00.streamlock.net/8376/8376/chunklist_w128615180.m3u8
-
-#EXTINF:-270,26 TV
+#EXTINF:-270,tvg-logo="https://i.postimg.cc/d0YGm4RG/26tv.png" group-title="ARGENTINA"group-title="NOTICIAS",READY TV26 TV
 http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
 
-#EXTINF:-271,IP
+#EXTINF:-271,,tvg-logo="https://i.postimg.cc/QtM90PFK/iparg.png" group-title="ARGENTINA"group-title="NOTICIAS",IP
 https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video=729984.m3u8
 
 #EXTINF:-272,CNN CHILE
