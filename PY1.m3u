@@ -48,6 +48,9 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/
 #EXTINF:-15,tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES",ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
+#EXTINF:-15,tvg-logo="https://i.postimg.cc/qM94hnJf/radioasuncion.png" group-title="NACIONALES",RADIO ASUNCIÓN
+https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
+
 #EXTINF:-18,tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES",RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
@@ -765,6 +768,9 @@ https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 #EXTINF:-91,tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPÚBLICA DOMINICANA",VEGAVISIÓN CANAL 18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/xjGgwVZW/VIBRA.jpg" group-title="ARGENTINA",VIBRA TV
+https://live.autistici.org/hls/vibratelevision_mid.m3u8
+
 #EXTINF:-91,tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE",UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
@@ -1014,31 +1020,25 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ee8d84bfb286e00072
 #EXTINF:-169,tvg-logo="https://i.postimg.cc/vm5k7tkn/paxtv.png" group-title="CATÓLICO",PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
 
-#EXTINF:-170,LA VOZ DE MARÍA TV
+#EXTINF:-170,tvg-logo="https://i.postimg.cc/zXP3dVqp/lvmtv.webp" group-title="CATÓLICO",LA VOZ DE MARÍA TV
 https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/chunklist_w567330199.m3u8
 
-#EXTINF:-171,EWTN
+#EXTINF:-171,tvg-logo="https://i.postimg.cc/Hn0WTkMc/ewtvespa.png" group-title="CATÓLICO",EWTN
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/n8345n84/2728/chunklist.m3u8
 
-#EXTINF:-172,LA SAGRADA FAMILIA TV
+#EXTINF:-172,tvg-logo="https://i.postimg.cc/4yywgmqw/lsftv.png" group-title="CATÓLICO",LA SAGRADA FAMILIA TV
 https://5b474ed5ea4c8.streamlock.net/1691/1691/chunklist_w795822853.m3u8
 
-#EXTINF:-173,MARÍA VISIÓN
+#EXTINF:-173,tvg-logo="https://i.postimg.cc/Dzcc4rKB/mariavision.png" group-title="CATÓLICO",MARÍA VISIÓN
 https://1601580044.rsc.cdn77.org/live/_jcn_/amlst:Mariavision/chunklist_b1428000.m3u8
 
-#EXTINF:-174,ESNE TV
+#EXTINF:-174,tvg-logo="https://i.postimg.cc/sftyNStn/esne.png" group-title="CATÓLICO",ESNE TV
 https://zypelive-lh.akamaihd.net/i/default_1@44045/master.m3u8?6pLKMQ3y=Sqi3Ng90&F38b1dF4=601202c295243c00016e587f&dw=10800&video_id=5f978263e036f600019f66c2&hdnts=exp%3D1611879490%7Eacl%3D%2F*%4044045%2F*%7Ehmac%3D2637aa9afeaaf6b7163d50dbbd0ba206060910b1237ff724e144268c8273c289
 
-#EXTINF:-175,ORBE 21
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/wj2CgsGY/orbe21.png" group-title="CATÓLICO",ORBE 21
 https://cdn2.zencast.tv:30443/orbe/orbe21smil/playlist.m3u8
 
-#EXTINF:-175,VIBRA TV (Arg)
-https://live.autistici.org/hls/vibratelevision_mid.m3u8
-
-#EXTINF:-199,5RTV (Arg.)
-http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
-
-#EXTINF:-200,GEN TV (Arg.)
+#EXTINF:-200,tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA",GEN TV (Arg.)
 https://videohd.live:19360/8010/8010.m3u8
 
 #EXTINF:-200,ZONDA TV (Arg.)
