@@ -798,25 +798,28 @@ https://cloud2.streaminglivehd.com:1936/8002/8002/chunklist_w1175212722.m3u8?Web
 #EXTINF:-120,tvg-logo="https://i.postimg.cc/Gt1YX4Zs/TELERED.png" group-title="COSTA RICA",TELERED
 http://k4.usastreams.com/ARBtv/teleplus/chunklist_w1566276094.m3u8
 
-#EXTINF:-121,TELESUR (Costa Rica)
+#EXTINF:-121,tvg-logo="https://i.postimg.cc/P5dgBKmS/telesurcr.png" group-title="COSTA RICA",TELESUR
 http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 
-#EXTINF:-122,TICAVISIÓN (Costa Rica)
+#EXTINF:-122,tvg-logo="https://i.postimg.cc/L5ByDK02/ticavision.png" group-title="COSTA RICA",TICAVISIÓN
 http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
 
-#EXTINF:-123,SARAPIQUÍ TV (Costa Rica)
+#EXTINF:-123,tvg-logo="https://i.postimg.cc/G2vz3nRG/image.png" group-title="COSTA RICA",SARAPIQUÍ TV
 http://209.126.105.158:1935/stv/web/playlist.m3u8
 
-#EXTINF:-124,TELESISTEMA (Costa Rica)
+#EXTINF:-124,tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA",TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 
-#EXTINF:-124,TV SUR CANAL 14 (Costa Rica)
+#EXTINF:-124,tvg-logo="https://i.postimg.cc/66mT62HV/tvsur14.png" group-title="COSTA RICA",TV SUR CANAL 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
-#EXTINF:-124,TELE MÁS (Costa Rica)
-https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8?WebM3UCL
+#EXTINF:-124,tvg-logo="https://i.postimg.cc/tgv71sqH/telemas.png" group-title="COSTA RICA",TELE MÁS
+https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8
 
-#EXTINF:-130,CERTV CANAL 4 (Rep. Dom.)
+#EXTINF:-124,tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA",TELE UNO
+http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/bYt91tZg/certv4.png" group-title="REPÚBLICA DOMINICANA",CERTV CANAL 4
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/playlist.m3u8
 
 #EXTINF:-130,TELESISTEMA (Rep. Dom.)
