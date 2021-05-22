@@ -861,22 +861,22 @@ https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 #EXTINF:-130,tvg-logo="https://i.postimg.cc/153npvrD/suramtv.png" group-title="COLOMBIA",SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 
-#EXTINF:-130,VISIÓN DORADA TV (Colombia)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/gjmxSjGn/vision_dorada_tv.jpg" group-title="COLOMBIA",VISIÓN DORADA TV
 https://movil.ejeserver.com/live/visiondorada.m3u8
 
-#EXTINF:-130,TELEÍSLAS (Colombia)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/bv2dqMg0/teleislas.webp" group-title="COLOMBIA",TELEÍSLAS
 http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 
-#EXTINF:-133,TV SUR (Guatemala)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/yxw3hHLN/tvsur.png" group-title="OTROS PAÍSES",TV SUR (Guatemala)
 https://televinterapp.com:19360/tvsur/tvsur.m3u8
 
-#EXTINF:-133,CANAL 11 ZULIA (Venezuela)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES",CANAL 11 ZULIA (Venezuela)
 https://tinyurl.com/y6nj4aas
 
-#EXTINF:-133,CHOLUSAT SUR CANAL 36 (Honduras)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES",CHOLUSAT SUR CANAL 36 (Honduras)
 http://audioTVserver.net:1935/livemedia/cholusat/chunklist_w1981374450.m3u8
 
-#EXTINF:-133,TELEARANDA (España)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/c4cC2kTT/telearanda.jpg" group-title="OTROS PAÍSES",TELEARANDA (España)
 https://cdn01.yowi.tv/BBBBBBBBBB/master.m3u8
 
 #EXTINF:-133,SABER MÁS
