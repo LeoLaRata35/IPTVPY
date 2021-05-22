@@ -12,13 +12,13 @@ https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209a
 #EXTINF:-4,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES",TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-5,tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4f/Paravision_2004.png/revision/latest?cb=20201020230413&path-prefix=es" group-title="NACIONALES",PARAVISIÓN
+#EXTINF:-5,tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES",PARAVISIÓN
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-6,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES",MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
-#EXTINF:-7,tvg-logo="https://play-lh.googleusercontent.com/ZYiE4ZM-taF4zLvDFDsU2i7vV8MJ31ydJd2E6ae6WTkA5UN-iqgDpSAqDzb4KoFDYC4" group-title="NACIONALES",VISIÓN VILLARRICA
+#EXTINF:-7,tvg-logo="https://i.postimg.cc/C1gXs1rR/vision_villarrica.png" group-title="NACIONALES",VISIÓN VILLARRICA
 http://inliveserver.com:1935/8312/8312/playlist.m3u8
 
 #EXTINF:-8,tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES",UNICANAL
@@ -759,13 +759,10 @@ https://panel.streamingtv-mediacp.online:1936/8044/8044/chunklist_w1928770453.m3
 #EXTINF:-91,tvg-logo="https://i.postimg.cc/15gC6sCD/ghtv.jpg" group-title="REPÚBLICA DOMINICANA",GH TELEVISIÓN
 https://cloudflare.streamgato.us:3352/live/ghtelevisionhdlive.m3u8
 
-#EXTINF:-91,CANAL 18
+#EXTINF:-91,tvg-logo="https://i.postimg.cc/FHFj3Qxh/vegavisión_canal_18.png" group-title="REPÚBLICA DOMINICANA",VEGAVISIÓN CANAL 18
 https://cdn4.hostlagarto.com:8081/static/canal18hd/playlist.m3u8
 
-#EXTINF:-91,CANAL 7 (Chile)
-https://cp.sradiotv.com:1936/quevedo/quevedo/playlist.m3u8
-
-#EXTINF:-91,UCV (Chile)
+#EXTINF:-91,tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE",UCV (Chile)
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
 #EXTINF:-64,5TV LINARES (Chile)
