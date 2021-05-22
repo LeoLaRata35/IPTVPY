@@ -822,46 +822,43 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-130,tvg-logo="https://i.postimg.cc/bYt91tZg/certv4.png" group-title="REPÚBLICA DOMINICANA",CERTV CANAL 4
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/playlist.m3u8
 
-#EXTINF:-130,TELESISTEMA (Rep. Dom.)
-https://ss5.domint.net:3016/tv11_str/canal11/chunklist_w42154415.m3u8
-
-#EXTINF:-130,CANAL 6 DAJABÓN (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA",CANAL 6 DAJABÓN
 https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
 
-#EXTINF:-131,TELENORD 8 (Rep. Dom.)
+#EXTINF:-131,tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA",TELENORD 8
 http://newyorkstream.ddns.net:5854/telenord8/telenord8/chunklist.m3u8
 
-#EXTINF:-132,TELENORD 10 (Rep. Dom.)
+#EXTINF:-132,tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA",TELENORD 10
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist.m3u8
 
-#EXTINF:-133,TELENORD 12 (Rep. Dom.)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/brKGThTr/telenord.png" group-title="REPÚBLICA DOMINICANA",TELENORD 12
 http://newyorkstream.ddns.net:5854/telenord12/telenord12/chunklist.m3u8
 
-#EXTINF:-133,GALAXIA TV (Rep. Dom.)
+#EXTINF:-133,tvg-logo="https://i.postimg.cc/SsRJbs1j/galaxiatv.png" group-title="REPÚBLICA DOMINICANA",GALAXIA TV
 https://vdo1.streamgato.us:3839/live/galaxiatvlive.m3u8
 
-#EXTINF:-130,PHTV (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/y87RrVK3/PHTV.jpg" group-title="REPÚBLICA DOMINICANA",PHTV
 https://cm.hostlagarto.com:4445/phtv/Phtv.myStream/playlist.m3u8
 
-#EXTINF:-130,HERMANAS MIRABAL TV 33 (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/DyT4828p/hermiratv.png" group-title="REPÚBLICA DOMINICANA",HERMANAS MIRABAL TV
 https://cm.hostlagarto.com:4445/Hmtv/hmtv.myStream/playlist.m3u8
 
-#EXTINF:-130,SUPER TV CANAL 55 (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/bv7NWTnV/supertv55.png" group-title="REPÚBLICA DOMINICANA",SUPER TV 55
 https://ss8.domint.net:3128/stv_str/tv55/master.m3u8
 
-#EXTINF:-130,MICROVISIÓN (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/LXF2Nsdr/microvision.jpg" group-title="REPÚBLICA DOMINICANA",MICROVISIÓN
 http://190.103.183.24:1935/live/MicroHD/chunklist_w1468779956.m3u8
 
-#EXTINF:-130,CANAL 12 (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/wvqbqKD1/doce.png" group-title="REPÚBLICA DOMINICANA",CANAL 12
 http://api.new.livestream.com/accounts/27724665/events/8376416/live.m3u8
 
-#EXTINF:-130,TELERADIO AMÉRICA (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/L8myBK0N/tra.png" group-title="REPÚBLICA DOMINICANA",TELERADIO AMÉRICA
 https://ss3.domint.net:3008/tra_str/canal45/playlist.m3u8
 
-#EXTINF:-130,TV RECUERDOS CANAL 56 (Rep. Dom.)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/5tCFXjqG/canal56.jpg" group-title="REPÚBLICA DOMINICANA",TV RECUERDOS CANAL 56
 https://cloudflare.streamgato.us:3549/live/canal56live.m3u8
 
-#EXTINF:-130,SURAM TV (Colombia)
+#EXTINF:-130,tvg-logo="https://i.postimg.cc/153npvrD/suramtv.png" group-title="COLOMBIA",SURAM TV
 https://5b3050bb1b2d8.streamlock.net/suramtv/suramtv/chunklist_w1875220129.m3u8
 
 #EXTINF:-130,VISIÓN DORADA TV (Colombia)
