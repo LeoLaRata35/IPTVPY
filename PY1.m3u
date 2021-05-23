@@ -1434,7 +1434,7 @@ https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 #EXTINF:-429,tvg-logo="https://i.postimg.cc/NF1tjtsS/eurolatina.png" group-title="MÚSICA",EUROLATINA
 https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
 
-#EXTINF:-429,tvg-logo="https://i.postimg.cc/CKfQgNL6/latidomusic.png" group-title="MÚSICA",LATIDO TV
+#EXTINF:-429,tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA",LATIDO TV
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
 
 #EXTINF:-430,tvg-logo="https://i.postimg.cc/c4yY9BVL/mascumbia.jpg" group-title="MÚSICA",MÁS CUMBIA TV
@@ -1467,8 +1467,8 @@ http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-438,tvg-logo="https://i.postimg.cc/kGzv5r4r/tele_mas.png" group-title="MÚSICA",TELE MÁS
 https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
-#EXTINF:-439,tvg-logo="https://i.postimg.cc/KvTYVXt6/v2beat.png" group-title="MÚSICA",THE RETRO CHANNEL
+#EXTINF:-439,tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" group-title="MÚSICA",THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-439,tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" group-title="OTROS PAÍSES",MVS TV
+#EXTINF:-439,tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="OTROS PAÍSES",MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
