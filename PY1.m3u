@@ -1155,31 +1155,31 @@ https://d1nmqgphjn0y4.cloudfront.net/live/ip/live.isml/live-audio_1=128000-video
 #EXTINF:-272,tvg-logo="https://i.postimg.cc/43xSZ6nk/cnnchile.png" group-title="NOTICIAS",CNN CHILE
 https://unlimited1-cl-movistar.dps.live/cnn/cnn.smil/cnn/livestream1/chunks.m3u8
 
-#EXTINF:-290,HISPAN TV
+#EXTINF:-290,tvg-logo="https://i.postimg.cc/ZRnY9sKT/HISPANTV.jpg" group-title="NOTICIAS",HISPAN TV
 https://live.presstv.com/live/smil:live.smil/chunklist_w1703495832_b644100_slen.m3u8
 
-#EXTINF:-291,TELESUR
+#EXTINF:-291,tvg-logo="https://i.postimg.cc/28M0g1BT/telesurven.png" group-title="NOTICIAS",TELESUR
 https://d2ajt1gpdtnw25.cloudfront.net/mbliveMain/hd/playlist.m3u8
 
-#EXTINF:-292,RT EN ESPAÑOL
+#EXTINF:-292,tvg-logo="https://i.postimg.cc/x8R38dsJ/russiatoday.png" group-title="NOTICIAS",RT EN ESPAÑOL
 https://rt-esp-gd.secure2.footprint.net/1102_2500Kb.m3u8
 
-#EXTINF:-293,FRANCE 24 EN ESPAÑOL
+#EXTINF:-293,tvg-logo="https://i.postimg.cc/CLyKxVX7/france24es.png" group-title="NOTICIAS",FRANCE 24 EN ESPAÑOL
 http://f24hls-i.akamaihd.net/hls/live/520845/F24_ES_HI_HLS/master_2000.m3u8
 
-#EXTINF:-294,EURONEWS EN ESPAÑOL
+#EXTINF:-294,tvg-logo="https://i.postimg.cc/MHH3C4bj/euronews1.png" group-title="NOTICIAS",EURONEWS EN ESPAÑOL
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews_spa/4204bc47-49ca-407d-8cab-a8e4f6db713a/3.m3u8
 
-#EXTINF:-295,TVE 24H
+#EXTINF:-295,tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS",TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 
-#EXTINF:-296,MILENIO
+#EXTINF:-296,tvg-logo="https://i.postimg.cc/fWHRY9VH/milenio.png" group-title="NOTICIAS",MILENIO
 http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
 
-#EXTINF:-297,ADN40
+#EXTINF:-297,tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS",ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 
-#EXTINF:-300,CGTN ESPAÑOL
+#EXTINF:-300,tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" group-title="OTROS PAÍSES",CGTN ESPAÑOL (China)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
 #EXTINF:-301,DW
