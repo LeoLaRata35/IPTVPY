@@ -1197,67 +1197,64 @@ https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 #EXTINF:-320,tvg-logo="https://i.postimg.cc/2SQC0ckx/arirangtv.png" group-title="OTROS PAÍSES",ARIRANG (Corea del Sur)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-320,tvg-logo="https://i.postimg.cc/xTy0RpT3/kbsworld.png" group-title="OTROS PAÍSES",KBS WORLD (Corea del Sur)
-https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
-
 #EXTINF:-321,tvg-logo="https://i.postimg.cc/dtS5zw1s/nhkworld.png" group-title="OTROS PAÍSES",NHK WORLD JAPAN
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
 #EXTINF:-340,tvg-logo="https://i.postimg.cc/WtRhkd8p/twch.png" group-title="NOTICIAS EN INGLÉS",THE WEATHER CHANNEL
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
-#EXTINF:-340,ALJAZEERA (Inglés)
+#EXTINF:-340,tvg-logo="https://i.postimg.cc/zf5bXH2q/aljazeeraeng.png" group-title="NOTICIAS EN INGLÉS",ALJAZEERA
 https://live-hls-web-aje.getaj.net/AJE/03.m3u8
 
-#EXTINF:-341,CBS NEWS
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/VvM0k9wL/cbsn.png" group-title="NOTICIAS EN INGLÉS",CBSN
 https://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_11.m3u8
 
-#EXTINF:-341,CBS NEWS NEW YORK
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/MTvYkS4z/cbsn8.png" group-title="NOTICIAS EN INGLÉS",CBSN NEW YORK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc48170e280c80009a861ab/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826471-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4b9a9bf2-5dc4-46b3-9790-0983793deacf&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS LOS ANGELES
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/MHwJPdPb/cbsn6.png" group-title="NOTICIAS EN INGLÉS",CBSN LOS ANGELES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc481cda1d430000948a1b4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c826472-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=22b39e15-4e62-43c0-b29b-e4bedbdb9db5&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS CHICAGO
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/BvZ8yBy3/cbsn3.png" group-title="NOTICIAS EN INGLÉS",CBSN CHICAGO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1aeb2fd4b8a00076c2047/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846042-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bac3c7b4-5aa0-43ac-919b-ab9816b340e8&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS BOSTON
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/qvsMp6n7/cbsn2.png" group-title="NOTICIAS EN INGLÉS",CBSN BOSTON
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1af2ad345340008fccd1e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c846043-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=46d58fa7-5040-434a-8e22-022d5b01f4fe&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS BAY ARENA
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/7hRbTvYY/cbsn1.png" group-title="NOTICIAS EN INGLÉS",CBSN BAY ARENA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1afb21486df0007abc57c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c848750-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=535b5fed-1187-433f-8fce-ff18b71320e5&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS PHILLY
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/zDhnT0Y2/cbsn9.png" group-title="NOTICIAS EN INGLÉS",CBSN PHILLY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b05ea168cc000767ba67/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84ae60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7b4fa858-3cc5-48a5-9368-afdf323f3324&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS MINESOTA
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/5tFcfZDS/cbsn7.png" group-title="NOTICIAS EN INGLÉS",CBSN MINESOTA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b0bf2240d8000732a09c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c84fc80-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d1bd49d1-3102-4046-b6c7-6e87bbc09a6a&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS DENVER
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/g22mbtYg/cbsn5.png" group-title="NOTICIAS EN INGLÉS",CBSN DENVER
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b12146cba40007aa7e5d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852390-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=706b33cf-b651-4265-a932-7ae8924f5373&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS PITTSBURGH
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/RhvV6SBB/cbsn10.png" group-title="NOTICIAS EN INGLÉS",CBSN PITTSBURGH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eb1b17aa5277e00083f6521/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c852391-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=50d49854-d658-4ea5-ba95-b033c2b0555c&userId=&serverSideAds=true
 
-#EXTINF:-341,CBS NEWS DALLAS
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/G2VH4wp3/cbsn4.png" group-title="NOTICIAS EN INGLÉS",CBSN DALLAS-FT.WORTH
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5eceb0d4065c240007688ec6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c8598c1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=cf85fb81-bf68-4e16-9fdc-0fa8cc32cefe&userId=&serverSideAds=true
 
-#EXTINF:-341,NBC NEWS
+#EXTINF:-341,tvg-logo="https://i.postimg.cc/cCWMvnCL/nbcnewsnow.png" group-title="NOTICIAS EN INGLÉS",NBC NEWS NOW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df97894467dfa00091c873c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b291-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=8e4a249a-04a3-4a0f-b14f-6675b67c77c4&userId=&serverSideAds=true
 
-#EXTINF:-342,FOX NEWS
+#EXTINF:-342,tvg-logo="https://i.postimg.cc/JhW6rKWt/foxnews.png" group-title="NOTICIAS EN INGLÉS",FOX NEWS CHANNEL
 https://1111296894.rsc.cdn77.org/ls-54548-2/index.m3u8
 
-#EXTINF:-342,CNN
+#EXTINF:-342,tvg-logo="https://i.postimg.cc/wM522kZN/cnn.png" group-title="NOTICIAS EN INGLÉS",CNN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5421f71da6af422839419cb3/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=209&deviceId=5421f71da6af422839419cb3&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-342,NEWSMAX
+#EXTINF:-342,tvg-logo="https://i.postimg.cc/jdwZyBxL/newsmaxtv.png" group-title="NOTICIAS EN INGLÉS",NEWSMAX TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/55b179af994403942f3061d6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c70b130-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a4d1f561-e31a-46a0-aa0d-b9fd0b9bfe92&userId=&serverSideAds=true
 
-#EXTINF:-342,SKY NEWS
+#EXTINF:-342,tvg-logo="https://i.postimg.cc/cCc7wLtM/skynews.png" group-title="NOTICIAS EN INGLÉS",SKY NEWS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf5a3ac163e69f04c5b11b1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd092-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=4feb1fcc-d731-4cdd-bcb3-4053f6f4b8d7&userId=&serverSideAds=true
 
-#EXTINF:-400,PORTAL FOXMIX
+#EXTINF:-400,tvg-logo="https://i.postimg.cc/BQFZRQZs/foxmix.png" group-title="MÚSICA",PORTAL FOXMIX
 http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w275910026.m3u8
 
 #EXTINF:-401,M2O
