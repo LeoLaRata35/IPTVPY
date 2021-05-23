@@ -1475,3 +1475,6 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 
 #EXTINF:-439,THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
+
+#EXTINF:-439,tvg-logo="https://i.postimg.cc/9X9gwrcv/MVSTV.png" group-title="OTROS PAÍSES",MVS TV
+https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
