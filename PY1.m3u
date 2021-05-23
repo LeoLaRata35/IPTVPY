@@ -1182,28 +1182,28 @@ http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
 #EXTINF:-300,tvg-logo="https://i.postimg.cc/qvYT7sZK/cgtnes.png" group-title="OTROS PAÍSES",CGTN ESPAÑOL (China)
 http://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-301,DW
+#EXTINF:-301,tvg-logo="https://i.postimg.cc/8PCkPBbp/DWES.png" group-title="OTROS PAÍSES",DW (Alemania)
 http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_1_av-p.m3u8
 
-#EXTINF:-302,TV GALICIA
+#EXTINF:-302,tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" group-title="OTROS PAÍSES",TV GALICIA (España)
 http://europa-crtvg.flumotion.com/crtvg/europa_med/chunks.m3u8
 
-#EXTINF:-302,TV GALICIA AMÉRICA
+#EXTINF:-302,tvg-logo="https://i.postimg.cc/yNf4G2w0/tvgalicia.png" group-title="OTROS PAÍSES",TV GALICIA AMÉRICA (España)
 http://america-crtvg.flumotion.com/crtvg/america_med/chunks.m3u8
 
-#EXTINF:-303,EITB BASQUE
+#EXTINF:-303,tvg-logo="https://i.postimg.cc/HnzQ04JW/eitb_basque.png" group-title="OTROS PAÍSES",EITB BASQUE (España)
 https://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
 
-#EXTINF:-320,ARIRANG
+#EXTINF:-320,tvg-logo="https://i.postimg.cc/2SQC0ckx/arirangtv.png" group-title="OTROS PAÍSES",ARIRANG (Corea del Sur)
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 
-#EXTINF:-320,KBS WORLD
+#EXTINF:-320,tvg-logo="https://i.postimg.cc/xTy0RpT3/kbsworld.png" group-title="OTROS PAÍSES",KBS WORLD (Corea del Sur)
 https://indotv.tech/m3u8sd/usee-kbsworld-indonesia.m3u8
 
-#EXTINF:-321,NHK WORLD JAPAN
+#EXTINF:-321,tvg-logo="https://i.postimg.cc/dtS5zw1s/nhkworld.png" group-title="OTROS PAÍSES",NHK WORLD JAPAN
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 
-#EXTINF:-340,THE WEATHER CHANNEL
+#EXTINF:-340,tvg-logo="https://i.postimg.cc/WtRhkd8p/twch.png" group-title="NOTICIAS EN INGLÉS",THE WEATHER CHANNEL
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 
 #EXTINF:-340,ALJAZEERA (Inglés)
