@@ -1,207 +1,204 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png" group-title="NACIONALES",RCN TV
+#EXTINF:-1 tvg-logo="https://www.rcn.com.py/file/2020/08/logo_web@footer.png" group-title="NACIONALES", RCN TV
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
-#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES",NPY
+#EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8 
 
-#EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES",TVS
+#EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
-#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES",TELEFUTURO
+#EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES",PARAVISIÓN
+#EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES",MI TV
+#EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES", MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
-#EXTINF:-7,tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg" group-title="NACIONALES",CAPIATÁ TV
+#EXTINF:-7 tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg" group-title="NACIONALES" CAPIATÁ TV
 https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u8
 
-#EXTINF:-8,tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES",UNICANAL
+#EXTINF:-8 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES", UNICANAL
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-9,tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES",SNT
+#EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxODMwNzM2LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiZjExMjQxZDE5OWJiMTI3YTY3YmMzNTg2YjhhYmFjZDI3M2ZjZGMzOSJ9
 
-#EXTINF:-10,tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES",SUR
+#EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-11,tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES",LATELE
+#EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
 
-#EXTINF:-12,tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES",C9N
+#EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-video=3900000-audio_20000=144800.m3u8
 
-#EXTINF:-13,tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES",TRECE
+#EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-14,tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES",LIM TV
+#EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
-#EXTINF:-15,tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png" group-title="NACIONALES",ABC TV
+#EXTINF:-15 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png" group-title="NACIONALES", ABC TV
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
 
-#EXTINF:-15,tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES",ÑANDUTÍ TV
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES", ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
-#EXTINF:-15,tvg-logo="https://i.postimg.cc/qM94hnJf/radioasuncion.png" group-title="NACIONALES",RADIO ASUNCIÓN
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/qM94hnJf/radioasuncion.png" group-title="NACIONALES", RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 
-#EXTINF:-18,tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES",RCC
+#EXTINF:-18 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
-#EXTINF:-19,tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES",SUCESO TV
+#EXTINF:-19 tvg-logo="https://radiosuceso.com/wp-content/uploads/2020/06/logo-listo-1-300x300.png" group-title="NACIONALES", SUCESO TV
 https://59ce1298bfb98.streamlock.net/sucesotv/sucesotv/playlist.m3u8
 
-#EXTINF:-20,tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES",KOA TV
+#EXTINF:-20 tvg-logo="https://pbs.twimg.com/profile_images/886371101856628736/hWuK0igF.jpg" group-title="NACIONALES", KOA TV
 https://panel.dattalive.com/8028/8028/playlist.m3u8
 
-#EXTINF:-21,tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES",SOMOS DEL ESTE TV
+#EXTINF:-21 tvg-logo="https://somosdeleste.com.py/wp-content/uploads/2019/09/somos@1xx.png" group-title="NACIONALES", SOMOS DEL ESTE TV
 https://59ce1298bfb98.streamlock.net/somosdeleste/somosdeleste/playlist.m3u8
 
-#EXTINF:-23,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES",ESTACIÓN CRISTAL TV
+#EXTINF:-23 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY74DCbCMHEUoUgy08KZdB-680qTwMt8QVQLqgUicYDOwqZtd4vo3gp5eo3hLd0ZXJqYU&usqp=CAU" group-title="NACIONALES", ESTACIÓN CRISTAL TV
 https://59ce1298bfb98.streamlock.net/cristaltv/cristaltv/playlist.m3u8
 
-#EXTINF:-27,tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yBIMu0llgnATqjwCEye-OgslI1jVa4a13pRw8iGWdUcxS4qqN4MXKgTEfN6ToomMkAU&usqp=CAU" group-title="NACIONALES",GCV CANAL 10 GUAJAYVI
+#EXTINF:-27 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1yBIMu0llgnATqjwCEye-OgslI1jVa4a13pRw8iGWdUcxS4qqN4MXKgTEfN6ToomMkAU&usqp=CAU" group-title="NACIONALES", GCV CANAL 10 GUAJAYVI
 http://nextplayparaguay.live/hls/canal10.m3u8
 
-#EXTINF:-27,tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="NACIONALES",CABLEMÁS
+#EXTINF:-27 tvg-logo="https://www.pandaancha.mx/plds/articulos/e853fc308798874fb175094ece8fd24a292941926.jpg" group-title="NACIONALES",CABLEMÁS
 https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 
-#EXTINF:-28,tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES",UGA TV
+#EXTINF:-28 tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
-#EXTINF:-28,tvg-logo="https://play-lh.googleusercontent.com/pD0HjojpbUNvaooC92pivnHYIRx87PAyHziUFs1CLW1ThDM9qvp-Ykb_O2a6i_7iXS0=h250-rw" group-title="NACIONALES",FIERA TV
+#EXTINF:-28 tvg-logo="https://play-lh.googleusercontent.com/pD0HjojpbUNvaooC92pivnHYIRx87PAyHziUFs1CLW1ThDM9qvp-Ykb_O2a6i_7iXS0=h250-rw" group-title="NACIONALES", FIERA TV
 https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
-#EXTINF:-29,tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES",EMPRENDE TV
+#EXTINF:-29 tvg-logo="https://1.bp.blogspot.com/-Jt9iLTl60OI/YFerCGX_48I/AAAAAAAAAE0/iMHDPAdTFF4uL1-uDqEq8kidNq40CCvwwCPcBGAYYCw/w1200-h630-p-k-no-nu/Emprende%2BTV%2Blogo.png" group-title="NACIONALES", EMPRENDE TV
 https://59ce1298bfb98.streamlock.net/emprendetv/emprendetv/playlist.m3u8
 
-#EXTINF:-29,tvg-logo="data:image/jpeg;base64,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" group-title="NACIONALES",INTEGRACIÓN TV
+#EXTINF:-29 tvg-logo="data:image/jpeg;base64,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" group-title="NACIONALES", INTEGRACIÓN TV
 http://nextplayparaguay.live/hls/integraciontv.m3u8
 
-#EXTINF:-26,tvg-logo="https://image.winudf.com/v2/image1/cGFyYWd1YWkuamVndWFrYV9zY3JlZW5fMF8xNjAwNzQ2NzcwXzAxNA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="NACIONALES",CHORE TV
+#EXTINF:-26 tvg-logo="https://image.winudf.com/v2/image1/cGFyYWd1YWkuamVndWFrYV9zY3JlZW5fMF8xNjAwNzQ2NzcwXzAxNA/screen-0.jpg?fakeurl=1&type=.jpg" group-title="NACIONALES", CHORE TV
 http://nextplayparaguay.live/hls/guajayvifm.m3u8
 
-#EXTINF:-26,tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES",GO TV
+#EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES", GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
-#EXTINF:-26,tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES",FRUTILLAR FM
+#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
 https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
 
-#EXTINF:-26,tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES",FARRA PLAY
+#EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
 
-#EXTINF:-26,tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES",TAPUA TV
+#EXTINF:-26 tvg-logo="https://play-lh.googleusercontent.com/DAgKwTGXnOAkopAV11A5FXIYipr7xqXpGZEQxvZgJb-qc8P1EkBrD6thXgsL5IbzspI" group-title="NACIONALES", TAPUA TV
 https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 
-#EXTINF:-2001,tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png" group-title="DEPORTES Y COMPETENCIAS",CLARO SPORTS
+#EXTINF:-2001 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png" group-title="DEPORTES Y COMPETENCIAS", CLARO SPORTS
 https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
 
-#EXTINF:-2001,tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS",BEIN SPORTS XTRA Ñ
+#EXTINF:-2001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
 
-#EXTINF:-30,tvg-logo="https://logicaldesign.pe/images/contenido/cliente_logo_ovacion.pe.png" group-title="DEPORTES Y COMPETENCIAS",OVACIÓN
+#EXTINF:-30 tvg-logo="https://logicaldesign.pe/images/contenido/cliente_logo_ovacion.pe.png" group-title="DEPORTES Y COMPETENCIAS", OVACIÓN
 http://cdn2.ujjina.com:1935/iptvovacion1/liveovacion1tv/playlist.m3u8
 
-#EXTINF:-30,tvg-logo="https://pbs.twimg.com/profile_images/935384155977854976/CR7P0FmD.jpg" group-title="DEPORTES Y COMPETENCIAS",BEST CABLE SPORTS
+#EXTINF:-30 tvg-logo="https://pbs.twimg.com/profile_images/935384155977854976/CR7P0FmD.jpg" group-title="DEPORTES Y COMPETENCIAS", BEST CABLE SPORTS
 https://live.siete.us:19360/bestcablesports/bestcablesports.m3u8
 
-#EXTINF:-31,tvg-logo="http://vfes-images.ott.kaltura.com/5e30ec9275474065b9866e553be7f917_288X162.png" group-title="DEPORTES Y COMPETENCIAS",REAL MADRID TV
-https://iptvcat.com/my_list/s/b8d1bab7634629d935ff0009d2abe542.m3u8
-
-#EXTINF:-32,tvg-logo="https://pbs.twimg.com/profile_images/955807275117174784/oPNrCwAs.jpg" group-title="DEPORTES Y COMPETENCIAS",EL GARAGE TV
+#EXTINF:-32 tvg-logo="https://pbs.twimg.com/profile_images/955807275117174784/oPNrCwAs.jpg" group-title="DEPORTES Y COMPETENCIAS", EL GARAGE TV
 http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 
-#EXTINF:-32,tvg-logo="https://i.postimg.cc/t4GPgZMb/VELOCIDAD.png" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV VELOCIDAD
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/t4GPgZMb/VELOCIDAD.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 
-#EXTINF:-32,tvg-logo="https://i.postimg.cc/wBFhTygz/tuning.png" group-title="DEPORTES Y COMPETENCIAS",TUNING
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/wBFhTygz/tuning.png" group-title="DEPORTES Y COMPETENCIAS", TUNING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f82660-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3633f890-4bf6-461d-a1c6-0cd4bb26c306&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS",DEPORTV
+#EXTINF:-33 tvg-logo="https://libre.futbol/img/logo-canal/DeporTV.png" group-title="DEPORTES Y COMPETENCIAS", DEPORTV
 https://5fb24b460df87.streamlock.net/live-cont.ar/deportv/chunklist_w442563431.m3u8
 
-#EXTINF:-33,tvg-logo="https://i.ibb.co/qWhn5N8/Apple-Onion-2016.png" group-title="DEPORTES Y COMPETENCIAS",FÚTBOL PARA FANS
+#EXTINF:-33 tvg-logo="https://i.ibb.co/qWhn5N8/Apple-Onion-2016.png" group-title="DEPORTES Y COMPETENCIAS", FÚTBOL PARA FANS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e3ddd1a3ef73b00091d5779/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1d533-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=04baab3a-5f85-4e2b-9112-e0c2b16014ce&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/nhbg22CD/DEPORTES.png" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV DEPORTES
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/nhbg22CD/DEPORTES.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV DEPORTES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde07af1c85b0009b18651/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff02781-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c194052-40df-42cc-9f20-2b709fc61bb8&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV PELEAS
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/rmD23mc0/PELEAS.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV PELEAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e98b0447665f200078caded/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22353-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b0686c66-1d05-479c-a6d5-c3f2eb338b63&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/MGksqpyf/COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV COMPETENCIAS
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/MGksqpyf/COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV COMPETENCIAS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6d935d000120009bc1132/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6c3600a0-cf5d-4708-b2b3-adcada18c483&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/MGxGC1rc/SONY-COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS",SONY CANAL COMPETENCIAS
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/MGxGC1rc/SONY-COMPETENCIAS.png" group-title="DEPORTES Y COMPETENCIAS", SONY CANAL COMPETENCIAS
 https://sony-competencias-1.roku.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/mkBFGT1q/ESCAPEPERFECTO.png" group-title="DEPORTES Y COMPETENCIAS",SONY CANAL ESCAPE PERFECTO
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/mkBFGT1q/ESCAPEPERFECTO.png" group-title="DEPORTES Y COMPETENCIAS", SONY CANAL ESCAPE PERFECTO
 https://stitcher.pluto.tv/stitch/hls/channel/605e479d5b8229000763e697/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=8ef6973d-ade6-11eb-930b-0242ac110002
 
-#EXTINF:-33,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="DEPORTES Y COMPETENCIAS",COMBATE GLOBAL
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/CG_logo_final.svg/1200px-CG_logo_final.svg.png" group-title="DEPORTES Y COMPETENCIAS", COMBATE GLOBAL
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5bb1ac3e268cae539bcedb07/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=970&deviceId=5bb1ac3e268cae539bcedb07&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-33,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="DEPORTES Y COMPETENCIAS",ALL ELITE WRESTLING
+#EXTINF:-33 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/AEW_Logo_%28simplified%29.svg/1200px-AEW_Logo_%28simplified%29.svg.png" group-title="DEPORTES Y COMPETENCIAS", ALL ELITE WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f4d1697f10a0e000798ed8d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff30db0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=99bea8e3-f5b3-42e7-a4e7-081bf207b1bc&userId=&serverSideAds=true
 
-#EXTINF:-33,tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA
+#EXTINF:-33 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c54853000797bf18/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff49451-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9aaa87da-0575-49b4-b5a5-36b710bfce58&userId=&serverSideAds=true
 
-#EXTINF:-3300,tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS",LUCHA LIBRE AAA 2
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
 
-#EXTINF:-35,tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES Y COMPETENCIAS",MLB NETWORK
+#EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES Y COMPETENCIAS", MLB NETWORK
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
 
-#EXTINF:-35,tvg-logo="https://i.postimg.cc/QNYRWNsJ/mlb.png" group-title="DEPORTES Y COMPETENCIAS",MLB CHANNEL
+#EXTINF:-35 tvg-logo="https://i.postimg.cc/QNYRWNsJ/mlb.png" group-title="DEPORTES Y COMPETENCIAS", MLB CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e66968a70f34c0007d050be/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d882-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f1832274-98b7-4765-ad8b-c533c4382008&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/red-bull-logo-7.png" group-title="DEPORTES Y COMPETENCIAS",RED BULL TV
+#EXTINF:-36 tvg-logo="https://logodownload.org/wp-content/uploads/2014/10/red-bull-logo-7.png" group-title="DEPORTES Y COMPETENCIAS", RED BULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreamiptv.m3u8
 
-#EXTINF:-36,tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES Y COMPETENCIAS",BEIN SPORTS XTRA
+#EXTINF:-36 tvg-logo="https://www.beinsportsxtra.com/images/icons/logo/beIN-SPORTS-XTRA_LOGO.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES Y COMPETENCIAS",MLS TV
+#EXTINF:-36 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/MLS_crest_logo_RGB_gradient.svg/1200px-MLS_crest_logo_RGB_gradient.svg.png" group-title="DEPORTES Y COMPETENCIAS", MLS TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2020/10/Tennis-Channel-web.jpg" group-title="DEPORTES Y COMPETENCIAS",TENNIS CHANNEL
+#EXTINF:-36 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2020/10/Tennis-Channel-web.jpg" group-title="DEPORTES Y COMPETENCIAS", TENNIS CHANNEL
 https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
 
-#EXTINF:-36,tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2313/files/2020/05/1200px-PGA_Tour_logo.svg_.png" group-title="DEPORTES Y COMPETENCIAS",PGA TOUR
+#EXTINF:-36 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2313/files/2020/05/1200px-PGA_Tour_logo.svg_.png" group-title="DEPORTES Y COMPETENCIAS", PGA TOUR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://i.postimg.cc/7LgkgFXY/nfl.png" group-title="DEPORTES Y COMPETENCIAS",NFL CHANNEL
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/7LgkgFXY/nfl.png" group-title="DEPORTES Y COMPETENCIAS", NFL CHANNEL
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ced7d5df64be98e07ed47b6/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7dd091-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=51a9cf39-a534-4404-ab74-8b3b3d4266d2&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://i.postimg.cc/ZqqQqXgM/stadium.png" group-title="DEPORTES Y COMPETENCIAS",STADIUM
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/ZqqQqXgM/stadium.png" group-title="DEPORTES Y COMPETENCIAS", STADIUM
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59974b6d7ec5063cb56f24c9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c760861-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05184fc6-bf46-4f02-8ffe-2445a75fbebd&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM90608IMPACTO.jpg" group-title="DEPORTES Y COMPETENCIAS",IMPACT WRESTLING
+#EXTINF:-36 tvg-logo="https://solowrestling.mundodeportivo.com/uploads/RESEM90608IMPACTO.jpg" group-title="DEPORTES Y COMPETENCIAS", IMPACT WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/59b722526996084038c01e1b/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=734&deviceId=59b722526996084038c01e1b&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-36,tvg-logo="https://i.postimg.cc/MHBNSR4Z/prowrestling.png" group-title="DEPORTES Y COMPETENCIAS",PRO WRESTLING
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/MHBNSR4Z/prowrestling.png" group-title="DEPORTES Y COMPETENCIAS", PRO WRESTLING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=732&deviceId=5fac431fc1ffbc0007e6b6a7&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 
-#EXTINF:-36,tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="DEPORTES Y COMPETENCIAS",FIGHT NETWORK
+#EXTINF:-36 tvg-logo="https://cdn.sescoops.com/wp-content/uploads/2017/03/fight.jpg" group-title="DEPORTES Y COMPETENCIAS", FIGHT NETWORK
 https://d12a2vxqkkh1bo.cloudfront.net/hls/1080p/playlist.m3u8
 
-#EXTINF:-36,tvg-logo="https://img2.pngio.com/bellator-mma-thesportsdbcom-bellator-mma-png-800_310.png" group-title="DEPORTES Y COMPETENCIAS",BELLATOR MMA
+#EXTINF:-36 tvg-logo="https://img2.pngio.com/bellator-mma-thesportsdbcom-bellator-mma-png-800_310.png" group-title="DEPORTES Y COMPETENCIAS", BELLATOR MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c854aa0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=31ed263b-b5a7-46ae-aea6-02a7165119c3&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://i.postimg.cc/C11cFDZT/fight.png" group-title="DEPORTES Y COMPETENCIAS",PLUTO TV FIGHT
+#EXTINF:-36 tvg-logo="https://i.postimg.cc/C11cFDZT/fight.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV FIGHT
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c751e00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ea3d6036-364f-4958-aca9-ec488a93eafb&userId=&serverSideAds=true
 
-#EXTINF:-36,tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png" group-title="DEPORTES Y COMPETENCIAS",GLORY KICKBOXING TV
+#EXTINF:-36 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png" group-title="DEPORTES Y COMPETENCIAS", GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
-#EXTINF:-50,tvg-logo="https://www.levelup.com/images/logo.svg" group-title="GAMING Y ANIME",LEVEL UP TV
+#EXTINF:-50 tvg-logo="https://www.levelup.com/images/logo.svg" group-title="GAMING Y ANIME", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
 
 #EXTINF:-51,tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="GAMING Y ANIME",ESR 24/7 NETWORK
