@@ -282,7 +282,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c
 #EXTINF:-57 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Real_Monsters_DVD_logo.png/revision/latest?cb=20160108033538" group-title="NIÑOS Y ADOLESCENTES", REAL MONSTERS
 https://videostreaming.cloudserverlatam.com/kids/kids/chunklist_w1539971601.m3u8
 
-#EXTINF:-57, tvg-logo="https://i.postimg.cc/N00bYCMS/PLUTO-TV-TEEN.png" group-title="NIÑOS Y ADOLESCENTES", PLUTO TV TEEN
+#EXTINF:-57 tvg-logo="https://i.postimg.cc/N00bYCMS/PLUTO-TV-TEEN.png" group-title="NIÑOS Y ADOLESCENTES", PLUTO TV TEEN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6de52b9914200091f047a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e1-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fe342837-658e-4c01-af1b-63c86a3ccece&userId=&serverSideAds=true
 
 #EXTINF:-57 tvg-logo="https://i.postimg.cc/FKK2KS3g/teenstars.png" group-title="NIÑOS Y ADOLESCENTES", PLUTO TV TEEN STARS
@@ -879,7 +879,7 @@ http://vbox2.cehis.net/live-teleislas/smil:teleislas.smil/playlist.m3u8
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/yxw3hHLN/tvsur.png" group-title="OTROS PAÍSES", TV SUR (Guatemala)
 https://televinterapp.com:19360/tvsur/tvsur.m3u8
 
-#EXTINF:-133, tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES", CANAL 11 ZULIA (Venezuela)
+#EXTINF:-133 tvg-logo="https://i.postimg.cc/qqjhYKBz/canalonce.jpg" group-title="OTROS PAÍSES", CANAL 11 ZULIA (Venezuela)
 https://tinyurl.com/y6nj4aas
 
 #EXTINF:-133 tvg-logo="https://i.postimg.cc/ZKDtYqC3/cholusat36.gif" group-title="OTROS PAÍSES", CHOLUSAT SUR CANAL 36 (Honduras)
@@ -1419,7 +1419,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fd1a252d35decbc
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/dQy6QJWf/spakinew.png" group-title="MÚSICA", MTV SPAKIN' NEW
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee1633117/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e6cd1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=86fe2c41-24ae-4853-942c-7cf0a3b53856&userId=&serverSideAds=true
 
-#EXTINF:-421 ,tvg-logo="https://i.postimg.cc/FKCpzz5M/blockparty.png" group-title="MÚSICA", MTV BLOCK PARTY
+#EXTINF:-421 tvg-logo="https://i.postimg.cc/FKCpzz5M/blockparty.png" group-title="MÚSICA", MTV BLOCK PARTY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
 
 #EXTINF:-418 tvg-logo="https://i.postimg.cc/2yR82Vb1/onradiokpop.png" group-title="MÚSICA", ON RADIO K-POP
