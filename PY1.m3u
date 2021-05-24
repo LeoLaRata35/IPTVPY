@@ -1047,6 +1047,9 @@ https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-175,tvg-logo="https://i.postimg.cc/WbSgjFH0/mvc.png" group-title="EVANGÉLICO",MI VIÑA CHANNEL
 https://5b50404ec5e4c.streamlock.net/8056/smil:8056.smil/playlist.m3u8
 
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/tTt0bmsR/advenir.png" group-title="EVANGÉLICO",RED ADVENIR
+http://streamer1.streamhost.org:1935/salive/GMIredadvenirh/playlist.m3u8
+
 #EXTINF:-175,tvg-logo="https://i.postimg.cc/DZy39NJr/diostvhd.jpg" group-title="EVANGÉLICO",DIOS TE VE HD
 https://emisoras.hn:8081/diostevetv/index.m3u8
 
@@ -1059,11 +1062,23 @@ https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/c
 #EXTINF:-175,tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO",LOGOS TV
 https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
 
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO",LOGOS TV SALUD
+https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
+
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO",LOGOS TV ESTUDIO
+https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" group-title="EVANGÉLICO",LOGOS TV KIDS
+https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w309301863.m3u8
+
 #EXTINF:-175,tvg-logo="https://i.postimg.cc/HxZnRXxL/cbnes.jpg" group-title="EVANGÉLICO",CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
 
-#EXTINF:-175,tvg-logo=https://i.postimg.cc/RF7hCyXN/alientovision.png" group-title="EVANGÉLICO",ALIENTO VISIÓN
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/RF7hCyXN/alientovision.png" group-title="EVANGÉLICO",ALIENTO VISIÓN
 https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_360p/chunklist_w558821661.m3u8
+
+#EXTINF:-175,tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO",EXREMA TV
+https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
 
 #EXTINF:-200,tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA",GEN TV
 https://videohd.live:19360/8010/8010.m3u8
