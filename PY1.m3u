@@ -534,7 +534,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac8a87cd38d00074
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES", SCI-FI
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f2817d3d7573a00080f9175/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff29881-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=69952490-17b7-4b2b-92ec-4525b187cbe6&userId=&serverSideAds=true
 
-#EXTINF:-71,tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES",SCI-FI (España)
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/cLt4CXxJ/SCIFI.png" group-title="CINE Y SERIES",SCI-FI (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f6a38eaa5b68b0007a00e7a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4d2891-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bd9d9781-2910-4dd2-9b1f-a1fd662d0cc3&userId=&serverSideAds=true
 
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/MKZd7S3d/viaje_a_las_estrellas.png" group-title="CINE Y SERIES", VIAJE A LAS ESTRELLAS
@@ -552,7 +552,7 @@ https://rakuten-tvshows-2-es.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV SHOWS 2
 https://rakuten-tvshows-2-eu.rakuten.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-72,tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV COMEDY MOVIES
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV COMEDY MOVIES
 https://rakuten-comedymovies-2-es.samsung.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV COMEDY MOVIES 2
@@ -642,7 +642,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ffcc21a43294500076
 #EXTINF:-81 tvg-logo="https://i.postimg.cc/VkQRvsn0/comedy_central.png" group-title="COMEDIA Y ENTRETENIMIENTO", COMEDY CENTRAL LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf96dad1652631e36d43320/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e1eb1-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=21b9ab81-ee95-4efe-8594-158f8ea6d0c7&userId=&serverSideAds=true
 
-#EXTINF:-8 tvg-logo="https://i.postimg.cc/L412LTS5/comedia_spain.jpg" group-title="COMEDIA Y ENTRETENIMIENTO", COMEDIA MADE IN SPAIN
+#EXTINF:-81 tvg-logo="https://i.postimg.cc/L412LTS5/comedia_spain.jpg" group-title="COMEDIA Y ENTRETENIMIENTO", COMEDIA MADE IN SPAIN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1abce155a03d0007718834/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b449c681-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=01d86952-90df-4d0a-b9ae-c63701be5b5c&userId=&serverSideAds=true
 
 #EXTINF:-81 tvg-logo="https://i.postimg.cc/g2q0RKv8/FAIL_ARMY.png" group-title="COMEDIA Y ENTRETENIMIENTO", FAILARMY
