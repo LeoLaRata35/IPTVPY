@@ -247,7 +247,7 @@ http://azxtv.com/hls/stream.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
 
 #EXTINF:-54 tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="GAMING Y ANIME", TOONIZAKI
-https://live.admefy.com/live/default/calm_amaranth_ec6b4.m3u8
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
