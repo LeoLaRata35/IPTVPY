@@ -1101,6 +1101,12 @@ http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/9QK4NyxB/nortetv.png" group-title="ARGENTINA", NORTE TV
+http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/WbgDddSW/21TV.png" group-title="ARGENTINA", 21 TV POSADAS
+https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
+
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/0QyWnWkz/ondatv.jpg" group-title="ARGENTINA",Z ONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
