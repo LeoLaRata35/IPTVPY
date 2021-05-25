@@ -75,6 +75,9 @@ https://59ce1298bfb98.streamlock.net/cablemas/cablemas/chunklist_w480314177.m3u8
 #EXTINF:-28 tvg-logo="https://latinartv.com/sites/default/files/logos/uga-radio.jpg" group-title="NACIONALES", UGA TV
 https://tigocloud.desdeparaguay.net/ugatv/ugatv/playlist.m3u8
 
+#EXTINF:-28 tvg-logo="https://i.postimg.cc/HxKWTJZt/1061.png" group-title="NACIONALES", PIRAPEY FM
+https://59ce1298bfb98.streamlock.net/pirapeytv/pirapeytv/playlist.m3u8
+
 #EXTINF:-28 tvg-logo="https://play-lh.googleusercontent.com/pD0HjojpbUNvaooC92pivnHYIRx87PAyHziUFs1CLW1ThDM9qvp-Ykb_O2a6i_7iXS0=h250-rw" group-title="NACIONALES", FIERA TV
 https://59ce1298bfb98.streamlock.net/fieratv/fieratv/playlist.m3u8
 
