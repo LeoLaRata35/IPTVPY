@@ -1080,8 +1080,11 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/RF7hCyXN/alientovision.png" group-title="EVANGÉLICO", ALIENTO VISIÓN
 https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_360p/chunklist_w558821661.m3u8
 
-#EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXREMA TV
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
+
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/7h8wvx2f/HOSANNAVISION.png" group-title="EVANGÉLICO", HOSANNA VISIÓN
+https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
