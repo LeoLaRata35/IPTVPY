@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIxOTk5ODk3LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiZmZlZGNjOTExYWMzM2FmNjVmMDFkNzA3MDZkZTM2N2M1ZmE0OWFiMyJ9
+https://py-snt-snt-live-0-cdn-0.ned.media/snt/smil:snt.smil/media-ux4krv3me_b1200000_8204.ts?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIyMDg5OTEwLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiOWZiNTFlOWNkNzY5Njk0NzA2MzcxMWU3YWU2NzYxOTVkYjYzZGU2OCJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -1107,6 +1107,9 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/WbgDddSW/21TV.png" group-title="ARGENTINA", 21 TV POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/G3T10KLS/telediez.png" group-title="ARGENTINA", 21 TELE DIEZ
+https://videohd.live:19360/8020/8020.m3u8
+
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/0QyWnWkz/ondatv.jpg" group-title="ARGENTINA",Z ONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
@@ -1133,6 +1136,9 @@ http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
 
 #EXTINF:-205 tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA", CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
+
+#EXTINF:-205 tvg-logo="https://i.postimg.cc/4dx1TYbJ/telecondor.jpg" group-title="ARGENTINA", CANAL 4 TELECONDOR
+https://59537faa0729a.streamlock.net/canal4telecondor/canal4telecondor/playlist.m3u8
 
 #EXTINF:-206 tvg-logo="https://i.postimg.cc/3xRwMpKz/telemaxarg.jpg" group-title="ARGENTINA", TELEMAX
 http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w791852604_b1828000_sleng.m3u8
