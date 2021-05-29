@@ -1110,6 +1110,12 @@ https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/G3T10KLS/telediez.png" group-title="ARGENTINA", 21 TELE DIEZ
 https://videohd.live:19360/8020/8020.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/zD6Ms47p/valletv.webp" group-title="ARGENTINA", VALLE TV CANAL 9
+http://stmv6.srvstm.com/valletv/valletv/chunklist_w1523292074.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" group-title="ARGENTINA", RTN NEUQUÉN
+http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
+
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/0QyWnWkz/ondatv.jpg" group-title="ARGENTINA",Z ONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
@@ -1122,6 +1128,12 @@ https://stmv1.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8
 #EXTINF:-202 tvg-logo="https://i.postimg.cc/c4fJ0XWg/cincotv.png" group-title="ARGENTINA", CINCO TV TIGRE
 https://59537faa0729a.streamlock.net/cincotv/cincotv/chunklist_w1461023046.m3u8
 
+#EXTINF:-202 tvg-logo="https://i.postimg.cc/43DLDG4g/TLS.png" group-title="ARGENTINA", TELESOL
+https://cnnsanjuan.com:9999/live/telesol/woplay/telesoludp2_720p/chunks.m3u8
+
+#EXTINF:-202 tvg-logo="https://i.postimg.cc/vH5Vhdkn/tv-libres.png" group-title="ARGENTINA", TV LIBRES CANAL 10
+https://streamcasthd.com:19360/tvdiez/tvdiez.m3u8
+
 #EXTINF:-203 tvg-logo="https://i.postimg.cc/RhRbLkfJ/amertucuman.png" group-title="ARGENTINA", AMÉRICA TUCUMÁN
 http://45.6.4.154/americatuc/vivo.m3u8
 
@@ -1133,6 +1145,9 @@ https://srv1.zcast.com.ar/x24hd/x24hd/chunklist_w1182283463.m3u8
 
 #EXTINF:-204 tvg-logo="https://i.postimg.cc/G2S4T2g4/9link.png" group-title="ARGENTINA", CANAL 9 RESISTENCIA
 http://www.coninfo.net:1935/9linklive/live/chunklist_w1642129274.m3u8
+
+#EXTINF:-204 tvg-logo="https://i.postimg.cc/tTbf1bKz/c3pampa.png" group-title="ARGENTINA", CANAL 3 LA PAMPA
+https://5975e06a1f292.streamlock.net:4443/c3lapampa/ngrp:c3lapampa_all/chunklist_w1088876806_b2347008.m3u8
 
 #EXTINF:-205 tvg-logo="https://i.postimg.cc/rwCzCgYX/c4jujuy.png" group-title="ARGENTINA", CANAL 4 JUJUY
 http://190.52.32.13:1935/canal4/smil:manifest.smil/chunklist_w1604822537_b121000.m3u8
