@@ -1110,7 +1110,10 @@ http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/WbgDddSW/21TV.png" group-title="ARGENTINA", 21 TV POSADAS
 https://iptv.ixfo.com.ar:30443/c21tv/hd/c21tv/playlist.m3u8
 
-#EXTINF:-200 tvg-logo="https://i.postimg.cc/G3T10KLS/telediez.png" group-title="ARGENTINA", 21 TELE DIEZ
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/VkNkBY1D/4esquel.png" group-title="ARGENTINA", CANAL 4 ESQUEL
+https://5975e06a1f292.streamlock.net:4443/canal4esquel/canal4esquel/playlist.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/G3T10KLS/telediez.png" group-title="ARGENTINA", TELE DIEZ
 https://videohd.live:19360/8020/8020.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/zD6Ms47p/valletv.webp" group-title="ARGENTINA", VALLE TV CANAL 9
@@ -1119,8 +1122,11 @@ http://stmv6.srvstm.com/valletv/valletv/chunklist_w1523292074.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/mkVTCMF8/canal-10-rio-negro.png" group-title="ARGENTINA", CANAL 10 RIO NEGRO
 https://panel.dattalive.com/8204/8204/chunklist_w281940778.m3u8
 
-#EXTINF:-200 tvg-logo=https://i.postimg.cc/8sQWx2C7/SENILLOSATV.jpg" group-title="ARGENTINA", CANAL 10 SENILLOSA TV
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/8sQWx2C7/SENILLOSATV.jpg" group-title="ARGENTINA", CANAL 10 SENILLOSA TV
 https://stmv1.srvstm.com/senillosa/senillosa/chunklist_w559086041.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/Hk37dZWP/c10cordoba.png" group-title="ARGENTINA", CANAL 10 CÓRDOBA
+https://vcp.myplaytv.com/canal10cba/smil:canal10cba.smil/chunklist_w651528776_b1000000_slen.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/rsGNJy8h/canal6digital.gif" group-title="ARGENTINA", CANAL 6 POSADAS
 https://iptv.ixfo.com.ar:30443/live/c6digital/chunks.m3u8
