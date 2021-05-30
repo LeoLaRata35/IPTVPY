@@ -252,6 +252,9 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Japonés)
+https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+
 #EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 
@@ -1137,6 +1140,12 @@ https://live.canalnueve.tv/canal.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/MKzRpp9G/rtn.png" group-title="ARGENTINA", RTN NEUQUÉN
 http://media.neuquen.gov.ar/rtn/television/chunklist_w380845367.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/5NNwj7nv/speedtv.png" group-title="ARGENTINA", SPEED TV CONCORDIA
+http://srv3.zcast.com.ar/speedtv/speedtv/chunklist_w1030065714.m3u8
+
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/kM8bGrQB/eltres.png" group-title="ARGENTINA", EL TRES ROSARIO
+https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/chunklist_w2087766883_b1699840.m3u8
+
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/0QyWnWkz/ondatv.jpg" group-title="ARGENTINA",Z ONDA TV
 https://cnnsanjuan.com:9999/zonda/zonda/playlist.m3u8
 
@@ -1607,3 +1616,15 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="OTROS PAÍSES", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
+https://master.tucableip.com/live/tvlatinamontero/index.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
+https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/BQD1j544/boliviatv.jpg" group-title="OTROS PAÍSES", BOLIVIA TV
+https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8zMC8yMDIxIDEyOjQ0OjI5IEFNJmhhc2hfdmFsdWU9dGpDbXZnbSsrWS83aXExdDMrc1ZVUT09JnZhbGlkbWludXRlcz01MCZpZD0=
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/kGPnVpQm/fujitv.png" group-title="OTROS PAÍSES", FUJI TV
+https://fujitv.mov3.co/hls/fujitv.m3u8
