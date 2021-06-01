@@ -276,6 +276,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 #EXTINF:-50 tvg-logo="http://canalaster.club/gallery_gen/1ce4ce4fcf816bd5b80808bc38e053e8_800x522.67533170864_0x152.5129982669_800x800.png" group-title="NIÑOS Y ADOLESCENTES", CANAL ASTER
 http://96.30.193.226:81/hls/canalaster.m3u8
 
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS FANS
+https://live.admefy.com/live/clean_peach_ef224.m3u8
+
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" group-title="NIÑOS Y ADOLESCENTES", BOOMERANG CLÁSICO
 http://96.30.193.226:81/hls/boomerang.m3u8
 
