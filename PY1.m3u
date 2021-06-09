@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjEwOTIyLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiOWEwZGU4NjhkYThmOWVlMTY0NzNmZGE3NTQxZTMxMGQwMWI2YTdhNSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzMjk5MTEwLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNzE2M2FiOTExYWQwZDA5MThiOTc5NjJmZmQxMGQ1MWQzOWQ3YzU3ZCJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -123,6 +123,9 @@ http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/t4GPgZMb/VELOCIDAD.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV VELOCIDAD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6dc7480e3550009133d4a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff0ead2-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=11b5b1b3-ad58-40ca-90fc-9a19b7125ebc&userId=&serverSideAds=true
 
+#EXTINF:-32 tvg-logo="https://i.postimg.cc/s2NPwLm1/motor.png" group-title="DEPORTES Y COMPETENCIAS", PLUTO TV MOTOR
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6080345ebb49b90007ce0baf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21631ca0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=2f2dbf57-290d-486d-a430-704e5a67cf6f&userId=&serverSideAds=true
+
 #EXTINF:-32 tvg-logo="https://i.postimg.cc/wBFhTygz/tuning.png" group-title="DEPORTES Y COMPETENCIAS", TUNING
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076c74daa05ac0007d0eb07/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f82660-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3633f890-4bf6-461d-a1c6-0cd4bb26c306&userId=&serverSideAds=true
 
@@ -158,6 +161,12 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f99a772c5485300079
 
 #EXTINF:-3300 tvg-logo="https://i.postimg.cc/Wpm5jV3h/AAA.png" group-title="DEPORTES Y COMPETENCIAS", LUCHA LIBRE AAA 2
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5c01df1759ee03633e7b272c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7aea60-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=9e96a0f6-ac42-4164-a333-6f430bfee437&userId=&serverSideAds=true
+
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="DEPORTES Y COMPETENCIAS", ACTION SPORTS
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5be1be871843b56328bc3ef1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d849631-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b6801a0b-53b5-469c-a826-691aadfcdf85&userId=&serverSideAds=true
+
+#EXTINF:-3300 tvg-logo="https://i.postimg.cc/HWzMzx2j/action-sports.png" group-title="DEPORTES Y COMPETENCIAS", ACTION SPORTS 2
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5db867744f229f0009266784/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a103ec00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=05cde875-5856-4889-a846-2559db77631d&userId=&serverSideAds=true
 
 #EXTINF:-35 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/ac/MLBNetworkLogo.svg/1200px-MLBNetworkLogo.svg.png" group-title="DEPORTES Y COMPETENCIAS", MLB NETWORK
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
@@ -234,11 +243,14 @@ https://m3u-editor.com/serve/televito85/296537383
 #EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
 
+#EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME (España)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/608035b8d8705f0007260287/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=216343b0-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=aab02aec-78bc-44ef-9e5d-e1517268baa5&userId=&serverSideAds=true
+
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/4N1THpFQ/ANIME-ACCION.png" group-title="GAMING Y ANIME", PLUTO TV ANIME ACCIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6a4d875d7ccf0007cc2cf1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1fc43-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0102247d-6255-454b-b42a-4ed18335dc86&userId=&serverSideAds=true
 
 #EXTINF:-53 tvg-logo="https://i.postimg.cc/ryHNrrWF/anime_clasico.png" group-title="GAMING Y ANIME", PLUTO TV ANIME CLÁSICO
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.4229&deviceLon=-3.6916&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=ES&serverSideAds=true&sessionID=1a94d0b4-b757-11eb-a0a6-0242ac110002&sid=1a94d0b4-b757-11eb-a0a6-0242ac110002&userId=
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054acc871ec430007f54c7d/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21623240-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=23edd2b1-bd38-47cd-8e20-edcb1fe6b822&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="http://www.animeloving.net/aztv.png" group-title="GAMING Y ANIME", ANIME ZONE TV
 http://azxtv.com/hls/stream.m3u8
@@ -310,7 +322,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de58ef515635d00091
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aa7aab66c76000790ee7e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a1b50-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ae85d69e-9291-4dd1-a2b4-facd888e7465&userId=&serverSideAds=true
 
 #EXTINF:-57 tvg-logo="https://seeklogo.com/images/G/garfield-logo-61FF7BED47-seeklogo.com.png" group-title="NIÑOS Y ADOLESCENTES", GARFIELD (España)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=5.17.0-38a9908bb8d8f15260d990bd00c1f6b49c7bba28&app_name=web&clientDeviceType=0&clientID=65dca7cb-5c3a-4186-9083-f702118added&clientModelNumber=na&deviceDNT=false&deviceId=65dca7cb-5c3a-4186-9083-f702118added&deviceLat=40.4229&deviceLon=-3.6916&deviceMake=Chrome+Mobile&deviceModel=web&deviceType=web&deviceVersion=83.0.4103.106&marketingRegion=ES&serverSideAds=true&sessionID=1a94d0b4-b757-11eb-a0a6-0242ac110002&sid=1a94d0b4-b757-11eb-a0a6-0242ac110002&userId=
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e4fd44/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=21620b30-c804-11eb-9820-5521c83f8ae2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a6fc64eb-a303-4093-ad51-7eae56c3d7cb&userId=&serverSideAds=true
 
 #EXTINF:-57 tvg-logo="https://static.wikia.nocookie.net/rugrats/images/5/51/AGU11.png/revision/latest?cb=20170727125138" group-title="NIÑOS Y ADOLESCENTES", RUGRATS CRECIDOS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
@@ -482,6 +494,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf968040ab7d8f181e
 
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/vZCdkKG8/CINE-ESTELAR.png" group-title="CINE Y SERIES", CINE ESTELAR (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac1f1b66c76000790ef27/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44a14a1-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=e0810bdb-3103-4d41-9950-68244def5c07&userId=&serverSideAds=true
+
+#EXTINF:-71 tvg-logo="https://i.postimg.cc/XvV9jbHr/cine_clasico.png" group-title="CINE Y SERIES", CINE CLÁSICO
+https://stitcher.pluto.tv/stitch/hls/channel/609059dc63be6e0007b4eca6/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=c1ef7356-c8d0-11eb-8221-0242ac110002
 
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/W4bSTNSs/CINE-FAMILIA.png" group-title="CINE Y SERIES", CINE FAMILIA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd6ddb30a1d8a000908ed4c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff111e0-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fa508f20-2870-486b-a716-7a14ab7ab7fb&userId=&serverSideAds=true
