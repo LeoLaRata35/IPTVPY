@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNjM3MTU5LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiZGQ4M2MwYjM0MDhjNDkyMzQ2NTU0ZWNhNmY2YjE5ZjYzZDAzZjZjNiJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjIzNzI2ODc2LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYWY2YjExMDBkMjFlYWFiMTM2MmRiY2JiMTRjYjJjNjY0YjVhOTk3MCJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -804,6 +804,9 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/SQ7qxNkv/tele8.png" group-title="CHILE", TELE 8
+https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
+
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/RFDW6NTH/5tvlinares.png" group-title="CHILE" ,5TV LINARES
 http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 
@@ -815,6 +818,12 @@ http://v2.tustreaming.cl/belevision/index.m3u8
 
 #EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
 https://paneltv.online:1936/8062/8062/playlist.m3u8
+
+#EXTINF:-102 tvg-logo="https://i.postimg.cc/nrcQwSnK/temucotv.png" group-title="CHILE", TEMUCO TV
+https://5eff35271151c.streamlock.net:1936/8038/8038/playlist.m3u8
+
+#EXTINF:-102 tvg-logo=https://i.postimg.cc/cJpm2SzR/clubtv.png" group-title="CHILE", CLUB TV
+https://paneltv.online:1936/8030/8030/playlist.m3u8
 
 #EXTINF:-103 tvg-logo="https://i.postimg.cc/4xYP09YY/enfoquedigital.png" group-title="CHILE", ENFOQUE DIGITAL
 https://Stmv1.zcastbr.com/edtvchile/edtvchile/playlist.m3u8
@@ -1052,6 +1061,9 @@ https://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_p
 
 #EXTINF:-152 tvg-logo="https://i.postimg.cc/5yK43XBF/fashiontv.png" group-title="ESTILO DE VIDA", FASHION TV NEW YORK
 http://fash2043.cloudycdn.services/slive/_definst_/ftv_ftv_gmt_-5_qko_43090_default_1225_hls.smil/chunklist_b2878000_t64RGVmYXVsdA==.m3u8
+
+#EXTINF:-152 tvg-logo="https://i.postimg.cc/639pc7hF/chicmagazine.png" group-title="ESTILO DE VIDA", CHIC MAGAZINE
+https://paneltv.online:1936/8056/8056/playlist.m3u8
 
 #EXTINF:-169 tvg-logo="https://i.postimg.cc/vm5k7tkn/paxtv.png" group-title="CATÓLICO", PAX TV
 http://d2fxrfbiedz1tm.cloudfront.net/livepaxtv/smil:PC.smil/chunklist_b1735000.m3u8
@@ -1569,8 +1581,8 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/t4tmq9gb/livemusic.png" group-title="MÚSICA", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
 
-#EXTINF:-422 tvg-logo="https://i.postimg.cc/D06H8wGW/zappingmusic.jpg" group-title="MÚSICA", ZAPPING MUSIC
-https://zmlive.zappingtv.com/zm_free/zm.smil/chunklist_b1828000_sles.m3u8
+#EXTINF:-422 tvg-logo="https://i.postimg.cc/tTF8sYjm/highmusictv.png" group-title="MÚSICA", HIGH MUSIC TV
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:-422 tvg-logo="https://i.postimg.cc/PqqWjrX3/tributovalentina.jpg" group-title="MÚSICA", RADIO TRIBUTO VALENTINA
 https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
@@ -1646,3 +1658,6 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsA
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/kGPnVpQm/fujitv.png" group-title="OTROS PAÍSES", FUJI TV
 https://fujitv.mov3.co/hls/fujitv.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/P5hJJwn0/wapptv.png" group-title="CHILE", WAPP TV
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?
