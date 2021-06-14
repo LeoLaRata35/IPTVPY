@@ -1660,4 +1660,19 @@ https://5f2c1b0d880e5.streamlock.net/boliviatv/videoboliviatv/playlist.m3u8?wmsA
 https://fujitv.mov3.co/hls/fujitv.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/P5hJJwn0/wapptv.png" group-title="CHILE", WAPP TV
-https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8?
+https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/907X2Xqp/acequia.png" group-title="ARGENTINA", ACEQUIA
+http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/RZKmYgnn/canal5delpueblo.jpg" group-title="ARGENTINA", CANAL 5 DEL PUEBLO
+https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/WbRSp8Hn/cooptv.jpg" group-title="ARGENTINA", CANAL COOP
+https://panel.dattalive.com:443/8138/8138/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/FsdRpgr2/canalu.png" group-title="ARGENTINA", CANAL U
+https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/FsdRpgr2/canalu.png" group-title="MÚSICA", COMPLEJO DANCE
+https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
