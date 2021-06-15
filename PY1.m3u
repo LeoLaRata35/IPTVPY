@@ -297,6 +297,9 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/PrkmSn77/Boomerangclasico.png" group-title="NIÑOS Y ADOLESCENTES", BOOMERANG CLÁSICO
 http://96.30.193.226:81/hls/boomerang.m3u8
 
+#EXTINF:-55 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" group-title="NIÑOS Y ADOLESCENTES", DREIKO TV
+https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
+
 #EXTINF:-55 tvg-logo="https://photos.encuentra24.com/t_or_fh_l/f_auto/v1/pa/19/31/03/24/19310324_e801c2" group-title="NIÑOS Y ADOLESCENTES",50, DREIKO TV
 http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
 
@@ -1644,7 +1647,7 @@ https://cp.sradiotv.com:1936/8064/8064/playlist.m3u8
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/wMpNvh8V/retrochannel.jpg" group-title="MÚSICA", THE RETRO CHANNEL
 https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="OTROS PAÍSES", MVS TV
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="MÉXICO", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
@@ -1665,6 +1668,12 @@ https://mdstrm.com/live-stream-playlist/6046495ddf98b007fa2fe807.m3u8
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/907X2Xqp/acequia.png" group-title="ARGENTINA", ACEQUIA
 http://api.new.livestream.com/accounts/6450028/events/5813077/live.m3u8
 
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/FRxxzXkX/tves.jpg" group-title="ARGENTINA", EN VIVO TVES
+https://mediacp.hostradios.com.ar:19360/envivotv/envivotv.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/KY3crtn0/metrotv.jpg" group-title="ARGENTINA", METRO TV CANAL 12
+https://streamtv12.ddns.net:5443/LiveApp/streams/193945633734205616732920.m3u8
+
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/RZKmYgnn/canal5delpueblo.jpg" group-title="ARGENTINA", CANAL 5 DEL PUEBLO
 https://stmvideo1.livecastv.com/canal5/canal5/playlist.m3u8
 
@@ -1676,3 +1685,18 @@ https://vcp.myplaytv.com:443/canal10srt/smil:canal10srt.smil/playlist.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/FsdRpgr2/canalu.png" group-title="MÚSICA", COMPLEJO DANCE
 https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/FK1zC7LB/conectatv.png" group-title="MÚSICA", CONECTA TV
+http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/jqkbvZXt/15tv.png" group-title="MÉXICO", 15TV
+https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/0jMZxpBK/8NTV.png" group-title="MÉXICO", 8 NTV
+https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/ZRWmpMQ9/canal10chiapas.png" group-title="MÉXICO", CANAL 10 CHIAPAS
+https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="MÉXICO", CANAL 28 NUEVO LEÓN
+https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
