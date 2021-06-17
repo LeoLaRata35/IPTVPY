@@ -51,6 +51,9 @@ https://tvdatta.com:3839/live/nandutitvlive.m3u8
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/qM94hnJf/radioasuncion.png" group-title="NACIONALES", RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/FK7mwy1C/tvmax.png" group-title="NACIONALES", TV MAX
+https://tvmaxsa.com.py:444/hls/stream.m3u8
+
 #EXTINF:-18 tvg-logo="https://cdn.rcc.com.py/2017/12/logo-retina-544x180.png" group-title="NACIONALES", RCC
 https://59ce1298bfb98.streamlock.net/rcctv02/rcctv02/playlist.m3u8
 
