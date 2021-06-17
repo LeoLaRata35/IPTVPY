@@ -1125,6 +1125,9 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/RF7hCyXN/alientovision.png" group-title="EVANGÉLICO", ALIENTO VISIÓN
 https://livestreamcdn.net:444/AlientoSD/mp4:AlientoSD_360p/chunklist_w558821661.m3u8
 
+#EXTINF:-175 tvg-logo="https://i.postimg.cc/J0pWs892/alcancetv.png" group-title="EVANGÉLICO", ALCANCE TV
+https://5bf8041cb3fed.streamlock.net:443/AlcanceTV/AlcanceTV/playlist.m3u8
+
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/SR3fvmmn/xtrematv.png" group-title="EVANGÉLICO", EXTREMA TV
 https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w755934857.m3u8
 
@@ -1608,8 +1611,8 @@ http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?
 #EXTINF:-428 tvg-logo="https://i.postimg.cc/FKsHCYrR/canal38.jpg" group-title="MÚSICA", CANAL 38
 https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 
-#EXTINF:-429 tvg-logo="https://i.postimg.cc/NF1tjtsS/eurolatina.png" group-title="MÚSICA", EUROLATINA
-https://limited1.todostreaming.es/live/eurolatina-livestream.m3u8
+#EXTINF:-429 tvg-logo="https://i.postimg.cc/xj6ry04s/eimc.jpg" group-title="MÚSICA", EURO INDIE MUSIC
+http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
 #EXTINF:-429 tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA", LATIDO TV
 https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
@@ -1692,14 +1695,44 @@ https://mediacp.hostradios.com.ar:19360/complejodance/complejodance.m3u8
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/FK1zC7LB/conectatv.png" group-title="MÚSICA", CONECTA TV
 http://204.12.211.210:1935/conectatv/conectatv/playlist.m3u8
 
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/8cGf4RX6/tmtv.jpg" group-title="MÉXICO", TRANSMEDIA TV
+http://streamingcws20.com:1935/tmtv/videotmtv/chunklist_w1798696550.m3u8
+
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/jqkbvZXt/15tv.png" group-title="MÉXICO", 15TV
 https://hls.gvstream.live/telesistemas/15tv.stream/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/mDFwcyKf/tvlobo.jpg" group-title="MÉXICO", TV LOBO
+http://streamingcws20.com:1935/lobodurango/videolobodurango/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/Bb1LJh8k/telemaxmx.png" group-title="MÉXICO", TELEMAX
+http://s5.mexside.net:1935/telemax/telemax/.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/rFzp5ZQr/trctv.png" group-title="MÉXICO", TRC TV
+https://stream.oursnetworktv.com/latin/SRTC/playlist.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/0jMZxpBK/8NTV.png" group-title="MÉXICO", 8 NTV
 https://60417ddeaf0d9.streamlock.net:443/ntv/videontv/playlist.m3u8
 
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/jjgrZt8Q/taxcalatv.jpg" group-title="MÉXICO", TAXCALA TV
+https://vid.mega00.com:5443/LiveApp/streams/928111829917388844551988/928111829917388844551988.m3u8
+
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/ZRWmpMQ9/canal10chiapas.png" group-title="MÉXICO", CANAL 10 CHIAPAS
 https://5ca9af4645e15.streamlock.net/chiapas/videochiapas/chunklist.m3u8
 
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/PJhLDNHy/mexiquense.png" group-title="MÉXICO", MEXIQUENSE TV
+https://5ca3e84a76d30.streamlock.net:443/mexiquense/videomexiquense/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/TYSqFqJW/rcg.png" group-title="MÉXICO", RCG
+https://video1.getstreamhosting.com:1936/8172/8172/chunklist_w1279330422.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/TYSqFqJW/rcg.png" group-title="MÉXICO", RCG 2
+http://wowzacontrol.com:1936/stream23/stream23/playlist.m3u8
+
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/TYSqFqJW/rcg.png" group-title="MÉXICO", RCG 3
+http://wowzacontrol.com:1936/stream56/stream56/playlist.m3u8
+
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/gjvvsdtr/28NL.jpg" group-title="MÉXICO", CANAL 28 NUEVO LEÓN
 https://6011c5681d877.streamlock.net:1936/canal28/canal28/playlist.m3u8
+
+#EXTINF:-429 tvg-logo="https://i.postimg.cc/NF1tjtsS/eurolatina.png" group-title="OTROS PAÍSES", EUROLATINA
+https://cdn01.yowi.tv/ZM1I2N6F9E/live-1600.m3u8
