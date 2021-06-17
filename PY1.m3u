@@ -790,7 +790,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cf0622da00ca1e2f6f
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492e6d7f3f560007ab0f62/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1213801-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=519301a0-daea-42d0-a3b7-ebe62e4fb5df&userId=&serverSideAds=true
 
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/RhmStg9H/run_time.png" group-title="NOVELAS Y TALKSHOWS", ESPAÑOL RUN TIME
-https://ammo-espanol-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f5132e362fe160040f26c15/hls/amagi_hls_data_plexAAAAA-ammo-espanol-plex/CDN/playlist.m3u8
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6086d3f420fc8500075f8dbf/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=46fe0760-cd6b-11eb-89a0-1911255476a4&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dc63e9bf-5ac9-45b2-9ed9-bf287900f7a8&userId=&serverSideAds=true
 
 #EXTINF:-90 tvg-logo="https://i.postimg.cc/WzSvkjXB/canelatv.png" group-title="NOVELAS Y TALKSHOWS", CANELA TV
 https://stream-us-east-1.getpublica.com/cl/2aeb03c2-eb6b-4f20-b7e8-e699f48fd580/1280x720_4569479_0.m3u8
