@@ -4,13 +4,13 @@
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/NOTICIAS_PY_C4/verimatrix_rotating_FTA/NOTICIAS_PY_C4-video=3000000-audio_20000=144800.m3u8 
+https://tigocloud.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?k=89f054a5374a18e3ccd2d8519e2795c8b1f7a3e0a6960c18c903db8103721019&exp=1624572134
 
 #EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/TELEFUTURO_C4/verimatrix_rotating_FTA/TELEFUTURO_C4-video=3000000-audio_20000=144800.m3u8
+hhttps://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=6aba31eb0074d104adc894634d1b24b7041ee51ce711f79f213c3486d14680b5&exp=1624572512
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
@@ -34,22 +34,28 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/LA_TELE_C4/verimatrix_rotating_FTA/LA_TELE_C4-video=1532000-audio_20000=144800.m3u8
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/C9N_C4/verimatrix_rotating_FTA/C9N_C4-video=3900000-audio_20000=144800.m3u8
+https://py-c9n-c9n-live.ned.media/c9n/smil:c9n.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NjYwMDg5LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiM2ZjZTlhY2ZiMzZmNDFhNmMxYzkxYTkyYzNmNzI1YjE2N2FkNmEwZSJ9
 
 #EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/RPC_C4/verimatrix_rotating_FTA/RPC_C4-video=3000000-audio_20000=144800.m3u8
+http://174.138.118.252/live/trece.m3u8
 
 #EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
 
 #EXTINF:-15 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2019/11/ABC-TV-Paraguay-en-vivo-Online.png" group-title="NACIONALES", ABC TV
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/ABC_TV_C4/verimatrix_rotating_FTA/ABC_TV_C4-video=3000000-audio_20000=144800.m3u8
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.isml/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/y8NmrWvJ/anduti-tv.png" group-title="NACIONALES", ÑANDUTÍ TV
 https://tvdatta.com:3839/live/nandutitvlive.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/qM94hnJf/radioasuncion.png" group-title="NACIONALES", RADIO ASUNCIÓN
 https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/VLQ08jR0/educanal.png" group-title="NACIONALES", EDUCANAL
+https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/fWg5jgMn/TVA.jpg" group-title="NACIONALES", TVA
+https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/FK7mwy1C/tvmax.png" group-title="NACIONALES", TV MAX
 https://tvmaxsa.com.py:444/hls/stream.m3u8
