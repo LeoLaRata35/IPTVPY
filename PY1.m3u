@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NDE5NzQxLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiMGFhOTFiMjZjZTBhNTQ2OTM0NDVmYjZjNWU0NWJjOTExNWU0NzFkNyJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NTkzNzkyLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNWU1Yjc5YjAyMTI0MDhjZjQxZjMwNGQwMzI5ODY1ZjRmZTJjYWYxNiJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -304,10 +304,7 @@ https://live.admefy.com/live/clean_peach_ef224.m3u8
 http://96.30.193.226:81/hls/boomerang.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" group-title="NIÑOS Y ADOLESCENTES", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/playlist.m3u8
-
-#EXTINF:-55 tvg-logo="https://photos.encuentra24.com/t_or_fh_l/f_auto/v1/pa/19/31/03/24/19310324_e801c2" group-title="NIÑOS Y ADOLESCENTES",50, DREIKO TV
-http://8.9.4.128:8080/hls/boomerangtv.m3u8?WebM3UCL
+https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1854828544.m3u8
 
 #EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
