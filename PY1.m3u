@@ -4,16 +4,16 @@
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
-https://tigocloud.desdeparaguay.net/npy/npy_py_baja/playlist.m3u8?k=89f054a5374a18e3ccd2d8519e2795c8b1f7a3e0a6960c18c903db8103721019&exp=1624572134
+http://186.101.216.211:8000/play/a099
 
 #EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-https://tigocloud.desdeparaguay.net/telefuturo/telefuturo_py_baja/playlist.m3u8?k=6aba31eb0074d104adc894634d1b24b7041ee51ce711f79f213c3486d14680b5&exp=1624572512
+http://186.101.216.211:8000/play/a06s
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/PARAVISION_C4/verimatrix_rotating_FTA/PARAVISION_C4-video=3000000-audio_20000=144800.m3u8
+http://186.101.216.211:8000/play/a03d
 
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES", MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
@@ -28,13 +28,13 @@ http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FT
 https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzYzNzc4LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiODNmZGMwNWI5Mzc3MDQyMjg2NzlmY2VjZjZhZWNlMzM1NmUyNmU0MSJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
-http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
+http://186.101.216.211:8000/play/a03h
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
 https://tigocloud.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=628d4c041d52d09c3f9e557958593cb4ca59b43a79f0b89f5b21380c648efbe2&exp=1624575583
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
-https://py-c9n-c9n-live.ned.media/live.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0Njc4Mzk1LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiMzcyOGQ2YzBiYWRmZGU1ZDY1M2ZhYmJiYTMwZGI5MGQ3M2Y2OTQ2NSJ9
+http://186.101.216.211:8000/play/a097
 
 #EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
 https://stream.rpc.com.py/live/trece.m3u8
