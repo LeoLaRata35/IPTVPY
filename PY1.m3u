@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/UNICANAL_C4/verimatrix_rotating_FTA/UNICANAL_C4-video=3000000-audio_20000=144800.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0Njc4MjQzLCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYWMyZDEwMmFlMjliM2ZkZTQ5YTUyYWNjZWU5YWYxNDQzYzA1MTgxNCJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI0NzYzNzc4LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiODNmZGMwNWI5Mzc3MDQyMjg2NzlmY2VjZjZhZWNlMzM1NmUyNmU0MSJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://edge02-fdo-py.cvattv.com.ar/live/c5eds/SUR_TV_C4/verimatrix_rotating_FTA/SUR_TV_C4-video=3000000-audio_20000=144800.m3u8
@@ -53,6 +53,9 @@ https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/VLQ08jR0/educanal.png" group-title="NACIONALES", EDUCANAL
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
+
+#EXTINF:-15 tvg-logo="https://i.postimg.cc/jSndDdrF/laresistencia.jpg" group-title="NACIONALES", LA RESISTENCIA TV
+https://g1.mc-hor.transport.edge-access.net/a14/ngrp:gcba_video5-100042_all/gcba_video5-100042_540p.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/fWg5jgMn/TVA.jpg" group-title="NACIONALES", TVA
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
