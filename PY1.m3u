@@ -31,7 +31,7 @@ https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbX
 http://186.101.216.211:8000/play/a03h
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
-https://tigocloud.desdeparaguay.net/latele/latele_py_baja/playlist.m3u8?k=628d4c041d52d09c3f9e557958593cb4ca59b43a79f0b89f5b21380c648efbe2&exp=1624575583
+http://186.101.216.211:8000/play/a074
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
 http://186.101.216.211:8000/play/a097
@@ -53,9 +53,6 @@ https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/VLQ08jR0/educanal.png" group-title="NACIONALES", EDUCANAL
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
-
-#EXTINF:-15 tvg-logo="https://i.postimg.cc/jSndDdrF/laresistencia.jpg" group-title="NACIONALES", LA RESISTENCIA TV
-https://g1.mc-hor.transport.edge-access.net/a14/ngrp:gcba_video5-100042_all/gcba_video5-100042_540p.m3u8
 
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/fWg5jgMn/TVA.jpg" group-title="NACIONALES", TVA
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
