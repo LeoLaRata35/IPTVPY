@@ -1506,30 +1506,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f397795b7500077
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/vHGnRyCf/vevolatino.png" group-title="MÚSICA", VEVO LATINO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5da0d64d0e8a62000964ebe4/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a1017b00-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=3566ca8c-2173-405a-b3fd-417fe1777274&userId=&serverSideAds=true
 
-#EXTINF:-409 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/1.m3u8
-
-#EXTINF:-410 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 BALADAS
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
-
-#EXTINF:-41 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 RETRO
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/4.m3u8
-
-#EXTINF:-412 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 TOP 100
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/2.m3u8
-
-#EXTINF:-413 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 CONCIERTOS
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
-
-#EXTINF:-414 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 TROPICAL
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/3.m3u8
-
-#EXTINF:-415 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 PURO ROCK
-http://159.69.56.148:25461/live/PuroRock/PuroRock24-7.com/25.m3u8
-
-#EXTINF:-416 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 POP
-http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
-
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/PxcdNNz6/stingraymusic.png" group-title="MÚSICA", STINGRAY MUSIC EVERYTHING 80'S
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/1920x1080_1790800/chunklist.m3u8
 
@@ -1565,6 +1541,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/SsnFg9KN/lovemusic.png" group-title="MÚSICA", MTV LOVE MUSIC
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/600ae79fa46e17000794e84c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=b44b7434-778d-11eb-9fe3-3bf7f4412392&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a7e1dc13-cad3-45a3-914b-99d1ae366e78&userId=&serverSideAds=true
+
+#EXTINF:-421 tvg-logo="https://i.postimg.cc/0NsQHPyp/summer.png" group-title="MÚSICA", MTV SUMMER HITS
+https://stitcher.pluto.tv/stitch/hls/channel/6087c6c5db549e0007eead39/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=f02eef03-d91e-11eb-a5e5-0242ac110002
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/SN46yCYX/mtvyo.png" group-title="MÚSICA", MTV YO!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fc31252d35decbc4080b/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7e45c2-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=dfeb1d80-be28-4be3-b669-23fa79a8aec7&userId=&serverSideAds=true
