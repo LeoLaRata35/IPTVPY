@@ -1479,6 +1479,28 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussen
 #EXTINF:-406 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="MÚSICA", RETRO PLUS TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w653594315.m3u8
 
+
+#EXTINF:-410 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 BALADAS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/6.m3u8
+
+#EXTINF:-41 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 RETRO
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/4.m3u8
+
+#EXTINF:-412 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 TOP 100
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/2.m3u8
+
+#EXTINF:-413 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 CONCIERTOS
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/7.m3u8
+
+#EXTINF:-414 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 TROPICAL
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/3.m3u8
+
+#EXTINF:-415 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 PURO ROCK
+http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/25.m3u8
+
+#EXTINF:-416 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 POP
+http://159.69.56.148:25461/live/M3UMix247/89ph5uifoi/5.m3u8
+
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/cC2PnTqN/vevo70s.png" group-title="MÚSICA", VEVO 70'S
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f32f26bcd8aea00071240e5/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c868321-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=1d158533-4c2c-4f85-8afd-5c0cbcdcb90a&userId=&serverSideAds=true
 
