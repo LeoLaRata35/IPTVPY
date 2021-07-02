@@ -828,6 +828,9 @@ http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/bwgkYY4Q/zptv.png" group-title="CHILE", ZPTV
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
 
+#EXTINF:-64 tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2021/05/cropped-cropped-logo-blanco.png" group-title="CHILE", SPECTRUM CHANNEL
+https://app.viloud.tv/hls/channel/f2eb3ddf5eb0bf6e040db535a7150e1e/hi_mid.m3u8
+
 #EXTINF:-100 tvg-logo="https://i.postimg.cc/sXXcCGXQ/belevision.png" group-title="CHILE", BELEVISIÓN
 http://v2.tustreaming.cl/belevision/index.m3u8
 
