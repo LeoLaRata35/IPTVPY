@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2ODMzMDc3LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNzVlZTg0ZjQ2M2M4MzU0ODk1YzdlNzZiMGVmZDdjZmIzMWJlMmU3ZSJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2OTE4MzA4LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNjhjMmViMTMxYjUxNmIwZjVhZGY3NjUwYjc1Y2E1OGFiMzRhOGE2NiJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://186.101.216.211:8000/play/a03h
@@ -308,9 +308,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/hj8PQjLk/toons_clásico.png" group-title="NIÑOS Y ADOLESCENTES", TOONS CLÁSICO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24628e10-de0a-11eb-994d-d7a54cf59ce6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7875e37-1e3c-4d7a-bc4d-1dd4790bb5e5&userId=&serverSideAds=true
-
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/prwZsYms/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS FANS
-https://live.admefy.com/live/clean_peach_ef224.m3u8
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" group-title="NIÑOS Y ADOLESCENTES", DREIKO TV
 https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1854828544.m3u8
