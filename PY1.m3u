@@ -306,7 +306,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/9MtY98G6/mundo_geek.png" group-title="GAMING Y ANIME", MUNDO GEEK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", TOONS CLÁSICO
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/hj8PQjLk/toons_clásico.png" group-title="NIÑOS Y ADOLESCENTES", TOONS CLÁSICO
