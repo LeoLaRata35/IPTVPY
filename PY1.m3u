@@ -25,7 +25,7 @@ https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI2OTE4MzA4LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNjhjMmViMTMxYjUxNmIwZjVhZGY3NjUwYjc1Y2E1OGFiMzRhOGE2NiJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3MzU1ODE5LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiMjIzYTQyMTRlMmU2NDgxNWVlZWFmMjRhNjdiOTJkYTA1NGY2NmVlMiJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://186.101.216.211:8000/play/a03h
@@ -286,7 +286,7 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Japonés)
-https://redlabmcdn.s.llnwi.net/jp01/bs14/tracks-v1a1/mono.m3u8
+http://redlabmcdn.s.llnwi.net/jp04/bs14hd/playlist.m3u8
 
 #EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
