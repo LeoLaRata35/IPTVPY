@@ -4,40 +4,40 @@
 https://59ce1298bfb98.streamlock.net/rcntv/rcntv/playlist.m3u8
 
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
-http://186.101.216.211:8000/play/a099
+http://201.182.242.135:8000/play/a069/index.m3u8
 
 #EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-http://186.101.216.211:8000/play/a06s
+http://201.182.242.135:8000/play/a044/index.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
-http://186.101.216.211:8000/play/a03d
+http://201.182.242.135:8000/play/a066/index.m3u8
 
 #EXTINF:-6 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/LOGO_MITV_ALTA_DEFINICION_2020_PNG.png/1200px-LOGO_MITV_ALTA_DEFINICION_2020_PNG.png" group-title="NACIONALES", MI TV
 https://tigocloud.desdeparaguay.net/mitv/mitv/chunklist_w680215671.m3u8
 
 #EXTINF:-7 tvg-logo="https://i.postimg.cc/Fsx70D6t/capiatatv.jpg" group-title="NACIONALES", CAPIATÁ TV
-https://59ce1298bfb98.streamlock.net/capiatatv/capiatatv/chunklist_w34563078.m3u8
+https://59ce1298bfb98.streamlock.net/capiatatv16/capiatatv16/chunklist_w1635313830.m3u8
 
 #EXTINF:-8 tvg-logo="http://www.unicanal.com.py/public/img/LogoUnicanalBlanco.png" group-title="NACIONALES", UNICANAL
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/playlist.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjI3NDg3ODg5LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiNzk5ZDZmNmQxNGNhNTJmYTEwMWRhYWMzYjEzM2I4NDM4YjAyMDM3YiJ9
+https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNzI2NTE3LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYmNkZGUzYzIyY2E1MjU1OWFkMDY4YTM5OTg4MzQ0ODViYWQzZDE0MCJ9
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
-http://186.101.216.211:8000/play/a03h
+http://201.182.242.135:8000/play/a06a/index.m3u8
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
-http://186.101.216.211:8000/play/a074
+http://201.182.242.135:8000/play/a06y/index.m3u8
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
-http://186.101.216.211:8000/play/a097
+http://201.182.242.135:8000/play/a067/index.m3u8
 
 #EXTINF:-13 tvg-logo="http://www.trece.com.py/public/img/Logo-Trece.png" group-title="NACIONALES", TRECE
-https://stream.rpc.com.py/live/trece.m3u8
+http://201.182.242.135:8000/play/a05o/index.m3u8
 
 #EXTINF:-14 tvg-logo="https://lh3.googleusercontent.com/-rxPg-nFeRnA/YH4KeHsfYUI/AAAAAAABBvU/zd44dHuAc0sfCu2X_jigS4cV-W_eLsZwQCK8BGAsYHg/s512/2021-04-19.jpg" group-title="NACIONALES", LIM TV
 https://live.admefy.com/live/default/ashamed_crimson_3360d.m3u8
@@ -62,6 +62,9 @@ https://tvmaxsa.com.py:444/hls/stream.m3u8
 
 #EXTINF:-15 tvg-logo="" group-title="NACIONALES", OVIEDO TV
 https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+
+#EXTINF:-15 tvg-logo="" group-title="NACIONALES", NIHON GAKKO TV
+https://59ce1298bfb98.streamlock.net/ngtv/ngtv/chunklist_w1520616514.m3u8
 
 #EXTINF:-15 tvg-logo="https://paraguayhd.com.py/wp-content/uploads/2021/05/cropped-Logo_Paraguay_HD.png" group-title="NACIONALES", PARAGUAY HD
 https://59ce1298bfb98.streamlock.net/paraguayhd/paraguayhd/chunklist_w1636282446.m3u8
@@ -114,8 +117,8 @@ https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 #EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES", GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
-#EXTINF:-26 tvg-logo="https://i.postimg.cc/g0HSp9SS/frutillar_fm.png" group-title="NACIONALES", FRUTILLAR FM
-https://59ce1298bfb98.streamlock.net/frutillarfm/frutillarfm/playlist.m3u8
+#EXTINF:-26 tvg-logo="" group-title="NACIONALES", REGIONAL RADIO
+https://59ce1298bfb98.streamlock.net/medioenpy02/medioenpy02/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
@@ -126,8 +129,8 @@ https://59ce1298bfb98.streamlock.net/marianotv/marianotv/playlist.m3u8
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/3wHgJVv6/rtv.png" group-title="NACIONALES", RTV CANAL 12
 https://59ce1298bfb98.streamlock.net/mediosenpy/mediosenpy/playlist.m3u8
 
-#EXTINF:-2001 tvg-logo="https://forounivers.com/uploads/monthly_2018_03/large.5ab72f023b983_ClaroSports.png.7a8910006bbbaf0136627622d8323cc6.png" group-title="DEPORTES Y COMPETENCIAS", CLARO SPORTS
-https://clarosport-origen.clarovideo.net/Content/hls/Live/Channel(jjoo2016ch01)/index.m3u8
+#EXTINF:-26 tvg-logo="" group-title="NACIONALES", FORTALEZA TV
+https://59ce1298bfb98.streamlock.net/fortaleza/fortaleza/playlist.m3u8
 
 #EXTINF:-2001 tvg-logo="https://beinxtraespanol.com/images/beINSPORTS-XTRA_ESPANOL-LOGO_HORIZONTAL_FULL-COLOR.png" group-title="DEPORTES Y COMPETENCIAS", BEIN SPORTS XTRA Ñ
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60492fdd9989d30007ccd30a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a121ad30-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ac3bc3c0-b26f-4c9c-8c94-988af191404a&userId=&serverSideAds=true
