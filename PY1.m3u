@@ -265,7 +265,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b26947
 http://51.222.85.85:81/hls/loco/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="GAMING Y ANIME", KANADE TV
-https://stream.animaxla.club/hls/kanade.m3u8
+https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/QualityLevels(128000)/Manifest(audio_und,format=m3u8-aapl)
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
@@ -291,8 +291,8 @@ https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Indonesia)
-https://list.iptvcat.com/my_list/s/411d6172b558b5ee855747481aa5bd5e.m3u8
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Muy Pronto)
+https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8?WebM3UCL
 
 #EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
@@ -659,12 +659,6 @@ https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
 #EXTINF:-73 tvg-logo="https://i.postimg.cc/7P2YVB8r/FMTV-1.png" group-title="CINE Y SERIES", FMTV
 https://cloud2.streaminglivehd.com:1936/8070/8070/chunklist_w1605424459.m3u8
-
-#EXTINF:-74 tvg-logo="https://i.postimg.cc/zvrmpFKq/FMTV-2.jpg" group-title="CINE Y SERIES", FMTV 2
-https://rtmp02.portalexpress.es/fmtvmovies2/fmtvmovies2/chunklist_w1362286339.m3u8
-
-#EXTINF:-75 tvg-logo="" group-title="CINE Y SERIES", FMTV 3
-https://stmv.panel.mivideo.pro/fmtvmovies2/fmtvmovies2/chunklist_w1675545244.m3u8
 
 #EXTINF:-75 tvg-logo="https://i.postimg.cc/1zgKr0JS/sol.jpg" group-title="CINE Y SERIES", SOL TELEVISIÓN
 https://5b3196ff6fa3b.streamlock.net/soltv/ngrp:soltv_all/chunklist_w1419707822_b1013840.m3u8
@@ -1491,11 +1485,32 @@ https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/NjtP8Ydp/rrr.png" group-title="MÚSICA", RECUERDOS RETRO RADIO
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
 
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/JzvgNV9p/retroplay.png" group-title="MÚSICA", REETRO PLAY TV
+https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
 #EXTINF:-405 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="MÚSICA", RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
 
 #EXTINF:-406 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="MÚSICA", RETRO PLUS TV 2
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/_definst_/retroplustv/chunklist_w653594315.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT 80'S
+https://stmv.negotv.com/80s2021/80s2021/playlist.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT BANDA
+https://stmv.negotv.com/bandamx/bandamx/playlist.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT EN ESPAÑOL
+https://stmv.negotv.com/espanolmusica/espanolmusica/playlist.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT GYM
+https://stmv.negotv.com/gym2021/gym2021/playlist.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT REGGAETÓN
+https://stmv.negotv.com/regueton2021/regueton2021/playlist.m3u8
+
+#EXTINF:-406 tvg-logo="https://i.postimg.cc/L4LtydGJ/MCRT.png" group-title="MÚSICA", MCRT TOP HITS
+https://stmv.negotv.com/top2021/top2021/playlist.m3u8
 
 #EXTINF:-410 tvg-logo="https://i.postimg.cc/jjPHMJCf/mix247.png" group-title="MÚSICA", MIX 24-7 RETRO MIX
 http://159.69.56.148:25461/live/Mix24-7Gratis/78qy9/1.m3u8
@@ -1637,6 +1652,9 @@ http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
 
 #EXTINF:-425 tvg-logo="https://i.postimg.cc/Cx81n3vh/xtvmusic.jpg" group-title="MÚSICA", XTV MUSIC
 https://tls.cdnz.cl/xtvmusic/xtvmusic/chunklist_w1301350852.m3u8
+
+#EXTINF:-425 tvg-logo="https://i.postimg.cc/vTHZLs51/latinosradiocl.png" group-title="MÚSICA", LATINOS RADIO
+https://5eae379fb77bb.streamlock.net:443/latinosradio/latinosradio/playlist.m3u8
 
 #EXTINF:-426 tvg-logo="https://i.postimg.cc/8CD1JjJ4/teleritmo.png" group-title="MÚSICA", TELERITMO
 http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8?iptvgratis?chile.m3u8
