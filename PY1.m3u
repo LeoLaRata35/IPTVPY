@@ -843,6 +843,9 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
+#EXTINF:-422 tvg-logo="https://i.postimg.cc/C5x2Nc1L/tvcosta.png" group-title="CHILE", TV COSTA
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
+
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/SQ7qxNkv/tele8.png" group-title="CHILE", TELE 8
 https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
 
@@ -1658,9 +1661,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/t4tmq9gb/livemusic.png" group-title="MÚSICA", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-
-#EXTINF:-422 tvg-logo="https://i.postimg.cc/tTF8sYjm/highmusictv.png" group-title="MÚSICA", HIGH MUSIC TV
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:-422 tvg-logo="https://i.postimg.cc/PqqWjrX3/tributovalentina.jpg" group-title="MÚSICA", RADIO TRIBUTO VALENTINA
 https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
