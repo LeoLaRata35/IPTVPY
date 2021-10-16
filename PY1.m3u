@@ -267,6 +267,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/BnGVfj4N/plutotvgamer.png" group-title="GAMING Y ANIME", PLUTO TV GAMER (Inglés)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
 
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/ZRj9p62t/energeek.png" group-title="GAMING Y ANIME", ENERGEEK
+https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
+
 #EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
@@ -317,9 +320,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
-
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
-https://edge6.popler.tv/popler_publishlive/LatinoKids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSA3OjQ4OjE5IFBNJmhhc2hfdmFsdWU9Q0srYUNVQzFqTzJ0cGZBdHFlbEVjdz09JnZhbGlkbWludXRlcz01&secure=OOKPWzI9tLHjlAVgf2c3AA&expires=1634413999&ip=181.126.206.149
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Nf70Ftzv/retrocartoons.png" group-title="NIÑOS Y ADOLESCENTES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
