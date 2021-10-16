@@ -291,9 +291,6 @@ http://azxtv.com/hls/stream.m3u8
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/Gt0XqS9T/Tokusato.png" group-title="GAMING Y ANIME", TOKUSATO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e2996000768c366/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d9becb2-96c0-11eb-9a85-37b72d037091&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=ed471aea-2765-4138-85e6-f1d73d746ebb&userId=&serverSideAds=true
 
-#EXTINF:-54 tvg-logo="https://www.toonizaki.tk/wp-content/uploads/logo-toonizaki-2021-350x150px.png" group-title="GAMING Y ANIME", TOONIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
@@ -320,6 +317,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
+https://edge6.popler.tv/popler_publishlive/LatinoKids/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MTAvMTYvMjAyMSA3OjQ4OjE5IFBNJmhhc2hfdmFsdWU9Q0srYUNVQzFqTzJ0cGZBdHFlbEVjdz09JnZhbGlkbWludXRlcz01&secure=OOKPWzI9tLHjlAVgf2c3AA&expires=1634413999&ip=181.126.206.149
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Nf70Ftzv/retrocartoons.png" group-title="NIÑOS Y ADOLESCENTES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
