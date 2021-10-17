@@ -243,7 +243,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 #EXTINF:-36 tvg-logo="https://www.thesportsdb.com/images/media/league/badge/whizka1590358958.png" group-title="DEPORTES Y COMPETENCIAS", GLORY KICKBOXING TV
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c6dcb00-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d92192c8-c5c3-4bd8-b547-f8e655b4e974&userId=&serverSideAds=true
 
-#EXTINF:-50 tvg-logo="https://www.levelup.com/images/logo.svg" group-title="GAMING Y ANIME", LEVEL UP TV
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/tCBNWTh1/levelup.png" group-title="GAMING Y ANIME", LEVEL UP TV
 https://d37s0md1fx4qof.cloudfront.net/v1/manifest/9d062541f2ff39b5c0f48b743c6411d25f62fc25/LevelUp-Plex/5202b1d3-ec72-47ce-ba98-4a0046647ae2/0.m3u8
 
 #EXTINF:-51 tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="GAMING Y ANIME", ESR 24/7 NETWORK
@@ -252,7 +252,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fb554d87a0c480007c
 #EXTINF:-51 tvg-logo="https://www.esrevolution.com/images/Logo2021_ESR_2Website1.png" group-title="GAMING Y ANIME", ESR 24/7 NETWORK (Inglés)
 https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 
-#EXTINF:-51 tvg-logo="" group-title="GAMING Y ANIME", PLUTO TV E-SPORTS
+#EXTINF:-51 tvg-logo="https://i.postimg.cc/Bb8wkK5V/esports.png" group-title="GAMING Y ANIME", PLUTO TV E-SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=26e1d3a7-fa1f-11eb-9b62-0242ac110003
 
 #EXTINF:-71 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="GAMING Y ANIME", IGN
@@ -438,7 +438,7 @@ https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 #EXTINF:-59 tvg-logo="https://i.postimg.cc/T3yZ7Yp5/LEGOCHANNEL.png" group-title="NIÑOS Y ADOLESCENTES", LEGO CHANNEL (Inglés)
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
-#EXTINF:-59 tvg-logo="https://i.postimg.cc/T3yZ7Yp5/LEGOCHANNEL.png" group-title="NIÑOS Y ADOLESCENTES", LEGO TOONS (Inglés)
+#EXTINF:-59 tvg-logo="https://i.postimg.cc/G28w4Fy2/LEGOTOONS.png" group-title="NIÑOS Y ADOLESCENTES", LEGO TOONS (Inglés)
 https://stitcheraws.unreel.me/wse-node02.powr.com/live/5bf22549d5eeee0f5a4094ba/playlist.m3u8
 
 #EXTINF:-59 tvg-logo="https://www.yugioh-world.com/wp-content/uploads/2020/02/Kidoodle-Logo.png" group-title="NIÑOS Y ADOLESCENTES", KIDOODLE TV (Inglés)
@@ -603,16 +603,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f984c1dc5485300079
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/SRJQFrjC/CINE-LIFE.png" group-title="CINE Y SERIES", CINE LIFE
 https://magselect-stirr.amagi.tv/playlist720p.m3u8
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/cL936v65/logo-verdi.png" group-title="CINE Y SERIES", CINES VERDI
+#EXTINF:-72 tvg-logo="hhttps://i.postimg.cc/qMdtzGPj/cinesverditv.jpg" group-title="CINE Y SERIES", CINES VERDI TV
 https://contracorriente-canalcinesverdi-1-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/cL936v65/logo-verdi.png" group-title="CINE Y SERIES", FEEL GOOD VERDI
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/wjJKGhfR/feelgoodtv1.jpg" group-title="CINE Y SERIES", FEEL GOOD VERDI
 https://contracorriente-canalfeelgood-1-es.samsung.wurl.tv/3000.m3u8
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/cL936v65/logo-verdi.png" group-title="CINE Y SERIES", MY TIME MOVIES
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES
 https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/cL936v65/logo-verdi.png" group-title="CINE Y SERIES", MY TIME MOVIES 2
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/d09Gv5rr/MYTIME.png" group-title="CINE Y SERIES", MY TIME MOVIES 2
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 
 #EXTINF:-71 tvg-logo="https://i.postimg.cc/KzDYFjZr/ESTRELLAS-DE-ACCI-N.png" group-title="CINE Y SERIES", ESTRELLAS DE ACCIÓN
