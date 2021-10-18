@@ -297,6 +297,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
+#EXTINF:-54 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png" group-title="GAMING Y ANIME", RETRO CRUSH TV (Inglés)
+https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8
+
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX (Muy Pronto)
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8?WebM3UCL
 
