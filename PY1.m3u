@@ -306,6 +306,9 @@ https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX
 https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
 
+#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX ASIA
+https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
+
 #EXTINF:-54 tvg-logo="https://occ-0-1723-92.1.nflxso.net/dnm/api/v6/LmEnxtiAuzezXBjYXPuDgfZ4zZQ/AAAABSUUW3ROmxS7i85S0HroyoJge_Dj2J5JID66HCmAqnzWSNdWcdAsi4Hb5NA0aaF3hkyk4BCmosWYQKICG9dfWX8dBPEDBSRB-_JN.png?r=81f" group-title="GAMING Y ANIME", YU-GI-OH!
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fceaab478f2af00080ff51f/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=c04e45b2-630a-11eb-8d9f-f313ae1a2a61&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=681f0ed2-2ad0-493f-9d9a-c9491e58c9ff&userId=&serverSideAds=true
 
@@ -327,6 +330,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
+https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Nf70Ftzv/retrocartoons.png" group-title="NIÑOS Y ADOLESCENTES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -339,10 +345,10 @@ https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1854828544.m3u8
 #EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
 
-#EXTINF:-56 tvg-logo="https://i.postimg.cc/1XdvJp8v/MTV_ANIMACIONES.png" group-title="NIÑOS Y ADOLESCENTES", MTV ANIMACIONES
+#EXTINF:-56 tvg-logo="https://i.postimg.cc/1XdvJp8v/MTV_ANIMACIONES.png" group-title="ANIMACIÓN PARA ADULTOS", MTV ANIMACIONES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efb8ce2e426140007c78fd1/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff27172-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5ee82024-6fd5-4fd7-b68f-606316a1738b&userId=&serverSideAds=true
 
-#EXTINF:-56 tvg-logo="https://i.postimg.cc/xdzdYgcT/south_park.png" group-title="NIÑOS Y ADOLESCENTES", SOUTH PARK
+#EXTINF:-56 tvg-logo="https://i.postimg.cc/xdzdYgcT/south_park.png" group-title="ANIMACIÓN PARA ADULTOS", SOUTH PARK
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609ae5cd48d3200007b0a98e/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bb430b50-dea7-11eb-be60-3b6a118ac8ac&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=463c119a-456a-46c9-a878-3ce9897b7179&userId=&serverSideAds=true
 
 #EXTINF:-57 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Real_Monsters_DVD_logo.png/revision/latest?cb=20160108033538" group-title="NIÑOS Y ADOLESCENTES", REAL MONSTERS
@@ -474,9 +480,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f5a09b16cd4ab0007d
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/L4kvrXZH/actionkids.png" group-title="NIÑOS Y ADOLESCENTES", ACTION KIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/60218c2a32f9c40007c2f7cc/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=80606d41-7bcc-11eb-86a4-8df5e66ea440&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d7fc0a51-2f1d-448b-8546-5071095e4b90&userId=&serverSideAds=true
 
-#EXTINF:-62 tvg-logo="https://i.postimg.cc/FsFVhcvy/nickjr.png" group-title="NIÑOS Y ADOLESCENTES", NICK JR.
-http://201.168.205.12:8000/play/a0ck/index.m3u8
-
 #EXTINF:-62 tvg-logo="https://i.postimg.cc/WbfQQZX2/NICKJR-CLUB.png" group-title="NIÑOS Y ADOLESCENTES", NICK JR. CLUB
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddd7cb2cbb9010009b4fe32/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff18712-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=6796fdc2-2bb5-4e80-a717-366aa2433636&userId=&serverSideAds=true
 
@@ -501,8 +504,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076
 #EXTINF:-61 tvg-logo="https://i.postimg.cc/fbgSGDJt/PARAMOUNT.png" group-title="CINE Y SERIES", PARAMUNT+ PRESENTA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/600728952b1776000776526d/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-61 tvg-logo="https://i.postimg.cc/jSjmHytc/BBCDRAMA.png" group-title="CINE Y SERIES", BBC DRAMA
+#EXTINF:-61 tvg-logo="https://i.postimg.cc/SN2QBG03/color-Logo-PNG.png" group-title="CINE Y SERIES", BBC DRAMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-61 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="CINE Y SERIES", PLANETA TV MOVIES
+https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="CINE Y SERIES", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
@@ -1713,11 +1719,11 @@ https://rtmp.info/canal38/envivo/chunklist_w1467177433.m3u8
 #EXTINF:-429 tvg-logo="https://i.postimg.cc/xj6ry04s/eimc.jpg" group-title="MÚSICA", EURO INDIE MUSIC
 http://178.33.224.197:1935/euroindiemusic/euroindiemusic/playlist.m3u8
 
-#EXTINF:-429 tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA", LATIDO TV
-https://vidaprimo-plex.amagi.tv/amRdirect/us_privacy=1---&did=55b5df5c-bf4f-509e-9e4f-8fcaddc6819d&dnt=0&X-Plex-Token=jt_tEBoUKZ3x61zvGrji&channelId=5f598c33465f860041cd2dee/hls/amagi_hls_data_vidaprimo-vidaprimo-plex/CDN/1280x720_2890800/index.m3u8
+#EXTINF:-429 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="MÚSICA", PLANETA TV MUSIC
+https://mediacpstreamchile.com:1936/8014/8014/playlist.m3u8
 
-#EXTINF:-430 tvg-logo="https://i.postimg.cc/c4yY9BVL/mascumbia.jpg" group-title="MÚSICA", MÁS CUMBIA TV
-https://live.siete.us:19360/mascumbiatvonline/mascumbiatvonline.m3u8
+#EXTINF:-429 tvg-logo="https://i.postimg.cc/529gzbVw/latido.jpg" group-title="MÚSICA", LATIDO TV
+https://latidomusic.vizio.wurl.com/manifest/playlist.m3u8
 
 #EXTINF:-431 tvg-logo="https://i.postimg.cc/NMtqCV7x/toplatino.png" group-title="MÚSICA",TOP LATINO
 https://5cefcbf58ba2e.streamlock.net/tltvweb/tltvweb.stream/playlist.m3u8
