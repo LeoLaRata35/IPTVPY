@@ -450,6 +450,9 @@ https://api-ott.mytoonz.com/loggingmediaurlpassthrough/a.m3u8?version=12&id=1356
 #EXTINF:-59 tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/76/PBS_Kids_Logo.svg/1200px-PBS_Kids_Logo.svg.png" group-title="NIÑOS Y ADOLESCENTES", PBS KIDS (Inglés)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
 
+#EXTINF:-59 tvg-logo="https://i.postimg.cc/wjFT3gBN/mariosonic.png" group-title="NIÑOS Y ADOLESCENTES", MARIO VS. SONIC (Inglés)
+http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=7d877c61-9faa-11eb-ac8e-9dce4fc5c9d1&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d3a0e340-7a21-4f52-a122-e8d7686c5ddf&userId=&serverSideAds=true
+
 #EXTINF:-59 tvg-logo="https://i.postimg.cc/T3yZ7Yp5/LEGOCHANNEL.png" group-title="NIÑOS Y ADOLESCENTES", LEGO CHANNEL (Inglés)
 https://legochannel-roku.amagi.tv/playlist.m3u8
 
@@ -1646,6 +1649,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85ca40eda1b10007b
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/mryXsgPf/KARAOKE.png" group-title="MÚSICA", STINGRAY KARAOKE
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f85cf621d6d2200079f1de0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=25bb3970-ada8-11eb-a3cb-eb027f348c5f&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=5f77d11c-2e1e-44e3-8b82-410880ecd4ab&userId=&serverSideAds=true
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/cJwKHPVG/quest.png" group-title="MÚSICA", QWEST TV JAZZ & BEYOND
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60db37b8b919720007c07fa4/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/wvGLLC1b/vh1classics.png" group-title="MÚSICA", VH1 CLASSICS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6076cd1df8576d0007c82193/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=28f910c0-ac73-11eb-b65f-3f0a35700532&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=c2ca9adf-1aa0-45dd-bb41-6a8fc0a3f5c9&userId=&serverSideAds=true
