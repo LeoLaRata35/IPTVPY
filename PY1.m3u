@@ -1455,8 +1455,8 @@ https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c
 #EXTINF:-295 tvg-logo="https://i.postimg.cc/NG81tbPK/tve24.png" group-title="NOTICIAS", TVE 24H
 https://hlsliveamdgl8-lh.akamaihd.net/i/hlslive_1@300207/master.m3u8
 
-#EXTINF:-296 tvg-logo="https://i.postimg.cc/fWHRY9VH/milenio.png" group-title="NOTICIAS", MILENIO
-http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:-296 tvg-logo="https://i.postimg.cc/2Sq5jMn9/7NN.png" group-title="NOTICIAS", 7NN
+https://amg01573-7nn-7nnono-ono-pcdj3.amagi.tv/playlist360p.m3u8
 
 #EXTINF:-297 tvg-logo="https://i.postimg.cc/HWfXbRcv/adn40.png" group-title="NOTICIAS", ADN40
 http://aztkhlslive3-i.akamaihd.net/hls/live/777407/adn40mx/master01.m3u8
