@@ -271,7 +271,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/ZRj9p62t/energeek.png" group-title="GAMING Y ANIME", ENERGEEK
-https://tvstreaming.cl:1936/8062/8062/playlist.m3u8
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w104222044.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
@@ -309,9 +309,6 @@ https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-54 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png" group-title="GAMING Y ANIME", RETRO CRUSH TV (Inglés)
 https://45034ce1cbb7489ab1499301f6274415.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_RetroCrush/playlist.m3u8
 
-#EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX
-https://stmv1.voxhdnet.com/erick3041/erick3041/playlist.m3u8
-
 #EXTINF:-54 tvg-logo="https://i.postimg.cc/t4hLrgGF/animax.png" group-title="GAMING Y ANIME", ANIMAX ASIA
 https://livecdn.fptplay.net/hda3/animaxport_hls.smil/playlist.m3u8
 
@@ -337,7 +334,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 https://live.admefy.com/live/default/clean_peach_ef224.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
-https://s14.ssl-stream.com:3168/live/latinokidstv2live.m3u8
+https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
@@ -890,6 +887,9 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="CHILE", EGM CHANNEL
+https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
 
 #EXTINF:-422 tvg-logo="https://i.postimg.cc/C5x2Nc1L/tvcosta.png" group-title="CHILE", TV COSTA
 https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
