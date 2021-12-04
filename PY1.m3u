@@ -217,7 +217,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf500092
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb626cfcaf83414128f439c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d8272-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=83907acb-ee3c-4b1f-8026-c92526fccb6e&userId=&serverSideAds=true
 
 #EXTINF:-36 tvg-logo="https://sportsmintmedia.com/wp-content/uploads/2020/10/Tennis-Channel-web.jpg" group-title="DEPORTES Y COMPETENCIAS", TENNIS CHANNEL
-https://playoutengine.sinclairstoryline.com/playout/9f87522c-5a0e-4ff4-b82c-d5564216132f/g.m3u8
+https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 
 #EXTINF:-36 tvg-logo="https://media.socastsrm.com/wordpress/wp-content/blogs.dir/2313/files/2020/05/1200px-PGA_Tour_logo.svg_.png" group-title="DEPORTES Y COMPETENCIAS", PGA TOUR
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de94dacb394a300099fa22a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c828b82-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=f462faf4-6f7f-4789-94df-d5226e0c1909&userId=&serverSideAds=true
@@ -331,7 +331,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
-https://live.admefy.com/live/default/clean_peach_ef224.m3u8
+https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
 https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
@@ -508,7 +508,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8d08395f39465da6f
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5fab09a8749b1a00077d35d2/master.m3u8?advertisingId=&appName=web&appVersion=5.15.0-cb3de003a5ed7a595e0e5a8e1a8f8f30ad8ed23a&app_name=web&clientDeviceType=0&clientID=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&clientModelNumber=na&deviceDNT=false&deviceId=c9e73ae3-bf04-4f52-a57d-c955d6cbef86&deviceLat=-34.6011&deviceLon=-58.3847&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=89.0.4389.90&marketingRegion=VE&serverSideAds=true&sessionID=aec89e2d-8415-11eb-850e-0242ac110002&sid=aec89e2d-8415-11eb-850e-0242ac110002&userId=
 
 #EXTINF:-64 tvg-logo="https://i.imgur.com/kR6z9AK.jpg" group-title="NIÑOS Y ADOLESCENTES", PLANETA JUNIOR
-https://deaplaneta-planetakidz-1-es.samsung.wurl.com/manifest/playlist.m3u8
+https://8886309569b64a2780383bc1511fe3d5.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Samsung-es_PlanetaKidz/playlist.m3u8?ads.wurl_channel%3D594%26ads.wurl_name%3DPlanetaKidz%26ads.psid%3D%7BPSID%7D%26ads.targetopt%3D%7BTARGETOPT%7D%26ads.app_domain%3D%7BAPP_DOMAIN%7D%26ads.app_name%3D%7BAPP_NAME%7D%26ads.coppa%3D1%26ads.consent%3D%7BTC_STRING%7D
 
 #EXTINF:-61 tvg-logo="https://images.pluto.tv/channels/5f1aabee6f4a2c00076a322c/colorLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES", ANIMAKIDS (España)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1aabee6f4a2c00076a322c/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=ef4a9081-7255-11eb-a983-9335ded533f7&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=0c9000f4-d30c-416a-8bcb-5aa42bc26c6b&userId=&serverSideAds=true
@@ -963,6 +963,9 @@ http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bYt91tZg/certv4.png" group-title="REPÚBLICA DOMINICANA", CERTV CANAL 4
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/playlist.m3u8
 
+#EXTINF:-130 tvg-logo="https://i.postimg.cc/d3J84SnY/Vallevision.png" group-title="REPÚBLICA DOMINICANA", VALLEVISIÓN
+http://190.103.183.24:1935/Vallevision/ValleHD/playlist.m3u8
+
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/6pCZMyFX/canal6rd.png" group-title="REPÚBLICA DOMINICANA", CANAL 6 DAJABÓN
 https://cdn4.hostlagarto.com:8081/static/canal6tv/playlist.m3u8
 
@@ -1245,6 +1248,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
 
+#EXTINF:-200 tvg-logo="https://i.postimg.cc/bvnxRz62/blu-medios.png" group-title="ARGENTINA", BLU MEDIOS TV
+https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
+
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/9QK4NyxB/nortetv.png" group-title="ARGENTINA", NORTE TV
 http://video.streamtvradio.com:8081/uv027/uv027/chunks.m3u8
 
@@ -1370,6 +1376,9 @@ http://dcunilive28-lh.akamaihd.net/i/dclive_1@533583/master.m3u8
 
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/bv0tSBxy/multivisionsalta.png" group-title="ARGENTINA", MULTIVISIÓN SALTA
 http://panel.dattalive.com:1935/8250/8250/.m3u8
+
+#EXTINF:-219 tvg-logo="https://i.postimg.cc/KYXwJW8R/Canal7salta.png" group-title="ARGENTINA", CANAL 7 SALTA
+https://589ff3c36f7e8.streamlock.net/crespo3/crespo3/playlist.m3u8
 
 #EXTINF:-219 tvg-logo="https://i.postimg.cc/qBxNLBLc/SPTV.jpg" group-title="ARGENTINA", SAN PEDRO TV
 https://srv4.zcast.com.br/sptv/sptv/playlist.m3u8
@@ -1791,8 +1800,8 @@ https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/jd2Yh0tr/mvstv.png" group-title="MÉXICO", MVS TV
 https://content.uplynk.com/channel/e7825db621c24c99ac9d389e2d06cd7c.m3u8
 
-#EXTINF:-439 tvg-logo="https://i.postimg.cc/VkfLzXN7/tvlatina.jpg" group-title="OTROS PAÍSES", TV LATINA
-https://master.tucableip.com/live/tvlatinamontero/index.m3u8
+#EXTINF:-439 tvg-logo="https://i.postimg.cc/02tq0v3n/kbo.jpg" group-title="OTROS PAÍSES", KBO TV
+https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 
 #EXTINF:-439 tvg-logo="https://i.postimg.cc/sgs11tT4/pat.png" group-title="OTROS PAÍSES", PAT
 https://5975e06a1f292.streamlock.net:4443/patbolivia/patsantacruz/playlist.m3u8
