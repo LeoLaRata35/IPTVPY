@@ -543,11 +543,11 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dd837642c6e9300098
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/CxmvXnYF/SERIES-RETRO.png" group-title="CINE Y SERIES", SERIES RETRO
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e7deba/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff1ae21-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=efb5479a-1735-4d57-9b8e-16487d9760c3&userId=&serverSideAds=true
 
-#EXTINF:-64 tvg-logo="https://i.postimg.cc/j2cN2NM2/1200px-Atrescine-logo-svg.png" group-title="CINE Y SERIES", A3CINE
-http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
-
 #EXTINF:-70 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="CINE Y SERIES", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
+
+#EXTINF:-70 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="CINE Y SERIES", ACS NETWORK
+https://servers.amelbasoluciones.co:19360/caslmlive/caslmlive.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="CINE Y SERIES", TELECLÁSICOS
 https://tvdatta.com:3484/hybrid/play.m3u8
@@ -555,8 +555,8 @@ https://tvdatta.com:3484/hybrid/play.m3u8
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="CINE Y SERIES", TV RETRO PALMARES
 http://tvretropalmares.com:8090/hls/envivo.m3u8
 
-#EXTINF:-71 tvg-logo="http://3.bp.blogspot.com/-ODVpnKb-7lI/T5EbREh77vI/AAAAAAAAAFc/68DZURzrOGs/s400/logo.png" group-title="CINE Y SERIES", PELÍCULAS MANÍA
-http://lavozdetucuman.com/peliculas1.m3u8
+#EXTINF:-64 tvg-logo="https://i.postimg.cc/j2cN2NM2/1200px-Atrescine-logo-svg.png" group-title="CINE Y SERIES", A3CINE
+http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATRESMEDIA/a3cine-index.m3u8
 
 #EXTINF:-35 tvg-logo="https://3dl0u21nnqk62nshp111jz32-wpengine.netdna-ssl.com/wp-content/uploads/2018/09/NV_Web_Logo_3D_20180904_900.png" group-title="CINE Y SERIES", NUESTRA VISIÓN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e6690befbdf780007f78158/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bc97d880-8337-11eb-b5bf-c536a327ff2c&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=26dab85a-c1e2-4023-9cde-864e1c0d5f94&userId=&serverSideAds=true
@@ -897,13 +897,13 @@ https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/L4yp2F3j/MEGA.png" group-title="CHILE", MEGA
 https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
 
-#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 ENTRETENIMIENTO
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="CHILE", 13 ENTRETENIMIENTOS
 https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
 
-#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 PRIME
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="CHILE", 13 PRIME
 https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
 
-#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 TELESERIES
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="CHILE", 13 TELESERIES
 https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="CHILE", EGM CHANNEL
