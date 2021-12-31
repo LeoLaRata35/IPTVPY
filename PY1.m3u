@@ -549,6 +549,12 @@ http://198.199.74.234/miniProxy.php/https://live.atresmediainternacional.com/ATR
 #EXTINF:-70 tvg-logo="https://retroplustv.com/wp-content/uploads/2020/07/LOGO-RECORTADO.png" group-title="CINE Y SERIES", RETRO PLUS TV CINE
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
+#EXTINF:-70 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="CINE Y SERIES", TELECLÁSICOS
+https://tvdatta.com:3484/hybrid/play.m3u8
+
+#EXTINF:-70 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="CINE Y SERIES", TV RETRO PALMARES
+http://tvretropalmares.com:8090/hls/envivo.m3u8
+
 #EXTINF:-71 tvg-logo="http://3.bp.blogspot.com/-ODVpnKb-7lI/T5EbREh77vI/AAAAAAAAAFc/68DZURzrOGs/s400/logo.png" group-title="CINE Y SERIES", PELÍCULAS MANÍA
 http://lavozdetucuman.com/peliculas1.m3u8
 
@@ -888,6 +894,18 @@ https://live.autistici.org/hls/vibratelevision_mid.m3u8
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/XvgNFpnv/ucv.png" group-title="CHILE", UCV
 https://unlimited1-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/L4yp2F3j/MEGA.png" group-title="CHILE", MEGA
+https://unlimited2-cl-isp.dps.live/mega/mega.smil/playlist.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 ENTRETENIMIENTO
+https://unlimited1-cl-isp.dps.live/13e/13e.smil/playlist.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 PRIME
+https://unlimited2-cl-isp.dps.live/13p/13p.smil/playlist.m3u8
+
+#EXTINF:-91 tvg-logo="https://i.postimg.cc/xTKBqrKs/13.png" group-title="13 TELESERIES
+https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
+
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/cHYkvkxg/egmchannel.png" group-title="CHILE", EGM CHANNEL
 https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
 
@@ -951,6 +969,9 @@ http://209.126.105.158:1935/stv/web/playlist.m3u8
 #EXTINF:-124 tvg-logo="https://i.postimg.cc/qqMKPPvk/telesistema.png" group-title="COSTA RICA", TELESISTEMA
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w1494491629.m3u8
 
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/fb3yh5wX/tvsur9cr.png" group-title="COSTA RICA", TV SUR CANAL 9
+http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
+
 #EXTINF:-124 tvg-logo="https://i.postimg.cc/66mT62HV/tvsur14.png" group-title="COSTA RICA", TV SUR CANAL 14
 https://5bf8041cb3fed.streamlock.net/TVSURCANAL14/TVSURCANAL14/playlist.m3u8
 
@@ -959,6 +980,9 @@ https://cp.sradiotv.com:1936/8064/8064/chunklist_w989385140.m3u8
 
 #EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", TELE UNO
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
+
+#EXTINF:-124 tvg-logo="https://i.postimg.cc/63VSjvyk/teleuno.png" group-title="COSTA RICA", NICOYA TV
+https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 
 #EXTINF:-130 tvg-logo="https://i.postimg.cc/bYt91tZg/certv4.png" group-title="REPÚBLICA DOMINICANA", CERTV CANAL 4
 https://streamfgh.com:1936/canal4rd2/smil:canal4rd2.smil/playlist.m3u8
