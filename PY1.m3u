@@ -1588,7 +1588,7 @@ https://5b464b69d264e.streamlock.net/Channels_live/ngrp:MelodyChannel_all/chunkl
 https://5b464b69d264e.streamlock.net/Channels_live/ngrp:telemusica_all/chunklist_b1398304.m3u8
 
 #EXTINF:-404 tvg-logo="" group-title="MÚSICA", RADIOTECA TV
-https://tvstreaming.cl:1936/8042/8042/chunklist_w1750701715.m3u8
+https://vdohd.cl:1936/8030/8030/playlist.m3u8
 
 #EXTINF:-404 tvg-logo="https://i.postimg.cc/90vYQPnL/mdlm.jpg" group-title="MÚSICA", MUNDO DE LA MÚSICA TV
 https://tv.streamingchilenos.com:1936/8034/8034/chunklist_w1427082379.m3u8
@@ -1601,6 +1601,9 @@ https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/JzvgNV9p/retroplay.png" group-title="MÚSICA", REETRO PLAY TV
 https://v4.tustreaming.cl/retroplaytv/index.m3u8
+
+#EXTINF:-423 tvg-logo="https://i.postimg.cc/bNBDtHpT/maximafm.png" group-title="MÚSICA", MÁXIMA FM
+https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 
 #EXTINF:-405 tvg-logo="https://i.postimg.cc/jjt0jyVq/retroplustv.png" group-title="MÚSICA", RETRO PLUS TV 1
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/chunklist_w1271975205.m3u8
@@ -1741,7 +1744,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672
 https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/6314a980-66c5-4ec6-a1aa-b965dc7e64e2/0.m3u8
 
 #EXTINF:-418 tvg-logo="https://i.postimg.cc/2yR82Vb1/onradiokpop.png" group-title="MÚSICA", ON RADIO K-POP
-https://tls.cdnz.cl/onradio4/live/chunklist_w1713996862.m3u8
+https://tls-cl.cdnz.cl/adgm-2/live/playlist.m3u8
 
 #EXTINF:-418 tvg-logo="https://i.postimg.cc/L8C9GygK/onradiotvchile.png" group-title="MÚSICA", ON RADIO TV CHILE
 https://tls.cdnz.cl/onradio3/live/playlist.m3u8
@@ -1763,12 +1766,6 @@ http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMC-TV/.m3u8
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/t4tmq9gb/livemusic.png" group-title="MÚSICA", LIVE MUSIC REPLAY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c759330-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=98079c5b-45f4-4521-b056-6fd814776109&userId=&serverSideAds=true
-
-#EXTINF:-422 tvg-logo="https://i.postimg.cc/PqqWjrX3/tributovalentina.jpg" group-title="MÚSICA", RADIO TRIBUTO VALENTINA
-https://tvstreaming.cl:1936/8124/8124/chunklist_w436967250.m3u8?WebM3UCL
-
-#EXTINF:-423 tvg-logo="https://i.postimg.cc/bNBDtHpT/maximafm.png" group-title="MÚSICA", MÁXIMA FM
-http://server1.oklanet.cl:1935/maximavideo1/maximavideo1/chunklist_w386150877.m3u8
 
 #EXTINF:-424 tvg-logo="https://i.postimg.cc/kG5GVDHz/videotourchannel.jpg" group-title="MÚSICA", VIDEO TOUR CHANNEL
 http://k4.usastreams.com/videotour/videotour/chunklist_w1141796442.m3u8
