@@ -910,7 +910,7 @@ https://unlimited1-cl-isp.dps.live/13t/13t.smil/playlist.m3u8
 https://paneltv.online:1936/8186/8186/chunklist_w217941932.m3u8
 
 #EXTINF:-422 tvg-logo="https://i.postimg.cc/C5x2Nc1L/tvcosta.png" group-title="CHILE", TV COSTA
-https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
+https://hd.chileservidores.cl:1936/tvcosta1/tvcosta1/chunklist_w900700282.m3u8
 
 #EXTINF:-91 tvg-logo="https://i.postimg.cc/SQ7qxNkv/tele8.png" group-title="CHILE", TELE 8
 https://5eae379fb77bb.streamlock.net/rauleduardo493/rauleduardo493/playlist.m3u8
@@ -1595,6 +1595,9 @@ https://tv.streamingchilenos.com:1936/8034/8034/chunklist_w1427082379.m3u8
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/Z5zLkc3R/rewind.png" group-title="MÚSICA", REWIND
 https://tls.cdnz.cl/rewindtv/rewindtv/chunklist_w1335500030.m3u8
+
+#EXTINF:-407 tvg-logo="https://i.postimg.cc/tTF8sYjm/highmusictv.png" group-title="MÚSICA", HIGH MUSIC TV
+https://hd.chileservidores.cl:1936/tvcosta2/tvcosta2/playlist.m3u8
 
 #EXTINF:-407 tvg-logo="https://i.postimg.cc/NjtP8Ydp/rrr.png" group-title="MÚSICA", RECUERDOS RETRO RADIO
 https://593b04c4c5670.streamlock.net/8002/8002/chunklist_w47191896.m3u8
