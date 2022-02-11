@@ -337,7 +337,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
-https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
+https://live.flote.app/f7a82d82-4688-4627-ad91-d0211b29346a/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
 https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
@@ -345,7 +345,7 @@ https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/GmjHjdsN/90S-KID.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA 90S KID
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/GmjHjdsN/90S-KID.png" group-title="NIÑOS Y ADOLESCENTES", 90S KID
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="NIÑOS Y ADOLESCENTES", TOONIZAKI
@@ -556,7 +556,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="CINE Y SERIES", ACS NETWORK
-https://servers.amelbasoluciones.co:19360/caslmlive/caslmlive.m3u8
+https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/Mpb4sLxr/telecl-sicos.png" group-title="CINE Y SERIES", TELECLÁSICOS
 https://tvdatta.com:3484/hybrid/play.m3u8
@@ -1280,6 +1280,9 @@ https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/DyMCgdHZ/gentv.png" group-title="ARGENTINA", GEN TV
 https://videohd.live:19360/8010/8010.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/RSd6MFS/BANNER-TV-8.png" group-title="ARGENTINA",CUIDAD MÁGICA TV
+https://srv2.zcast.com.br/ciudadm/ciudadm/playlist.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/bvnxRz62/blu-medios.png" group-title="ARGENTINA", BLU MEDIOS TV
 https://59537faa0729a.streamlock.net/radioblu/radioblu/playlist.m3u8
