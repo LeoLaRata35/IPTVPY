@@ -10,7 +10,7 @@ http://201.182.242.135:8000/play/a069/index.m3u8
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
 #EXTINF:-4 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/49/Telefuturo2017.png" group-title="NACIONALES", TELEFUTURO
-http://201.182.242.135:8000/play/a044/index.m3u8
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/TELEFUTURO_C4/SA_SAGEMCOM/TELEFUTURO_C4.m3u8
 
 #EXTINF:-5 tvg-logo="https://i.postimg.cc/vTXJBszc/paravision.png" group-title="NACIONALES", PARAVISIÓN
 http://201.182.242.135:8000/play/a066/index.m3u8
@@ -25,13 +25,13 @@ https://59ce1298bfb98.streamlock.net/capiatatv16/capiatatv16/chunklist_w16353138
 http://45.55.127.106/live/unicanal_mid.m3u8
 
 #EXTINF:-9 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/SNT-Paraguay-en-vivo-Online.png" group-title="NACIONALES", SNT
-https://py-snt-snt-live.ned.media/snt/smil:snt.smil/chunklist_b1200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMwNzI2NTE3LCJzZXNzaW9uIjoiMTgxLjEyNi4yMDYuMTQ5Iiwid2hpdGVsaXN0IjpbIjE4MS4xMjYuMjA2LjE0OSJdfSwic2lnbmF0dXJlIjoiYmNkZGUzYzIyY2E1MjU1OWFkMDY4YTM5OTg4MzQ0ODViYWQzZDE0MCJ9
+http://45.225.93.154:8000/play/a031
 
 #EXTINF:-10 tvg-logo="https://www.television.com.py/wp-content/uploads/2013/10/SurTv.jpg" group-title="NACIONALES", SUR
 http://201.182.242.135:8000/play/a06a/index.m3u8
 
 #EXTINF:-11 tvg-logo="https://latele.com.py/wp-content/themes/lateleads/img/logo-latele-blanco.png" group-title="NACIONALES", LATELE
-http://201.182.242.135:8000/play/a06y/index.m3u8
+http://edge02-fdo-py.cvattv.com.ar/live/c4eds/LA_TELE_C4/SA_SAGEMCOM/LA_TELE_C4.m3u8
 
 #EXTINF:-12 tvg-logo="https://www.c9n.com.py/wp-content/uploads/2020/11/330x330_logo_grande_C9N.png" group-title="NACIONALES", C9N
 http://201.182.242.135:8000/play/a067/index.m3u8
@@ -258,6 +258,9 @@ https://esrevolution-sinclair.plex.wurl.com/manifest/playlist.m3u8
 #EXTINF:-51 tvg-logo="https://i.postimg.cc/Bb8wkK5V/esports.png" group-title="GAMING Y ANIME", PLUTO TV E-SPORTS
 https://stitcher.pluto.tv/stitch/hls/channel/5ff3934600d4c7000733ff49/master.m3u8?deviceType=web&servertSideAds=false&deviceMake=safari&deviceVersion=1&deviceId=spencer&appVersion=1&deviceDNT=0&deviceModel=web&sid=26e1d3a7-fa1f-11eb-9b62-0242ac110003
 
+#EXTINF:-51 tvg-logo="https://i.postimg.cc/g2d8qMrM/CONTROLVG.png" group-title="GAMING Y ANIME", CONTROL.VG
+https://tls-cl.cdnz.cl/onradio-5/live/chunklist_w1280038521.m3u8
+
 #EXTINF:-71 tvg-logo="https://s100.iracing.com/wp-content/uploads/2015/05/Ign-logo-white.png" group-title="GAMING Y ANIME", IGN
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c72d411-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=fd3bdfcd-3e09-44d5-89ca-daef1432299e&userId=&serverSideAds=true
 
@@ -271,13 +274,16 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f1ac118dd7e6000077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca7f16c37b88b2694731c79/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7d5b62-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=a8311f10-8c2e-45bb-a408-7e2c579d7adb&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/ZRj9p62t/energeek.png" group-title="GAMING Y ANIME", ENERGEEK
-https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w104222044.m3u8
+https://stmv1.voxhdnet.com/energeek/energeek/chunklist_w1246956709.m3u8
 
 #EXTINF:-52 tvg-logo="https://i.pinimg.com/originals/9e/e4/82/9ee482776ad4d76d67286f983460f85c.png" group-title="GAMING Y ANIME", LOCOMOTION
 http://51.222.85.85:81/hls/loco/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/Nn7NnI0.png" group-title="GAMING Y ANIME", KANADE TV
-https://kanadetvlatino-usct.streaming.media.azure.net/66afd58d-114f-48d5-bc00-aa6cd5203912/80e7baff-9e17-4bad-8058-93e7160fe85a.ism/QualityLevels(128000)/Manifest(audio_und,format=m3u8-aapl)
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/y8Jjd5qG/aniplus.png" group-title="GAMING Y ANIME", ANIPLUS
+https://stmv1.voxhdnet.com/aniplus/aniplus/chunklist_w530589839.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/Fs6wYLRs/kanadetv.png" group-title="GAMING Y ANIME", KANADE TV
+https://stmv1.voxhdnet.com/enegeek2/enegeek2/chunklist_w2002372392.m3u8
 
 #EXTINF:-53 tvg-logo="https://i.ibb.co/NmKmJNC/color-Logo-PNG.png" group-title="GAMING Y ANIME", PLUTO TV ANIME
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde17bf6591d0009839e02/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e91-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=bf9f2657-23e0-4f9a-aed5-1895900d08da&userId=&serverSideAds=true
@@ -334,10 +340,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c
 https://live.admefy.com/live/default/rival_maroon_4fb1e.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
-https://s14.ssl-stream.com:3335/live/latinokidsonlinelive.m3u8
+https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
+
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/GmjHjdsN/90S-KID.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA 90S KID
+https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="NIÑOS Y ADOLESCENTES", TOONIZAKI
 https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
@@ -922,7 +931,7 @@ http://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 https://srv3.zcast.com.br/juancarlos9451/juancarlos9451/chunklist_w929108188.m3u8
 
 #EXTINF:-64 tvg-logo="https://spectrumchannel.cl/wp-content/uploads/2021/05/cropped-cropped-logo-blanco.png" group-title="CHILE", SPECTRUM CHANNEL
-https://vdohd.cl:1936/8078/8078/chunklist_w50632495.m3u8
+https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
 
 #EXTINF:-100 tvg-logo="https://i.postimg.cc/sXXcCGXQ/belevision.png" group-title="CHILE", BELEVISIÓN
 http://v2.tustreaming.cl/belevision/index.m3u8
