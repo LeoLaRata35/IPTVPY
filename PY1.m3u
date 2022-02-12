@@ -54,6 +54,12 @@ https://59ce1298bfb98.streamlock.net/asuncion1250/asuncion1250/playlist.m3u8
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/VLQ08jR0/educanal.png" group-title="NACIONALES", EDUCANAL
 https://59ce1298bfb98.streamlock.net/educanal/educanal/chunklist_w92056851.m3u8
 
+#EXTINF:-15 tvg-logo="" group-title="NACIONALES", SENADO TV
+https://59ce1298bfb98.streamlock.net/tvsenadopy/tvsenadopy/playlist.m3u8
+
+#EXTINF:-15 tvg-logo="" group-title="NACIONALES", TV CÁMARA
+https://59ce1298bfb98.streamlock.net/tvcamara/tvcamara/playlist.m3u8
+
 #EXTINF:-15 tvg-logo="https://i.postimg.cc/fWg5jgMn/TVA.jpg" group-title="NACIONALES", TVA
 https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 
@@ -61,7 +67,7 @@ https://59ce1298bfb98.streamlock.net/tvaire/tvaire/playlist.m3u8
 https://tvmaxsa.com.py:444/hls/stream.m3u8
 
 #EXTINF:-15 tvg-logo="" group-title="NACIONALES", OVIEDO TV
-https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/playlist.m3u8
+https://59ce1298bfb98.streamlock.net/oviedotv/oviedotv/chunklist_w1931071386.m3u8
 
 #EXTINF:-15 tvg-logo="" group-title="NACIONALES", NIHON GAKKO TV
 https://59ce1298bfb98.streamlock.net/ngtv/ngtv/chunklist_w1520616514.m3u8
@@ -111,14 +117,17 @@ https://video.radiosenpy.net:8081/magiatv/index.m3u8
 #EXTINF:-26 tvg-logo="" group-title="NACIONALES", REPATRIACIÓN TV
 https://video.radiosenpy.net:8081/repatv/tracks-v1a1/mono.m3u8
 
+#EXTINF:-26 tvg-logo="" group-title="NACIONALES", ALMAYA TV
+https://59ce1298bfb98.streamlock.net/almayatv/almayatv/playlist.m3u8
+
 #EXTINF:-26 tvg-logo="https://i.postimg.cc/yxT9HMn7/visionvillarrica.png" group-title="NACIONALES", VISIÓN VILLARRICA
 https://video.radiosenpy.net:19360/canal8vision/canal8vision.m3u8
 
 #EXTINF:-26 tvg-logo="https://goradio.com.py/wp-content/uploads/2020/06/Logo_Mobile_naranja.png" group-title="NACIONALES", GO TV
 https://tigocloud.desdeparaguay.net/gotv/gotv/chunklist_w1939119464.m3u8
 
-#EXTINF:-26 tvg-logo="" group-title="NACIONALES", REGIONAL RADIO
-https://59ce1298bfb98.streamlock.net/medioenpy02/medioenpy02/playlist.m3u8
+#EXTINF:-26 tvg-logo="" group-title="NACIONALES", CAAGUAZÚ TV
+https://59ce1298bfb98.streamlock.net/caaguazutv/caaguazutv/playlist.m3u8
 
 #EXTINF:-26 tvg-logo="https://lh3.googleusercontent.com/proxy/hfavRJ5LMNd_rERiLXzwVwgAKWE0wk-6ld5K5TblGaIvChiAHE5RMox6P5u0nbfRUFUlAUB6qMaayaQs_vXBkKmqbqzT6tM3kfaKRw" group-title="NACIONALES", FARRA PLAY
 http://159.203.148.226/live/farra_low.m3u8
