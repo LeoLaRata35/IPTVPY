@@ -318,7 +318,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff608e60e299600076
 #EXTINF:-54 tvg-logo="https://en.cryptonomist.ch/wp-content/uploads/2020/09/contv-1.jpg" group-title="GAMING Y ANIME", CONTV ANIME (Inglés)
 https://contvanime.cinedigm.com/conapp-ssai/amagi_hls_data_xumo-host-contvanime-junction/CDN/1280x720_2525600/index.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.postimg.cc/02Gdvkgf/asiancrush.png" group-title="GAMING Y ANIME", ASIANCRUSH TV (Inglés)
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/Nf6yqXt7/rakutenviki.png" group-title="DORAMAS", RAKUTEN VIKI
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8a24e17da110007eed4fd/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
+#EXTINF:-72 tvg-logo="https://i.postimg.cc/Nf6yqXt7/rakutenviki.png" group-title="DORAMAS", RAKUTEN VIKI (Inglés)
+https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/2d85168f-53ba-4e85-bd96-a18c608ffd0f/1.m3u8
+
+#EXTINF:-50 tvg-logo="https://i.postimg.cc/02Gdvkgf/asiancrush.png" group-title="DORAMAS", ASIANCRUSH TV (Inglés)
 https://dc447fbd44e44d33b66b90c1eaaefec1.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_AsianCrush/playlist.m3u8
 
 #EXTINF:-54 tvg-logo="https://dronthego.net/wp-content/uploads/2020/04/retrocrush-logo-trans-white-font-1.png" group-title="GAMING Y ANIME", RETRO CRUSH TV (Inglés)
@@ -707,9 +713,6 @@ https://d8154a7f9a7c43318750859a24fcc504.mediatailor.us-east-1.amazonaws.com/v1/
 
 #EXTINF:-72 tvg-logo="https://i.postimg.cc/T3bff10L/RAKUTEN-TV.png" group-title="CINE Y SERIES", RAKUTEN TV TOP FREE
 https://rakuten-topfree-2-eu.rakuten.wurl.tv/playlist.m3u8
-
-#EXTINF:-72 tvg-logo="https://i.postimg.cc/G2Gwh8xt/rakutenviki.png" group-title="CINE Y SERIES", RAKUTEN VIKI (Inglés)
-https://dce1408e0efa4bc4b6ca1366c56911fb.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_RakutenViki/2d85168f-53ba-4e85-bd96-a18c608ffd0f/1.m3u8
 
 #EXTINF:-72 group-title="CINE Y SERIES", CINE REAL
 https://cinereal-plex.amagi.tv/CineReal/master.m3u8
@@ -1763,6 +1766,9 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d14fdb8ca91eedee16
 
 #EXTINF:-421 tvg-logo="https://i.postimg.cc/FKCpzz5M/blockparty.png" group-title="MÚSICA", MTV BLOCK PARTY
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d3609cd6a6c78d7672f2a81/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c7ebaf0-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=78e0da1c-3f09-404b-90ab-6e2707b432e5&userId=&serverSideAds=true
+
+#EXTINF:-418 tvg-logo="https://i.postimg.cc/D0zCkhJ1/K-POP.png" group-title="MÚSICA", K-POP
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60c8b3ddaaf9d4000780066f/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
 #EXTINF:-418 tvg-logo="https://i.postimg.cc/SKVmbzVh/newkpop.jpg" group-title="MÚSICA", NEW K-POP
 https://2d2cb770b80a4e19bded6a526e1e9c9f.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Plex_NewKID/6314a980-66c5-4ec6-a1aa-b965dc7e64e2/0.m3u8
