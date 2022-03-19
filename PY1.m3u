@@ -355,13 +355,13 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ff4b9ccf938f800077
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6051201a0aa8a70007c24a2a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=a122bea0-ae69-11eb-a87c-2ba0b5b8041d&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=49db0f5d-32cf-452f-9f9a-4fccdb0a5797&userId=&serverSideAds=true
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/HWMp9tMB/magic.png" group-title="NIÑOS Y ADOLESCENTES", MAGIC KIDS
-https://v.poastcdn.org/streaming-playlists/hls/4d4a1bdd-3c34-4d2f-8afb-635cb1ac333d/0.m3u8
+https://live.flote.app/4b34b6b2-3fe1-4c98-97ce-4ef20edbd870/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/hGjGjkHf/fox-kids.png" group-title="NIÑOS Y ADOLESCENTES", FOX KIDS
 http://foxkidsjahh20.duckdns.org/hls/stream/index.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
-https://videostreaming.cloudserverlatam.com/8066/8066/chunklist_w1633484308.m3u8
+https://videostreaming.cloudserverlatam.com/8066/8066/playlist.m3u8
 
 #EXTINF:-50 tvg-logo="" group-title="NIÑOS Y ADOLESCENTES", ASTER MAX
 https://stream.projectboom.live/hls/max.m3u8
@@ -372,9 +372,6 @@ https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/GmjHjdsN/90S-KID.png" group-title="NIÑOS Y ADOLESCENTES", 90S KID
 https://videostreaming.cloudserverlatam.com/Kids90/Kids90/chunklist_w1891928306.m3u8
 
-#EXTINF:-50 tvg-logo="https://i.imgur.com/8B4c4n7.png" group-title="NIÑOS Y ADOLESCENTES", TOONIZAKI
-https://live.admefy.com/live/default/great_salmon_9bd9d.m3u8
-
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Nf70Ftzv/retrocartoons.png" group-title="NIÑOS Y ADOLESCENTES", RETRO CARTOONS
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c15/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
@@ -382,7 +379,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/60142258a54aeb0007751c
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/609e7e423e9173000706a681/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=24628e10-de0a-11eb-994d-d7a54cf59ce6&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=b7875e37-1e3c-4d7a-bc4d-1dd4790bb5e5&userId=&serverSideAds=true
 
 #EXTINF:-55 tvg-logo="https://i.postimg.cc/CL49XdhS/dreiko.png" group-title="NIÑOS Y ADOLESCENTES", DREIKO TV
-https://inliveserver.com:1936/dreikoarts/dreikoarts/chunklist_w1854828544.m3u8
+https://stmv3.voxtvhd.com.br/dreikotv/dreikotv/playlist.m3u8
 
 #EXTINF:-55 tvg-logo="https://assets.stickpng.com/images/5a05b6b79cf05203c4b6045f.png" group-title="NIÑOS Y ADOLESCENTES", LOS SIMPSONS
 https://videostreaming.cloudserverlatam.com:443/cloudservertv/cloudservertv/playlist.m3u8
