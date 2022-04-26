@@ -414,7 +414,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/6054ab20a365c70007e
 #EXTINF:-57 tvg-logo="https://i.postimg.cc/PrNYfVdd/rugrats.png" group-title="NIÑOS Y ADOLESCENTES", RUGRATS (España)
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/610c09219fc0430007a3fce6/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-57 tvg-logo="https://static.wikia.nocookie.net/rugrats/images/5/51/AGU11.png/revision/latest?cb=20170727125138" group-title="NIÑOS Y ADOLESCENTES", RUGRATS CRECIDOS
+#EXTINF:-57 tvg-logo="https://images.pluto.tv/channels/5ea7215005d66d0007e8128a/solidLogoPNG.png" group-title="NIÑOS Y ADOLESCENTES", RUGRATS
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ea7215005d66d0007e8128a/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff22355-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=d4d35c3c-b9bc-4c57-92f3-6ec7da17e471&userId=&serverSideAds=true
 
 #EXTINF:-57 tvg-logo="https://static.wikia.nocookie.net/international-entertainment-project/images/7/77/Blue%27s_Clues_-_logo_%28Spanish%29.png/revision/latest?cb=20190117005121" group-title="NIÑOS Y ADOLESCENTES", LAS PISTAS DE BLUE
@@ -446,6 +446,9 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=547&avod=1&coppa=1&is_lat=
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/El_Chavo_%28simple_logo%29.svg/1200px-El_Chavo_%28simple_logo%29.svg.png" group-title="NIÑOS Y ADOLESCENTES", EL CHAVO
 https://videostreaming.cloudserverlatam.com/ElChavotv/ElChavotv/chunklist_w1027442110.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.canela.tv/themes/custom/cnm/canela_tv/img/canela-kids-white.png" group-title="CANELA TV",CANELA KIDS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=654
 
 #EXTINF:-58 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b0/Pakapaka_logo20.png" group-title="NIÑOS Y ADOLESCENTES", PAKA PAKA
 https://5fb24b460df87.streamlock.net/live-cont.ar/pakapaka/chunklist_w1354145754.m3u8
@@ -554,6 +557,9 @@ https://mediacpstreamchile.com:1936/8140/8140/playlist.m3u8
 
 #EXTINF:-61 tvg-logo="http://3.bp.blogspot.com/-u80D-SioUtE/Ts5fIVlJxgI/AAAAAAAAAFY/GxPAuB6LiWg/s1600/movies_logo_5.gif" group-title="CINE Y SERIES", MOVIES
 https://panel.streamingTV-mediacp.online:1936/8100/8100/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://img2.static-ottera.com/prod/cnm/linear_channel/thumbnails/widescreen/366x206/linear-canela-classics.jpg" group-title="CANELA TV",CANELA CLÁSSICOS
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=652
 
 #EXTINF:-64 tvg-logo="https://i.postimg.cc/TY6HW91N/SERIES.png" group-title="CINE Y SERIES", SERIES
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dcde1317578340009b751d0/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=bff04e90-6307-11eb-b3fa-019cb96f121b&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=7937749a-cec8-47cd-b6d9-43b0c4fea6c8&userId=&serverSideAds=true
