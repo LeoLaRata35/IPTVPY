@@ -1267,16 +1267,16 @@ https://stream.live.novotempo.com/tv/smil:tvnuevotiempo.smil/playlist.m3u8
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/7af1df165bec4333b62c59afce9c9e49/chunklist_b1128000.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV
-https://streamer1.streamhost.org/salive/logosH/playlist.m3u8
+https://list.iptvcat.com/my_list/s/c38c4cade1af8d1180b9b1f0a628a94a.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV SALUD
 https://streamer1.streamhost.org/salive/logossaludH/playlist.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/wxXbX21H/logostv.png" group-title="EVANGÉLICO", LOGOS TV ESTUDIO
-https://streamer1.streamhost.org/salive/logosdirectaH/playlist.m3u8
+https://streamer1.streamhost.org/salive/logosdirectaH/chunklist_w384439536.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/43q1NzKY/logoskids.png" group-title="EVANGÉLICO", LOGOS TV KIDS
-https://streamer1.streamhost.org/salive/logoskidsH/chunklist_w309301863.m3u8
+https://streamer1.streamhost.org/salive/logoskidsH/playlist.m3u8
 
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/HxZnRXxL/cbnes.jpg" group-title="EVANGÉLICO", CBN ESPAÑOL
 http://bcliveuniv-lh.akamaihd.net/i/iptv2_1@194050/index_1200_av-p.m3u8
