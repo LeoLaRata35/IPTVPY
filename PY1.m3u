@@ -966,6 +966,9 @@ https://panel.miplay.cl:8081/spectrumchannel/tracks-v3a1/mono.m3u8
 #EXTINF:-100 tvg-logo="https://i.postimg.cc/sXXcCGXQ/belevision.png" group-title="CHILE", BELEVISIÓN
 http://v2.tustreaming.cl/belevision/index.m3u8
 
+#EXTINF:-100 tvg-logo="https://images.pluto.tv/channels/62aa5740a47b6c000769f407/colorLogoPNG.png" group-title="CHILE", CHILEVISIÓN CONTIGO
+http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/62aa5740a47b6c000769f407/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT=%7BTARGETOPT%7D&deviceId=%7BPSID%7D&advertisingId=%7BPSID%7D&us_privacy=1YNY&samsung_app_domain=%7BAPP_DOMAIN%7D&samsung_app_name=%7BAPP_NAME%7D&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
+
 #EXTINF:-102 tvg-logo="https://i.postimg.cc/0QYJ38GM/huascotv.jpg" group-title="CHILE", HUASCO TV
 https://paneltv.online:1936/8062/8062/playlist.m3u8
 
