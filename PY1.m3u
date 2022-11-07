@@ -597,16 +597,16 @@ https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussen
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="CINE Y SERIES", ACS NETWORK
 https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
 
-#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="MÚSICA", VIWIX TV ESTRENOS
+#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title=CINE Y SERIES", VIWIX TV ESTRENOS
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
 
-#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="MÚSICA", VIWIX TV ACCIÓN
+#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="CINE Y SERIES", VIWIX TV ACCIÓN
 https://s2.tvdatta.com:3457/hybrid/play.m3u8
 
-#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="MÚSICA", VIWIX TV TERROR
+#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title=CINE Y SERIES", VIWIX TV TERROR
 https://s2.tvdatta.com:3849/hybrid/play.m3u8
 
-#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="MÚSICA", VIWIX TV SERIES
+#EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title=CINE Y SERIES", VIWIX TV SERIES
 https://s2.tvdatta.com:3402/hybrid/play.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/8CTfQL7m/tvretro.png" group-title="CINE Y SERIES", TV RETRO PALMARES
