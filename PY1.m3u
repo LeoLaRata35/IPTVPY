@@ -366,8 +366,8 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/629a066860ef810008267b
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/qvzyXDxJ/latinokids.png" group-title="NIÑOS Y ADOLESCENTES", LATINO KIDS
 https://6362ca6f1fc28.streamlock.net:443/8062/8062/playlist.m3u8
 
-#EXTINF:-50 tvg-logo="" group-title="NIÑOS Y ADOLESCENTES", ASTER MAX
-https://stream.projectboom.live/hls/max.m3u8
+#EXTINF:-50 tvg-logo="https://neotelecomcr.com/Middleware/Android/Portal/img/canales/retromagico.png" group-title="NIÑOS Y ADOLESCENTES", RETRO MAGICO
+https://vivo.solumedia.com:19360/retromagico/retromagico.m3u8
 
 #EXTINF:-50 tvg-logo="https://i.postimg.cc/Ssywmmnj/planetatv.png" group-title="NIÑOS Y ADOLESCENTES", PLANETA TV KIDS
 https://mediacpstreamchile.com:1936/8152/8152/playlist.m3u8
