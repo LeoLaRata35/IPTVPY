@@ -1314,8 +1314,11 @@ https://www.livestreamcdn.net:444/ExtremaTV/_definst_/ExtremaTV/chunklist_w75593
 #EXTINF:-175 tvg-logo="https://i.postimg.cc/7h8wvx2f/HOSANNAVISION.png" group-title="EVANGÉLICO", HOSANNA VISIÓN
 https://1206618505.rsc.cdn77.org/LS-ATL-59020-1/index.m3u8
 
-#EXTINF:-200 tvg-logo="https://argentinisimatv.com.ar/wp-content/uploads/2017/09/logo.png" group-title="ARGENTINA", ARGENTINISIMA SATELITAL
-http://186.0.233.76:1935/Argentinisima/smil:argentinisima.smil/chunklist_w581947260_b1912000_sleng.m3u8
+#EXTINF:-200 tvg-logo="http://tvabierta.weebly.com/uploads/5/1/3/4/51344345/canal-6-mar-del-plata.png" group-title="ARGENTINA", CANAL 6 MAR DEL PLATA
+https://59537faa0729a.streamlock.net/canal6mdp/canal6mdp/chunklist_w2001524689.m3u8
+
+#https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png:-200 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/C8MDP.png" group-title="ARGENTINA", CANAL 8 MAR DEL PLATA
+https://stream.arcast.com.ar/c8mdp/ngrp:c8mdp_all/chunklist_w35727400_b1063840.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/52jYn9gs/utntv.jpg" group-title="ARGENTINA", UTNTV
 http://streaming.arcast.com.ar:1935/utntv/utntv/playlist.m3u8
@@ -1328,6 +1331,12 @@ https://streaming02.gbasat.com.ar:19360/bayrestv/bayrestv.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/8c0wYGpj/SANTAFECANAL.png" group-title="ARGENTINA", SANTA FE CANAL
 http://api.new.livestream.com/accounts/22636012/events/8242619/live.m3u8
+
+#EXTINF:-200 tvg-logo="" group-title="ARGENTINA", TV MAX CÓRDOBA
+https://panel.dattalive.com/8106/8106/playlist.m3u8
+
+#EXTINF:-200 tvg-logo="https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png" group-title="ARGENTINA", TELECREATIVA
+https://https://directostv.teleame.com/wp-content/uploads/2017/10/Telecreativa-Canal-5-Lanus-en-vivo-Online.png.dattalive.com/8012/8012/playlist.m3u8
 
 #EXTINF:-200 tvg-logo="https://i.postimg.cc/25fDFDNy/neotv.png" group-title="ARGENTINA", NEO TV
 https://videostream.shockmedia.com.ar:19360/neotvdigital/neotvdigital.m3u8
