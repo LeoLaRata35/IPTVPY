@@ -595,7 +595,7 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5de802659167b10009e
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
 
 #EXTINF:-70 tvg-logo="https://i.postimg.cc/LsCbCN1Z/acsnetwork.png" group-title="CINE Y SERIES", ACS NETWORK
-https://play.amelbasoluciones.co:3257/live/acsnetworklive.m3u8
+https://acs.amelbasoluciones.co:3370/live/acslivelive.m3u8
 
 #EXTINF:-407 tvg-logo="https://viwix.cl/wp-content/uploads/2021/12/VIWIX-TRANSPARENTE-01-1024x385.png" group-title="CINE Y SERIES", VIWIX TV ESTRENOS
 https://s2.tvdatta.com:3172/hybrid/play.m3u8
