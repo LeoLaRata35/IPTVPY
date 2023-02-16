@@ -6,6 +6,9 @@ https://live.limplay.ml/limtv.m3u8
 #EXTINF:-2 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/60/NPY_%28Noticias_Paraguay%29.png" group-title="NACIONALES" ,NPY
 http://170.83.242.152:5350/play/a024
 
+#EXTINF:-2 tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEikNWTfLDOKs8yxUbFjFVWDIdzkV99ky5sHAtR25Xn8HbcjEXpAOQ3oIjMFALu5_Yy-QBzbhn8umqg6SWtE40tvIAC9zWjzB5EOFeam26Z3yls87Iaj9WtZjf5UzxYwi_xs8mp-PuSrMERAw9knInvjb8ZR5Nk9O_rAs7H2stDtdczghM7HfR7ZEcspXw=s587" group-title="NACIONALES" ,NEXT HD PY
+https://live.enhdtv.com:19360/nexthd/nexthd.m3u8
+
 #EXTINF:-3 tvg-logo="https://paraguaype.com/wp-content/uploads/2016/07/tvs-encarnacion-televisora-del-sur-en-vivo-online.jpg" group-title="NACIONALES", TVS
 https://tigocloud.desdeparaguay.net/tvs/tvs/chunklist_w821417915.m3u8?k=1d25209afd7c9b0e4898d35c8295d449ff87b42c53ea4da38aae4d2d9614c9a7&exp=1611679347
 
